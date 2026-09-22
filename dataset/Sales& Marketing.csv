@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2022-100001,09/01/2022,14/01/2022,Standard Class,John Johnson,Corporate,United States,Des Moines,Iowa,Central,Furniture,Tables,Balt Adjustable Standing Desk,1248.72,3,0.15,-65.62
+CA-2022-100002,14/10/2022,21/10/2022,Standard Class,Lisa Thompson,Corporate,United States,New York City,New York,East,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,219.99,1,0.0,-12.0
+CA-2023-100003,26/09/2023,02/10/2023,Standard Class,Donna Walker,Corporate,United States,Salt Lake City,Utah,West,Office Supplies,Paper,Xerox 1967,91.77,3,0.3,6.38
+CA-2023-100004,28/11/2023,04/12/2023,Standard Class,Susan Thompson,Consumer,United States,Denver,Colorado,West,Technology,Storage,Kingston A400 480GB SSD,49.49,1,0.2,5.5
+CA-2022-100005,15/05/2022,22/05/2022,Standard Class,Patricia White,Consumer,United States,Warren,Michigan,Central,Technology,Machines,Bother P-touch Labeler,39.99,1,0.0,4.8
+CA-2023-100006,11/11/2023,17/11/2023,Standard Class,Jessica Green,Consumer,United States,Billings,Montana,West,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,24.68,2,0.7,-8.55
+CA-2020-100007,25/08/2020,30/08/2020,Standard Class,Robert Hall,Consumer,United States,Springfield,Massachusetts,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,95.94,6,0.4,0.0
+CA-2020-100008,22/10/2020,25/10/2020,First Class,David Wright,Consumer,United States,Milwaukee,Wisconsin,Central,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,554.96,4,0.15,-22.5
+CA-2020-100009,27/09/2020,02/10/2020,Second Class,Dorothy Smith,Corporate,United States,Virginia Beach,Virginia,East,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,14.24,1,0.1,3.38
+CA-2023-100010,08/11/2023,15/11/2023,Standard Class,Robert Flores,Consumer,United States,Columbus,Georgia,South,Technology,Copiers,Cisco TelePresence System EX90,47999.94,6,0.0,3840.0
+CA-2022-100011,07/09/2022,11/09/2022,First Class,Nancy King,Home Office,United States,Fort Wayne,Indiana,Central,Technology,Accessories,Logitech MX Master 3 Wireless Mouse,99.99,1,0.0,20.0
+CA-2020-100012,19/08/2020,24/08/2020,Standard Class,John Lewis,Consumer,United States,Dallas,Texas,Central,Furniture,Tables,Bevis Round Table,749.97,3,0.0,-54.0
+CA-2020-100013,19/12/2020,24/12/2020,Standard Class,Margaret Lee,Consumer,United States,Minneapolis,Minnesota,Central,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,29.22,3,0.7,-10.12
+CA-2020-100014,11/07/2020,13/07/2020,First Class,Margaret Taylor,Consumer,United States,Trenton,New Jersey,East,Furniture,Tables,Bretford Rectangular Conference Room Table,1119.98,2,0.4,-0.0
+CA-2022-100015,18/01/2022,20/01/2022,First Class,Donald Jackson,Consumer,United States,New Orleans,Louisiana,South,Technology,Phones,Samsung Galaxy S23,974.98,2,0.7,-90.0
+CA-2021-100016,15/11/2021,22/11/2021,Standard Class,Barbara Thomas,Corporate,United States,Norman,Oklahoma,South,Furniture,Chairs,Lesro Brewster Lounge Chair,1599.96,4,0.0,140.0
+CA-2021-100017,16/01/2021,23/01/2021,Standard Class,Robert Baker,Home Office,United States,Baltimore,Maryland,East,Furniture,Tables,Chromcraft Bull-Nose Round Table,247.49,1,0.5,7.0
+CA-2021-100018,20/09/2021,27/09/2021,Standard Class,Susan Rodriguez,Home Office,United States,Nampa,Idaho,West,Furniture,Storage,Iris Letter Size File Box,74.97,3,0.0,12.6
+CA-2021-100019,03/10/2021,10/10/2021,Standard Class,Steven Martin,Corporate,United States,Atlanta,Georgia,South,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,1044.95,5,0.1,-45.0
+CA-2020-100020,23/11/2020,30/11/2020,Standard Class,Michael Wilson,Home Office,United States,Nampa,Idaho,West,Furniture,Chairs,Lesro Brewster Lounge Chair,399.99,1,0.0,35.0
+CA-2021-100021,22/06/2021,26/06/2021,Second Class,Margaret Thompson,Consumer,United States,Phoenix,Arizona,West,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,659.97,3,0.0,-36.0
+CA-2023-100022,14/08/2023,19/08/2023,Standard Class,Nancy Nelson,Consumer,United States,Springfield,Massachusetts,East,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,15.19,1,0.1,3.6
+CA-2023-100023,02/12/2023,04/12/2023,First Class,Anthony Carter,Corporate,United States,Aurora,Illinois,Central,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,1784.94,6,0.3,105.0
+CA-2023-100024,24/01/2023,27/01/2023,First Class,Michael Hall,Consumer,United States,Grand Rapids,Michigan,Central,Technology,Accessories,Belkin HDMI Cable,18.74,1,0.5,-1.25
+CA-2021-100025,28/11/2021,03/12/2021,Standard Class,Robert Thompson,Consumer,United States,Saint Paul,Minnesota,Central,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,23.97,3,0.4,0.0
+CA-2021-100026,09/01/2021,15/01/2021,Standard Class,Christopher Hernandez,Consumer,United States,Augusta,Maine,East,Office Supplies,Supplies,Avery Printable Postcards,24.04,2,0.15,4.88
+CA-2021-100027,01/10/2021,08/10/2021,Standard Class,Lisa Carter,Consumer,United States,Grand Rapids,Michigan,Central,Furniture,Chairs,Global Adaptabilities Collection Chair,341.98,2,0.2,18.2
+CA-2021-100028,18/10/2021,24/10/2021,Standard Class,Elizabeth Carter,Corporate,United States,Rochester,Minnesota,Central,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,31.98,2,0.0,9.6
+CA-2023-100029,11/09/2023,17/09/2023,Standard Class,David Garcia,Corporate,United States,Cedar Rapids,Iowa,Central,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,11.19,1,0.6,-1.6
+CA-2021-100030,26/05/2021,31/05/2021,Standard Class,Robert Wright,Home Office,United States,Newark,Delaware,East,Office Supplies,Labels,Pres-a-ply Labels,36.06,3,0.15,7.31
+CA-2021-100031,01/10/2021,03/10/2021,First Class,Dorothy Wright,Corporate,United States,Detroit,Michigan,Central,Furniture,Tables,Bretford Rectangular Conference Room Table,1189.98,2,0.3,-27.5
+CA-2022-100032,20/12/2022,26/12/2022,Standard Class,Kimberly King,Home Office,United States,Cedar Rapids,Iowa,Central,Technology,Storage,SanDisk Extreme Portable 1TB SSD,186.98,2,0.3,11.0
+CA-2023-100033,25/05/2023,01/06/2023,Standard Class,Jessica Thompson,Corporate,United States,Wilmington,Delaware,East,Office Supplies,Supplies,Avery Printable Postcards,12.99,1,0.0,3.9
+CA-2022-100034,03/10/2022,09/10/2022,Standard Class,Anthony Hall,Consumer,United States,Salt Lake City,Utah,West,Technology,Computers,Apple MacBook Pro 14 inch,8499.95,5,0.3,200.0
+CA-2021-100035,12/01/2021,18/01/2021,Standard Class,Paul Baker,Corporate,United States,Greenville,South Carolina,South,Technology,Accessories,Belkin HDMI Cable,23.12,1,0.15,3.12
+CA-2021-100036,26/10/2021,31/10/2021,Standard Class,Betty Nelson,Corporate,United States,Cincinnati,Ohio,Central,Office Supplies,Binders,Avery Durable Binders,47.97,3,0.0,14.4
+CA-2022-100037,13/01/2022,19/01/2022,Standard Class,Anthony Martin,Corporate,United States,Provo,Utah,West,Technology,Accessories,Logitech MX Master 3 Wireless Mouse,399.96,4,0.0,80.0
+CA-2023-100038,03/04/2023,08/04/2023,Second Class,Mary Carter,Consumer,United States,New York City,New York,East,Furniture,Tables,Chromcraft Bull-Nose Round Table,915.72,3,0.15,-52.5
+CA-2021-100039,25/10/2021,01/11/2021,Standard Class,Michael Nelson,Home Office,United States,Chicago,Illinois,Central,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,314.97,3,0.6,13.5
+CA-2021-100040,03/10/2021,10/10/2021,Standard Class,Linda Adams,Corporate,United States,New Haven,Connecticut,East,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,360.98,2,0.1,34.2
+CA-2022-100041,28/06/2022,04/07/2022,Standard Class,Sandra Martinez,Home Office,United States,Richmond,Virginia,East,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,22.47,3,0.5,-2.25
+CA-2023-100042,27/07/2023,31/07/2023,Second Class,Mark Harris,Consumer,United States,Las Vegas,Nevada,West,Technology,Computers,HP Pavilion Desktop,1017.48,2,0.15,55.0
+CA-2021-100043,12/08/2021,16/08/2021,Second Class,Kimberly Smith,Home Office,United States,Bangor,Maine,East,Office Supplies,Labels,Avery Address Labels,14.24,1,0.1,3.38
+CA-2022-100044,16/04/2022,20/04/2022,Second Class,Betty Harris,Consumer,United States,Los Angeles,California,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,29.58,2,0.15,4.0
+CA-2021-100045,11/10/2021,17/10/2021,Standard Class,Richard Rodriguez,Consumer,United States,Bridgeport,Connecticut,East,Furniture,Furnishings,Deflecto Stackable Cube Organizer,19.79,1,0.2,2.25
+CA-2021-100046,25/09/2021,01/10/2021,Standard Class,Elizabeth Clark,Consumer,United States,Baton Rouge,Louisiana,South,Furniture,Furnishings,Deflecto Stackable Cube Organizer,14.29,1,0.7,-3.38
+CA-2022-100047,05/10/2022,09/10/2022,Second Class,Donald King,Consumer,United States,Rochester,New York,East,Office Supplies,Binders,Cardinal Slant D Ring Binder,74.04,6,0.1,17.55
+CA-2023-100048,03/07/2023,10/07/2023,Standard Class,Jennifer Harris,Home Office,United States,Springfield,Massachusetts,East,Furniture,Storage,Iris Letter Size File Box,94.96,4,0.1,12.6
+CA-2023-100049,19/05/2023,20/05/2023,Same Day,Michael Jackson,Home Office,United States,San Jose,California,West,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,18.99,1,0.0,5.7
+CA-2022-100050,14/03/2022,21/03/2022,Standard Class,Charles Wright,Consumer,United States,San Francisco,California,West,Furniture,Tables,Bevis Round Table,924.96,4,0.15,-45.0
+CA-2022-100051,14/12/2022,19/12/2022,Standard Class,David Clark,Consumer,United States,Indianapolis,Indiana,Central,Office Supplies,Envelopes,Jiffy Padded Mailers,20.69,1,0.2,3.45
+CA-2022-100052,17/12/2022,23/12/2022,Standard Class,Kenneth Martin,Corporate,United States,Buffalo,New York,East,Furniture,Tables,Balt Adjustable Standing Desk,1349.97,3,0.0,-105.0
+CA-2023-100053,19/11/2023,24/11/2023,Standard Class,Emily Hernandez,Consumer,United States,Missoula,Montana,West,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,28.48,2,0.1,6.75
+CA-2021-100054,06/02/2021,13/02/2021,Standard Class,Jennifer Rodriguez,Consumer,United States,Ogden,Utah,West,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,195.45,5,0.3,4.88
+CA-2020-100055,15/11/2020,20/11/2020,Standard Class,Patricia Jackson,Corporate,United States,Casper,Wyoming,West,Furniture,Tables,Bevis Round Table,449.98,2,0.2,-18.0
+CA-2020-100056,20/12/2020,25/12/2020,Second Class,Jennifer White,Corporate,United States,Baltimore,Maryland,East,Technology,Phones,Cisco IP Phone 7945,1187.94,6,0.2,55.5
+CA-2020-100057,10/12/2020,16/12/2020,Standard Class,Kimberly Martinez,Consumer,United States,Missoula,Montana,West,Office Supplies,Supplies,Avery Printable Postcards,64.95,5,0.0,19.5
+CA-2023-100058,26/07/2023,31/07/2023,Standard Class,Ashley Martinez,Corporate,United States,Mesa,Arizona,West,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,33.98,2,0.3,3.0
+CA-2021-100059,28/12/2021,04/01/2022,Standard Class,Anthony Williams,Home Office,United States,Charlotte,North Carolina,East,Furniture,Storage,Storex Plastic Stacking Shelf,62.98,2,0.2,5.5
+CA-2023-100060,16/12/2023,16/12/2023,Same Day,Mark Miller,Home Office,United States,Casper,Wyoming,West,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,42.72,3,0.1,10.12
+CA-2022-100061,16/03/2022,20/03/2022,Second Class,Lisa Flores,Consumer,United States,Ogden,Utah,West,Office Supplies,Fasteners,Universal Binder Clips,20.37,3,0.3,1.8
+CA-2023-100062,03/01/2023,10/01/2023,Standard Class,Michael Miller,Consumer,United States,Shreveport,Louisiana,South,Office Supplies,Envelopes,Poly String Tie Envelopes,14.44,1,0.3,1.27
+CA-2021-100063,05/06/2021,11/06/2021,Standard Class,Donna Hall,Consumer,United States,Portland,Oregon,West,Office Supplies,Labels,3M Self Stick Notes,54.95,5,0.0,16.5
+CA-2022-100064,09/05/2022,13/05/2022,Second Class,Daniel Nelson,Consumer,United States,Oklahoma City,Oklahoma,South,Furniture,Storage,Advantus Super Stacker Divided Storage Box,37.98,2,0.1,5.7
+CA-2023-100065,04/11/2023,11/11/2023,Standard Class,Betty Thompson,Consumer,United States,Mesa,Arizona,West,Furniture,Chairs,Lesro Brewster Lounge Chair,1279.96,4,0.4,0.0
+CA-2023-100066,08/11/2023,12/11/2023,Second Class,William Miller,Consumer,United States,Trenton,New Jersey,East,Technology,Storage,Seagate Backup Plus 2TB External HDD,151.98,2,0.1,24.0
+CA-2022-100067,03/10/2022,06/10/2022,First Class,Paul Walker,Consumer,United States,Columbus,Ohio,Central,Office Supplies,Envelopes,Poly String Tie Envelopes,14.44,1,0.3,1.27
+CA-2022-100068,24/11/2022,26/11/2022,First Class,Joseph Allen,Corporate,United States,Seattle,Washington,West,Technology,Computers,Lenovo ThinkPad X1 Carbon,1234.99,1,0.1,78.0
+CA-2021-100069,12/03/2021,17/03/2021,Second Class,Michael White,Home Office,United States,Greensboro,North Carolina,East,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,49.95,5,0.0,15.0
+CA-2020-100070,23/11/2020,29/11/2020,Standard Class,Ashley Davis,Consumer,United States,New York City,New York,East,Furniture,Furnishings,Deflecto Stackable Cube Organizer,41.78,2,0.1,6.75
+CA-2023-100071,18/10/2023,25/10/2023,Standard Class,Ashley Carter,Consumer,United States,Rochester,Minnesota,Central,Office Supplies,Envelopes,Poly String Tie Envelopes,50.97,3,0.0,15.3
+CA-2021-100072,12/04/2021,19/04/2021,Standard Class,Richard Davis,Consumer,United States,Denver,Colorado,West,Technology,Accessories,Logitech MX Master 3 Wireless Mouse,269.97,3,0.2,30.0
+CA-2022-100073,26/01/2022,31/01/2022,Standard Class,Kimberly Jackson,Home Office,United States,Detroit,Michigan,Central,Office Supplies,Labels,3M Self Stick Notes,37.36,4,0.3,3.3
+CA-2022-100074,05/05/2022,07/05/2022,Same Day,Mary Wilson,Corporate,United States,Boston,Massachusetts,East,Furniture,Tables,Balt Adjustable Standing Desk,899.98,2,0.0,-70.0
+CA-2020-100075,17/10/2020,22/10/2020,Standard Class,Mark Nguyen,Corporate,United States,Aurora,Colorado,West,Furniture,Furnishings,Advantus Map Pins,20.22,3,0.5,-1.58
+CA-2022-100076,21/05/2022,21/05/2022,Same Day,Ashley King,Corporate,United States,Charleston,South Carolina,South,Furniture,Chairs,Global Adaptabilities Collection Chair,569.97,3,0.0,54.6
+CA-2021-100077,18/09/2021,22/09/2021,Second Class,Kenneth Hernandez,Consumer,United States,Tulsa,Oklahoma,South,Furniture,Chairs,Lesro Brewster Lounge Chair,1199.97,3,0.0,105.0
+CA-2022-100078,11/04/2022,14/04/2022,First Class,Thomas Walker,Consumer,United States,Spokane,Washington,West,Technology,Storage,SanDisk Extreme Portable 1TB SSD,87.99,1,0.4,0.0
+CA-2020-100079,24/02/2020,29/02/2020,Standard Class,Linda Young,Corporate,United States,Laramie,Wyoming,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,88.74,6,0.15,18.0
+CA-2021-100080,07/09/2021,13/09/2021,Standard Class,Nancy Davis,Home Office,United States,Pittsburgh,Pennsylvania,East,Technology,Computers,Dell Inspiron 15 3000,2239.96,4,0.4,0.0
+CA-2023-100081,20/11/2023,25/11/2023,Second Class,Karen Lewis,Consumer,United States,Bridgeport,Connecticut,East,Office Supplies,Art,Binney Smith Crayola Crayons,22.77,3,0.1,5.4
+CA-2020-100082,01/09/2020,08/09/2020,Standard Class,Nancy Clark,Consumer,United States,Raleigh,North Carolina,East,Technology,Computers,Apple MacBook Pro 14 inch,9999.95,5,0.0,800.0
+CA-2023-100083,03/01/2023,10/01/2023,Standard Class,Susan Nguyen,Consumer,United States,Casper,Wyoming,West,Furniture,Storage,Eldon Fold N Roll Cart System,71.99,1,0.2,4.75
+CA-2022-100084,02/10/2022,09/10/2022,Standard Class,William Martin,Home Office,United States,Jersey City,New Jersey,East,Furniture,Chairs,Hon 5400 Series Task Chair,151.98,2,0.1,10.2
+CA-2020-100085,08/08/2020,15/08/2020,Standard Class,John Hernandez,Home Office,United States,Aurora,Illinois,Central,Furniture,Chairs,Global Adaptabilities Collection Chair,527.22,3,0.15,34.12
+CA-2022-100086,04/07/2022,10/07/2022,Standard Class,Nancy Garcia,Home Office,United States,Augusta,Maine,East,Office Supplies,Paper,Hammermill Copy Plus Paper,56.98,2,0.1,10.8
+CA-2020-100087,24/11/2020,30/11/2020,Standard Class,Dorothy Nguyen,Corporate,United States,Rockford,Illinois,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,229.47,3,0.3,-3.75
+CA-2023-100088,05/04/2023,10/04/2023,Standard Class,Ashley Wright,Home Office,United States,Chicago,Illinois,Central,Technology,Computers,HP Pavilion Desktop,1237.47,3,0.5,-33.0
+CA-2022-100089,11/12/2022,15/12/2022,First Class,Karen Thompson,Consumer,United States,Billings,Montana,West,Office Supplies,Fasteners,Universal Binder Clips,7.59,1,0.1,1.8
+CA-2020-100090,10/06/2020,15/06/2020,Standard Class,Kimberly Williams,Consumer,United States,Cedar Rapids,Iowa,Central,Office Supplies,Labels,3M Self Stick Notes,30.51,3,0.15,6.19
+CA-2023-100091,26/07/2023,29/07/2023,First Class,John Harris,Corporate,United States,Columbus,Georgia,South,Technology,Accessories,Kingston DataTraveler 32GB USB,25.98,2,0.0,5.2
+CA-2021-100092,14/05/2021,19/05/2021,Second Class,Kimberly Hall,Consumer,United States,Denver,Colorado,West,Furniture,Furnishings,Deflecto Stackable Cube Organizer,40.68,2,0.15,5.62
+CA-2020-100093,21/06/2020,25/06/2020,Second Class,Lisa Wilson,Corporate,United States,Pittsburgh,Pennsylvania,East,Technology,Storage,Kingston A400 480GB SSD,274.95,5,0.0,55.0
+CA-2022-100094,01/08/2022,06/08/2022,Standard Class,William Martinez,Consumer,United States,Memphis,Tennessee,South,Furniture,Chairs,Lesro Brewster Lounge Chair,1279.96,4,0.4,0.0
+CA-2023-100095,11/01/2023,15/01/2023,First Class,Donna Anderson,Consumer,United States,Charlotte,North Carolina,East,Technology,Phones,Cisco IP Phone 7945,395.98,2,0.2,18.5
+CA-2023-100096,25/09/2023,29/09/2023,Second Class,Donald Thomas,Home Office,United States,Jersey City,New Jersey,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,67.96,4,0.3,6.0
+CA-2022-100097,06/07/2022,10/07/2022,First Class,Nancy Green,Corporate,United States,Bridgeport,Connecticut,East,Technology,Storage,Kingston A400 480GB SSD,274.95,5,0.0,55.0
+CA-2023-100098,17/05/2023,23/05/2023,Standard Class,Mary Young,Home Office,United States,Jersey City,New Jersey,East,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,10.39,1,0.7,-2.4
+CA-2021-100099,04/01/2021,08/01/2021,First Class,Donald Wilson,Consumer,United States,Portland,Oregon,West,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,33.72,3,0.5,-2.25
+CA-2020-100100,05/04/2020,12/04/2020,Standard Class,Jessica Clark,Corporate,United States,Minneapolis,Minnesota,Central,Furniture,Tables,Chromcraft Bull-Nose Round Table,915.72,3,0.15,-52.5
+CA-2020-100101,16/11/2020,21/11/2020,Standard Class,Charles Hernandez,Corporate,United States,Wichita,Kansas,Central,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,659.97,3,0.0,-36.0
+CA-2022-100102,12/08/2022,19/08/2022,Standard Class,Donald Williams,Consumer,United States,Meridian,Idaho,West,Office Supplies,Fasteners,Staples 3 Ring Binder,34.16,4,0.1,8.1
+CA-2020-100103,22/04/2020,27/04/2020,Second Class,Paul Lewis,Consumer,United States,Milwaukee,Wisconsin,Central,Technology,Copiers,Cisco TelePresence System EX90,53199.93,7,0.1,3360.0
+CA-2020-100104,23/03/2020,27/03/2020,Second Class,John Rodriguez,Corporate,United States,Newark,New Jersey,East,Technology,Computers,HP Pavilion Desktop,3561.18,7,0.15,192.5
+CA-2021-100105,07/10/2021,12/10/2021,Standard Class,Nancy Hernandez,Consumer,United States,Memphis,Tennessee,South,Technology,Storage,SanDisk Extreme Portable 1TB SSD,522.45,5,0.1,82.5
+CA-2023-100106,16/08/2023,23/08/2023,Standard Class,Margaret Baker,Consumer,United States,Allentown,Pennsylvania,East,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,199.98,2,0.0,40.0
+CA-2022-100107,20/05/2022,23/05/2022,Second Class,Daniel Carter,Consumer,United States,Madison,Wisconsin,Central,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,930.93,7,0.6,-79.8
+CA-2020-100108,12/09/2020,19/09/2020,Standard Class,Mark Williams,Home Office,United States,Dallas,Texas,Central,Furniture,Tables,Bevis Round Table,349.98,2,0.6,18.0
+CA-2020-100109,15/03/2020,16/03/2020,Same Day,Nancy Allen,Consumer,United States,Tacoma,Washington,West,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,1319.94,6,0.0,-72.0
+CA-2020-100110,18/08/2020,24/08/2020,Standard Class,Ashley Thomas,Consumer,United States,Warren,Michigan,Central,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,41.39,1,0.2,1.95
+CA-2023-100111,28/11/2023,30/11/2023,Same Day,Karen Anderson,Corporate,United States,Tacoma,Washington,West,Technology,Storage,Kingston A400 480GB SSD,52.24,1,0.1,8.25
+CA-2021-100112,26/12/2021,01/01/2022,Standard Class,Kimberly Wilson,Consumer,United States,Rockville,Maryland,East,Office Supplies,Paper,Xerox 1967,46.78,2,0.7,-12.75
+CA-2022-100113,25/08/2022,01/09/2022,Standard Class,Sandra Hill,Consumer,United States,Richmond,Virginia,East,Office Supplies,Supplies,Avery Printable Postcards,51.96,4,0.0,15.6
+CA-2022-100114,27/11/2022,02/12/2022,Standard Class,Joseph Lee,Home Office,United States,Eugene,Oregon,West,Technology,Computers,Lenovo ThinkPad X1 Carbon,5199.96,4,0.0,416.0
+CA-2022-100115,05/08/2022,10/08/2022,Second Class,Emily Martinez,Consumer,United States,Meridian,Idaho,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,59.16,4,0.15,8.0
+CA-2023-100116,02/01/2023,04/01/2023,Same Day,Mary Torres,Consumer,United States,Trenton,New Jersey,East,Technology,Computers,Lenovo ThinkPad X1 Carbon,3704.97,3,0.1,234.0
+CA-2021-100117,13/11/2021,18/11/2021,Standard Class,Sandra Jackson,Consumer,United States,Cleveland,Ohio,Central,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,61.7,5,0.1,14.62
+CA-2023-100118,13/06/2023,19/06/2023,Standard Class,Linda Thompson,Consumer,United States,Spokane,Washington,West,Office Supplies,Art,Binney Smith Crayola Crayons,5.59,1,0.6,-1.2
+CA-2023-100119,28/07/2023,31/07/2023,First Class,Ashley Nguyen,Corporate,United States,Nashville,Tennessee,South,Office Supplies,Envelopes,Jiffy Padded Mailers,16.09,1,0.6,-3.45
+CA-2022-100120,07/12/2022,12/12/2022,Standard Class,Donald Robinson,Home Office,United States,Newark,Delaware,East,Office Supplies,Paper,S P Richards Company Colored Paper,22.99,1,0.0,6.2
+CA-2021-100121,02/07/2021,09/07/2021,Standard Class,Matthew Nguyen,Consumer,United States,Aurora,Colorado,West,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,36.96,4,0.15,7.5
+CA-2022-100122,04/03/2022,10/03/2022,Standard Class,Steven Allen,Consumer,United States,Denver,Colorado,West,Office Supplies,Binders,Avery Durable Binders,15.19,1,0.1,3.6
+CA-2022-100123,20/07/2022,22/07/2022,First Class,Donna Clark,Consumer,United States,Casper,Wyoming,West,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,29.97,3,0.0,9.0
+CA-2023-100124,22/06/2023,28/06/2023,Standard Class,Emily Adams,Consumer,United States,San Jose,California,West,Furniture,Chairs,Lesro Brewster Lounge Chair,739.98,2,0.15,43.75
+CA-2022-100125,13/11/2022,20/11/2022,Standard Class,Mary King,Consumer,United States,Bangor,Maine,East,Furniture,Tables,Chromcraft Bull-Nose Round Table,940.47,3,0.1,-63.0
+CA-2023-100126,28/12/2023,01/01/2024,First Class,Christopher Scott,Consumer,United States,Springfield,Massachusetts,East,Office Supplies,Fasteners,Advantus Push Pins,11.08,2,0.15,2.25
+CA-2022-100127,28/10/2022,02/11/2022,Second Class,Jessica Thompson,Consumer,United States,Evansville,Indiana,Central,Office Supplies,Labels,3M Self Stick Notes,39.56,4,0.2,6.6
+CA-2022-100128,16/08/2022,23/08/2022,Standard Class,Matthew Allen,Corporate,United States,Allentown,Pennsylvania,East,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,69.99,1,0.6,-10.0
+CA-2020-100129,21/12/2020,27/12/2020,Standard Class,Sarah Wilson,Home Office,United States,Annapolis,Maryland,East,Furniture,Furnishings,Deflecto Stackable Cube Organizer,19.79,1,0.2,2.25
+CA-2022-100130,02/09/2022,08/09/2022,Standard Class,James Green,Corporate,United States,Rockford,Illinois,Central,Technology,Copiers,Cisco TelePresence System EX90,17999.97,3,0.5,-480.0
+CA-2022-100131,25/10/2022,26/10/2022,Same Day,Joseph Flores,Corporate,United States,Los Angeles,California,West,Technology,Phones,Samsung Galaxy S23,1199.98,2,0.4,0.0
+CA-2023-100132,27/01/2023,02/02/2023,Standard Class,Andrew Baker,Consumer,United States,Bridgeport,Connecticut,East,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,161.98,2,0.2,-5.0
+CA-2022-100133,05/12/2022,08/12/2022,First Class,Sandra Martin,Consumer,United States,Pittsburgh,Pennsylvania,East,Technology,Phones,Motorola Moto G Stylus,1109.96,4,0.15,60.0
+CA-2023-100134,28/03/2023,01/04/2023,Second Class,Michael Taylor,Consumer,United States,Cedar Rapids,Iowa,Central,Technology,Accessories,APC Essential SurgeArrest 6,209.94,6,0.0,42.0
+CA-2021-100135,09/07/2021,10/07/2021,Same Day,Nancy Harris,Consumer,United States,Cheyenne,Wyoming,West,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,87.38,2,0.1,5.85
+CA-2022-100136,23/12/2022,28/12/2022,Second Class,Joseph Wilson,Corporate,United States,Hartford,Connecticut,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,36.98,2,0.15,7.5
+CA-2022-100137,22/08/2022,24/08/2022,First Class,Dorothy Walker,Corporate,United States,Wichita,Kansas,Central,Furniture,Furnishings,Advantus Map Pins,8.32,1,0.15,1.31
+CA-2022-100138,05/09/2022,12/09/2022,Standard Class,Jennifer Nguyen,Corporate,United States,Henderson,Nevada,West,Office Supplies,Binders,Fellowes Binder,18.99,1,0.1,4.35
+CA-2022-100139,22/09/2022,26/09/2022,First Class,Emily Jones,Corporate,United States,Bridgeport,Connecticut,East,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,97.49,1,0.7,6.75
+CA-2023-100140,16/02/2023,22/02/2023,Standard Class,Anthony Walker,Home Office,United States,Springfield,Massachusetts,East,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,56.2,5,0.5,-3.75
+CA-2021-100141,22/10/2021,24/10/2021,First Class,Paul Allen,Consumer,United States,Milwaukee,Wisconsin,Central,Office Supplies,Labels,Avery Address Labels,38.96,4,0.7,-13.5
+CA-2022-100142,14/10/2022,19/10/2022,Standard Class,Linda Williams,Consumer,United States,Virginia Beach,Virginia,East,Technology,Accessories,Kingston DataTraveler 32GB USB,38.96,4,0.5,-2.6
+CA-2020-100143,04/04/2020,10/04/2020,Standard Class,Betty King,Corporate,United States,San Francisco,California,West,Furniture,Tables,Bretford Rectangular Conference Room Table,454.99,1,0.7,41.25
+CA-2021-100144,19/12/2021,26/12/2021,Standard Class,Barbara Hill,Consumer,United States,Milwaukee,Wisconsin,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,62.99,1,0.6,2.5
+CA-2023-100145,21/12/2023,26/12/2023,Second Class,Dorothy Rodriguez,Corporate,United States,Aurora,Colorado,West,Technology,Accessories,Belkin HDMI Cable,24.99,1,0.0,5.0
+CA-2022-100146,08/04/2022,15/04/2022,Standard Class,Anthony Green,Corporate,United States,Wilmington,Delaware,East,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,15.19,1,0.1,3.6
+CA-2020-100147,12/07/2020,19/07/2020,Standard Class,Kenneth Baker,Consumer,United States,San Antonio,Texas,Central,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,850.96,4,0.15,56.25
+CA-2022-100148,07/04/2022,10/04/2022,First Class,Linda Scott,Home Office,United States,San Francisco,California,West,Technology,Storage,Kingston A400 480GB SSD,156.72,3,0.1,24.75
+CA-2021-100149,10/06/2021,17/06/2021,Standard Class,Ashley Wright,Consumer,United States,Fort Wayne,Indiana,Central,Furniture,Storage,Advantus Super Stacker Divided Storage Box,94.95,5,0.1,14.25
+CA-2021-100150,08/09/2021,11/09/2021,Second Class,Charles Martinez,Corporate,United States,Bangor,Maine,East,Furniture,Tables,Chromcraft Bull-Nose Round Table,989.97,3,0.0,-84.0
+CA-2022-100151,11/12/2022,17/12/2022,Standard Class,Daniel Anderson,Consumer,United States,Fort Smith,Arkansas,South,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,37.49,1,0.5,-1.88
+CA-2023-100152,17/12/2023,22/12/2023,Standard Class,Joseph Jones,Consumer,United States,Miami,Florida,South,Technology,Phones,Samsung Galaxy S23,1424.98,2,0.1,90.0
+CA-2022-100153,20/10/2022,24/10/2022,First Class,James Johnson,Corporate,United States,San Jose,California,West,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,113.94,6,0.0,34.2
+CA-2023-100154,26/10/2023,28/10/2023,First Class,Richard Carter,Consumer,United States,Allentown,Pennsylvania,East,Office Supplies,Fasteners,Staples 3 Ring Binder,35.96,4,0.0,10.8
+CA-2023-100155,08/07/2023,08/07/2023,Same Day,John Garcia,Home Office,United States,Tacoma,Washington,West,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,18.99,1,0.0,5.7
+CA-2020-100156,14/08/2020,18/08/2020,Second Class,Joseph Jackson,Home Office,United States,Tacoma,Washington,West,Technology,Storage,Kingston A400 480GB SSD,109.98,2,0.0,22.0
+CA-2020-100157,18/12/2020,23/12/2020,Standard Class,Emily Martinez,Home Office,United States,Virginia Beach,Virginia,East,Technology,Storage,SanDisk Extreme Portable 1TB SSD,549.95,5,0.0,110.0
+CA-2022-100158,28/09/2022,05/10/2022,Standard Class,Steven Lee,Corporate,United States,Salem,Oregon,West,Furniture,Storage,Iris Letter Size File Box,94.96,4,0.1,12.6
+CA-2023-100159,13/12/2023,14/12/2023,Same Day,Daniel Green,Consumer,United States,Hartford,Connecticut,East,Technology,Accessories,Belkin HDMI Cable,67.47,3,0.2,7.5
+CA-2020-100160,26/09/2020,01/10/2020,Standard Class,Barbara Hall,Corporate,United States,Worcester,Massachusetts,East,Furniture,Chairs,Hon 5400 Series Task Chair,75.99,1,0.1,5.1
+CA-2021-100161,05/05/2021,11/05/2021,Standard Class,Mary Garcia,Consumer,United States,Meridian,Idaho,West,Office Supplies,Paper,Avery Laser Labels,94.95,5,0.0,27.5
+CA-2021-100162,24/11/2021,26/11/2021,First Class,William Thompson,Consumer,United States,Salem,Oregon,West,Furniture,Storage,Iris Letter Size File Box,23.74,1,0.1,3.15
+CA-2021-100163,03/08/2021,08/08/2021,Standard Class,Sandra Miller,Corporate,United States,Springfield,Missouri,Central,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,85.08,2,0.15,4.88
+CA-2023-100164,11/06/2023,18/06/2023,Standard Class,Richard Scott,Consumer,United States,Montgomery,Alabama,South,Furniture,Storage,Advantus Super Stacker Divided Storage Box,17.99,1,0.2,1.9
+CA-2022-100165,08/09/2022,14/09/2022,Standard Class,Andrew Thomas,Consumer,United States,Saint Paul,Minnesota,Central,Office Supplies,Supplies,Avery Printable Postcards,36.06,3,0.15,7.31
+CA-2023-100166,23/07/2023,29/07/2023,Standard Class,William Clark,Corporate,United States,Aurora,Illinois,Central,Furniture,Tables,Chromcraft Bull-Nose Round Table,1319.96,4,0.0,-112.0
+CA-2023-100167,13/08/2023,20/08/2023,Standard Class,Paul Baker,Corporate,United States,San Diego,California,West,Office Supplies,Paper,Xerox 1967,129.56,4,0.2,17.0
+CA-2021-100168,02/10/2021,09/10/2021,Standard Class,Margaret Miller,Home Office,United States,Saint Paul,Minnesota,Central,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,406.98,2,0.15,-15.0
+CA-2022-100169,15/09/2022,21/09/2022,Standard Class,Daniel Johnson,Consumer,United States,Kansas City,Kansas,Central,Office Supplies,Envelopes,Jiffy Padded Mailers,114.95,5,0.0,34.5
+CA-2023-100170,12/10/2023,18/10/2023,Standard Class,Michael King,Consumer,United States,Cedar Rapids,Iowa,Central,Technology,Accessories,APC Essential SurgeArrest 6,34.99,1,0.0,7.0
+CA-2022-100171,11/01/2022,16/01/2022,Second Class,David Lewis,Consumer,United States,Warren,Michigan,Central,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,55.48,4,0.15,11.25
+CA-2020-100172,13/10/2020,20/10/2020,Standard Class,James Jackson,Consumer,United States,Fayetteville,Arkansas,South,Furniture,Chairs,Lesro Brewster Lounge Chair,319.99,1,0.4,0.0
+CA-2020-100173,15/06/2020,22/06/2020,Standard Class,Matthew Carter,Consumer,United States,Norman,Oklahoma,South,Office Supplies,Paper,Avery Laser Labels,36.08,2,0.1,8.25
+CA-2020-100174,26/10/2020,02/11/2020,Standard Class,Karen Davis,Consumer,United States,Eugene,Oregon,West,Furniture,Tables,Balt Adjustable Standing Desk,832.48,2,0.15,-43.75
+CA-2022-100175,16/07/2022,21/07/2022,Second Class,Charles Wilson,Consumer,United States,Huntsville,Alabama,South,Furniture,Storage,Eldon Fold N Roll Cart System,279.95,5,0.6,-23.75
+CA-2022-100176,13/04/2022,15/04/2022,Same Day,Mark Torres,Consumer,United States,Rochester,Minnesota,Central,Furniture,Furnishings,Advantus Map Pins,35.96,4,0.0,8.4
+CA-2020-100177,10/04/2020,16/04/2020,Standard Class,Andrew Davis,Consumer,United States,Great Falls,Montana,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,27.18,2,0.3,1.6
+CA-2023-100178,07/07/2023,07/07/2023,Same Day,John King,Home Office,United States,Grand Rapids,Michigan,Central,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,229.95,5,0.0,19.5
+CA-2023-100179,24/04/2023,30/04/2023,Standard Class,Donna Wilson,Consumer,United States,Bowling Green,Kentucky,South,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,1803.72,3,0.15,243.75
+CA-2022-100180,23/03/2022,30/03/2022,Standard Class,William Young,Corporate,United States,Rockville,Maryland,East,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,151.99,1,0.4,0.0
+CA-2021-100181,27/10/2021,03/11/2021,Standard Class,Anthony Hall,Corporate,United States,Salem,Oregon,West,Office Supplies,Paper,S P Richards Company Colored Paper,45.98,2,0.0,12.4
+CA-2023-100182,16/06/2023,21/06/2023,Standard Class,Daniel Jones,Home Office,United States,Columbus,Georgia,South,Technology,Accessories,Belkin HDMI Cable,127.44,6,0.3,7.5
+CA-2022-100183,10/06/2022,17/06/2022,Standard Class,Patricia Williams,Home Office,United States,Dover,Delaware,East,Furniture,Storage,Eldon Fold N Roll Cart System,63.99,1,0.4,0.0
+CA-2021-100184,14/01/2021,21/01/2021,Standard Class,Sarah Garcia,Home Office,United States,Jackson,Mississippi,South,Office Supplies,Envelopes,Poly String Tie Envelopes,25.48,2,0.5,-2.55
+CA-2020-100185,10/07/2020,13/07/2020,Second Class,Susan Scott,Consumer,United States,Tacoma,Washington,West,Furniture,Furnishings,Deflecto Stackable Cube Organizer,41.78,2,0.1,6.75
+CA-2020-100186,04/06/2020,05/06/2020,Same Day,Jennifer Miller,Consumer,United States,Kansas City,Missouri,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,76.49,1,0.3,-1.25
+CA-2023-100187,22/03/2023,29/03/2023,Standard Class,Daniel Jackson,Consumer,United States,Laramie,Wyoming,West,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,37.02,3,0.1,8.77
+CA-2021-100188,05/12/2021,10/12/2021,Second Class,William Harris,Consumer,United States,Madison,Wisconsin,Central,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,638.22,3,0.15,42.19
+CA-2022-100189,23/11/2022,30/11/2022,Standard Class,Richard Allen,Corporate,United States,Shreveport,Louisiana,South,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,459.98,2,0.0,45.0
+CA-2022-100190,17/09/2022,19/09/2022,First Class,Andrew Young,Consumer,United States,Nashville,Tennessee,South,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,66.24,6,0.3,5.85
+CA-2020-100191,09/02/2020,14/02/2020,Standard Class,Steven Young,Consumer,United States,Greenville,South Carolina,South,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,44.37,3,0.15,9.0
+CA-2020-100192,03/02/2020,08/02/2020,Standard Class,Emily Jones,Consumer,United States,Huntsville,Alabama,South,Furniture,Storage,Iris Letter Size File Box,24.99,1,0.0,4.2
+CA-2021-100193,20/07/2021,27/07/2021,Standard Class,William Smith,Consumer,United States,Columbus,Ohio,Central,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,254.98,2,0.3,-4.5
+CA-2021-100194,24/06/2021,28/06/2021,Second Class,Margaret Thompson,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,105.42,6,0.15,21.38
+CA-2022-100195,02/08/2022,09/08/2022,Standard Class,Andrew Davis,Corporate,United States,Worcester,Massachusetts,East,Furniture,Furnishings,Advantus Map Pins,7.19,1,0.4,0.0
+CA-2021-100196,13/08/2021,15/08/2021,First Class,Anthony White,Corporate,United States,Fort Lauderdale,Florida,South,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,18.99,1,0.0,5.7
+CA-2021-100197,02/08/2021,09/08/2021,Standard Class,Charles Clark,Home Office,United States,Columbia,South Carolina,South,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,9.99,1,0.0,3.0
+CA-2022-100198,20/05/2022,26/05/2022,Standard Class,Paul Harris,Corporate,United States,Billings,Montana,West,Furniture,Storage,Eldon Fold N Roll Cart System,75.99,1,0.1,7.12
+CA-2023-100199,11/11/2023,18/11/2023,Standard Class,Jessica Young,Consumer,United States,Phoenix,Arizona,West,Office Supplies,Binders,Wilson Jones WLJF98 Hanging File Folder Binder,68.97,3,0.0,19.5
+CA-2023-100200,17/12/2023,23/12/2023,Standard Class,William Allen,Consumer,United States,Tacoma,Washington,West,Furniture,Furnishings,Advantus Map Pins,11.68,2,0.7,-3.15
+CA-2021-100201,11/05/2021,14/05/2021,First Class,Joseph Jones,Consumer,United States,Madison,Wisconsin,Central,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,649.99,1,0.0,130.0
+CA-2022-100202,18/07/2022,23/07/2022,Standard Class,Jennifer Anderson,Home Office,United States,Missoula,Montana,West,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,569.97,3,0.0,68.4
+CA-2023-100203,03/06/2023,07/06/2023,Second Class,Elizabeth Johnson,Consumer,United States,San Diego,California,West,Technology,Accessories,Kingston DataTraveler 32GB USB,51.96,4,0.0,10.4
+CA-2022-100204,05/11/2022,10/11/2022,Standard Class,Betty Walker,Consumer,United States,Detroit,Michigan,Central,Technology,Storage,Seagate Backup Plus 2TB External HDD,239.97,3,0.0,48.0
+CA-2023-100205,03/01/2023,10/01/2023,Standard Class,Lisa Davis,Home Office,United States,Portland,Oregon,West,Furniture,Storage,Eldon Fold N Roll Cart System,73.99,1,0.15,5.94
+CA-2023-100206,01/07/2023,07/07/2023,Standard Class,Mark Martinez,Consumer,United States,Newark,New Jersey,East,Furniture,Furnishings,Deflecto Stackable Cube Organizer,61.02,3,0.15,8.44
+CA-2023-100207,03/08/2023,08/08/2023,Standard Class,Paul Johnson,Corporate,United States,Boise,Idaho,West,Technology,Storage,SanDisk Extreme Portable 1TB SSD,186.98,2,0.3,11.0
+CA-2021-100208,11/09/2021,16/09/2021,Standard Class,Sarah Brown,Consumer,United States,Portland,Maine,East,Technology,Accessories,Kingston DataTraveler 32GB USB,24.04,2,0.15,3.25
+CA-2021-100209,08/03/2021,12/03/2021,Second Class,Matthew Lee,Corporate,United States,San Francisco,California,West,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,332.49,1,0.1,52.5
+CA-2023-100210,19/06/2023,26/06/2023,Standard Class,Richard Torres,Consumer,United States,Laramie,Wyoming,West,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,12.99,1,0.0,3.9
+CA-2022-100211,16/01/2022,23/01/2022,Standard Class,Christopher Brown,Corporate,United States,Worcester,Massachusetts,East,Furniture,Furnishings,Deflecto Stackable Cube Organizer,70.36,4,0.4,0.0
+CA-2023-100212,12/12/2023,17/12/2023,Second Class,William Anderson,Consumer,United States,Spokane,Washington,West,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,44.97,3,0.0,9.0
+CA-2023-100213,20/10/2023,23/10/2023,Second Class,Charles Wilson,Consumer,United States,Cleveland,Ohio,Central,Furniture,Chairs,Lesro Brewster Lounge Chair,519.98,2,0.7,-52.5
+CA-2023-100214,20/01/2023,27/01/2023,Standard Class,Barbara Lewis,Home Office,United States,Portland,Maine,East,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,699.93,7,0.0,140.0
+CA-2023-100215,23/02/2023,28/02/2023,Second Class,Jessica Jones,Consumer,United States,Little Rock,Arkansas,South,Office Supplies,Paper,Xerox 1967,34.19,1,0.1,6.38
+CA-2021-100216,14/03/2021,20/03/2021,Standard Class,Andrew White,Home Office,United States,Salt Lake City,Utah,West,Furniture,Chairs,Hon 5400 Series Task Chair,75.99,1,0.1,5.1
+CA-2023-100217,06/02/2023,08/02/2023,First Class,Donna Scott,Consumer,United States,Des Moines,Iowa,Central,Technology,Accessories,Belkin HDMI Cable,71.22,3,0.1,11.25
+CA-2020-100218,07/06/2020,14/06/2020,Standard Class,Karen Harris,Corporate,United States,Cedar Rapids,Iowa,Central,Furniture,Storage,Storex Plastic Stacking Shelf,33.24,1,0.1,4.12
+CA-2021-100219,22/05/2021,26/05/2021,Second Class,Charles Garcia,Consumer,United States,New York City,New York,East,Office Supplies,Paper,Avery Laser Labels,72.16,4,0.1,16.5
+CA-2023-100220,21/05/2023,26/05/2023,Standard Class,John Martin,Consumer,United States,Provo,Utah,West,Office Supplies,Envelopes,Poly String Tie Envelopes,62.88,4,0.15,12.75
+CA-2020-100221,04/10/2020,10/10/2020,Standard Class,Patricia Hall,Consumer,United States,Rochester,Minnesota,Central,Technology,Accessories,Kingston DataTraveler 32GB USB,27.27,3,0.6,-3.9
+CA-2022-100222,10/04/2022,17/04/2022,Standard Class,Donna Martinez,Corporate,United States,Bangor,Maine,East,Furniture,Storage,Iris Letter Size File Box,149.94,6,0.0,25.2
+CA-2021-100223,02/04/2021,09/04/2021,Standard Class,Robert Garcia,Consumer,United States,Salem,Oregon,West,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,87.85,5,0.15,17.81
+CA-2023-100224,23/01/2023,28/01/2023,Second Class,Andrew Nelson,Consumer,United States,Aurora,Illinois,Central,Office Supplies,Paper,Xerox 1967,107.97,3,0.0,25.5
+CA-2021-100225,12/08/2021,15/08/2021,First Class,John Taylor,Corporate,United States,Great Falls,Montana,West,Furniture,Tables,Balt Adjustable Standing Desk,1214.97,3,0.2,-52.5
+CA-2020-100226,11/12/2020,14/12/2020,Second Class,Karen Clark,Consumer,United States,Fort Wayne,Indiana,Central,Furniture,Storage,Eldon Fold N Roll Cart System,479.94,6,0.0,57.0
+CA-2021-100227,25/10/2021,28/10/2021,First Class,Mark Jackson,Consumer,United States,Kansas City,Kansas,Central,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,47.96,4,0.4,0.0
+CA-2023-100228,06/08/2023,13/08/2023,Standard Class,Mary Taylor,Home Office,United States,Salem,Oregon,West,Furniture,Tables,Bretford Rectangular Conference Room Table,664.99,1,0.1,-41.25
+CA-2023-100229,09/10/2023,15/10/2023,Standard Class,Nancy Torres,Consumer,United States,Tacoma,Washington,West,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,37.02,3,0.1,8.77
+CA-2020-100230,24/12/2020,26/12/2020,First Class,Andrew Jackson,Consumer,United States,Salt Lake City,Utah,West,Technology,Storage,Seagate Backup Plus 2TB External HDD,239.97,3,0.0,48.0
+CA-2021-100231,25/01/2021,27/01/2021,Same Day,James White,Consumer,United States,Springfield,Massachusetts,East,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,809.94,6,0.2,-27.0
+CA-2021-100232,12/06/2021,17/06/2021,Standard Class,Michael Smith,Consumer,United States,Meridian,Idaho,West,Office Supplies,Fasteners,Universal Binder Clips,22.17,3,0.15,4.5
+CA-2021-100233,03/02/2021,09/02/2021,Standard Class,Karen Thomas,Corporate,United States,Fort Wayne,Indiana,Central,Furniture,Tables,Bretford Rectangular Conference Room Table,2379.96,4,0.3,-55.0
+CA-2022-100234,22/10/2022,27/10/2022,Standard Class,Betty Hall,Home Office,United States,Fort Wayne,Indiana,Central,Technology,Computers,Dell Inspiron 15 3000,1259.98,2,0.2,56.0
+CA-2022-100235,16/09/2022,20/09/2022,First Class,Kimberly Taylor,Home Office,United States,Phoenix,Arizona,West,Furniture,Storage,Iris Letter Size File Box,89.96,4,0.2,8.4
+CA-2022-100236,22/12/2022,26/12/2022,First Class,Karen Young,Corporate,United States,Virginia Beach,Virginia,East,Technology,Machines,Bother P-touch Labeler,39.99,1,0.0,4.8
+CA-2023-100237,28/08/2023,02/09/2023,Second Class,Steven Davis,Home Office,United States,Augusta,Georgia,South,Technology,Accessories,Kingston DataTraveler 32GB USB,12.99,1,0.0,2.6
+CA-2023-100238,07/03/2023,14/03/2023,Standard Class,Elizabeth Garcia,Consumer,United States,Little Rock,Arkansas,South,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,38.97,3,0.0,11.7
+CA-2021-100239,06/11/2021,11/11/2021,Standard Class,Margaret Allen,Corporate,United States,Seattle,Washington,West,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,18.49,1,0.15,3.75
+CA-2023-100240,11/12/2023,16/12/2023,Second Class,Joseph Lee,Corporate,United States,Rochester,New York,East,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,87.38,2,0.1,5.85
+CA-2020-100241,10/01/2020,17/01/2020,Standard Class,William Lewis,Home Office,United States,Colorado Springs,Colorado,West,Technology,Accessories,APC Essential SurgeArrest 6,139.96,4,0.0,28.0
+CA-2023-100242,01/11/2023,08/11/2023,Standard Class,Steven Anderson,Consumer,United States,Shreveport,Louisiana,South,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,229.95,5,0.0,19.5
+CA-2022-100243,02/01/2022,07/01/2022,Second Class,Matthew Davis,Consumer,United States,Houston,Texas,Central,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,13.49,1,0.2,2.25
+CA-2020-100244,04/07/2020,08/07/2020,Second Class,Michael Nguyen,Home Office,United States,Cleveland,Ohio,Central,Technology,Phones,Motorola Moto G Stylus,299.99,1,0.0,24.0
+CA-2020-100245,09/04/2020,11/04/2020,First Class,Kimberly Torres,Consumer,United States,Provo,Utah,West,Technology,Storage,SanDisk Extreme Portable 1TB SSD,219.98,2,0.0,44.0
+CA-2022-100246,27/12/2022,02/01/2023,Standard Class,Michael Martin,Consumer,United States,Allentown,Pennsylvania,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,19.99,1,0.0,6.0
+CA-2023-100247,28/11/2023,05/12/2023,Standard Class,John Smith,Home Office,United States,Seattle,Washington,West,Technology,Storage,Kingston A400 480GB SSD,52.24,1,0.1,8.25
+CA-2021-100248,24/09/2021,30/09/2021,Standard Class,Sarah Hall,Home Office,United States,Raleigh,North Carolina,East,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,38.22,3,0.3,2.25
+CA-2020-100249,02/10/2020,02/10/2020,Same Day,Mark Taylor,Corporate,United States,Augusta,Maine,East,Office Supplies,Fasteners,Universal Binder Clips,7.19,1,0.2,1.2
+CA-2023-100250,05/12/2023,11/12/2023,Standard Class,Thomas Rodriguez,Consumer,United States,Raleigh,North Carolina,East,Furniture,Furnishings,Deflecto Stackable Cube Organizer,118.74,6,0.2,13.5
+CA-2021-100251,23/08/2021,27/08/2021,Second Class,Matthew Martinez,Consumer,United States,Grand Rapids,Michigan,Central,Technology,Computers,Apple MacBook Pro 14 inch,1399.99,1,0.6,-80.0
+CA-2022-100252,16/08/2022,18/08/2022,First Class,Sarah Brown,Consumer,United States,Milwaukee,Wisconsin,Central,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,19.98,2,0.0,6.0
+CA-2022-100253,15/11/2022,21/11/2022,Standard Class,Mary Miller,Corporate,United States,Spokane,Washington,West,Office Supplies,Binders,Avery Durable Binders,54.36,4,0.3,4.8
+CA-2023-100254,17/09/2023,24/09/2023,Standard Class,Joseph Wright,Home Office,United States,Madison,Wisconsin,Central,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,59.97,3,0.0,18.0
+CA-2023-100255,11/04/2023,18/04/2023,Standard Class,Michael Williams,Corporate,United States,Hattiesburg,Mississippi,South,Technology,Accessories,Belkin HDMI Cable,89.96,4,0.2,10.0
+CA-2021-100256,07/05/2021,13/05/2021,Standard Class,Anthony Williams,Consumer,United States,Trenton,New Jersey,East,Technology,Storage,Kingston A400 480GB SSD,41.24,1,0.5,-2.75
+CA-2022-100257,17/09/2022,23/09/2022,Standard Class,Emily Scott,Home Office,United States,Rochester,New York,East,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,1399.96,4,0.0,280.0
+CA-2021-100258,11/09/2021,17/09/2021,Standard Class,Sarah Allen,Corporate,United States,Laramie,Wyoming,West,Technology,Machines,Bother P-touch Labeler,159.96,4,0.0,19.2
+CA-2022-100259,17/12/2022,24/12/2022,Standard Class,Kimberly Jackson,Corporate,United States,Aurora,Colorado,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,33.57,3,0.6,-4.8
+CA-2020-100260,06/10/2020,13/10/2020,Standard Class,Emily Adams,Corporate,United States,Aurora,Illinois,Central,Technology,Storage,SanDisk Extreme Portable 1TB SSD,247.47,3,0.5,-16.5
+CA-2022-100261,14/11/2022,18/11/2022,First Class,Patricia Thomas,Consumer,United States,Charlotte,North Carolina,East,Furniture,Tables,Bevis Round Table,749.97,3,0.0,-54.0
+CA-2020-100262,07/11/2020,10/11/2020,Second Class,Kimberly White,Corporate,United States,Billings,Montana,West,Technology,Computers,HP Pavilion Desktop,467.49,1,0.3,11.0
+CA-2023-100263,22/05/2023,28/05/2023,Standard Class,Thomas Thomas,Consumer,United States,Aurora,Colorado,West,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,67.45,5,0.2,11.25
+CA-2022-100264,18/10/2022,21/10/2022,Second Class,Robert Taylor,Consumer,United States,Grand Rapids,Michigan,Central,Technology,Storage,Kingston A400 480GB SSD,54.99,1,0.0,11.0
+CA-2021-100265,06/05/2021,12/05/2021,Standard Class,John Martinez,Home Office,United States,Newark,Delaware,East,Technology,Computers,Apple MacBook Pro 14 inch,7399.96,4,0.15,400.0
+CA-2023-100266,26/05/2023,01/06/2023,Standard Class,Elizabeth Hill,Consumer,United States,Richmond,Virginia,East,Furniture,Furnishings,Deflecto Stackable Cube Organizer,40.68,2,0.15,5.62
+CA-2020-100267,07/04/2020,11/04/2020,Second Class,Kimberly Smith,Corporate,United States,Henderson,Nevada,West,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,80.99,1,0.2,-2.5
+CA-2023-100268,02/04/2023,06/04/2023,Second Class,Charles Johnson,Consumer,United States,Spokane,Washington,West,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,721.96,4,0.1,68.4
+CA-2020-100269,07/12/2020,12/12/2020,Standard Class,Robert Jackson,Corporate,United States,Huntsville,Alabama,South,Technology,Copiers,Cisco TelePresence System EX90,31999.96,4,0.0,2560.0
+CA-2023-100270,24/12/2023,29/12/2023,Second Class,Mary Wright,Corporate,United States,Rockford,Illinois,Central,Technology,Phones,Apple iPhone 14 (Unlocked),899.99,1,0.0,72.0
+CA-2021-100271,27/02/2021,05/03/2021,Standard Class,Christopher Johnson,Consumer,United States,Great Falls,Montana,West,Office Supplies,Paper,Xerox 1967,99.87,3,0.15,15.94
+CA-2023-100272,23/09/2023,26/09/2023,First Class,Karen Baker,Corporate,United States,Augusta,Georgia,South,Furniture,Storage,Storex Plastic Stacking Shelf,62.98,2,0.2,5.5
+CA-2022-100273,05/08/2022,10/08/2022,Second Class,Nancy Smith,Corporate,United States,Eugene,Oregon,West,Office Supplies,Supplies,Avery Printable Postcards,12.99,1,0.0,3.9
+CA-2022-100274,03/08/2022,10/08/2022,Standard Class,Steven Martinez,Consumer,United States,Milwaukee,Wisconsin,Central,Furniture,Tables,Balt Adjustable Standing Desk,1799.96,4,0.0,-140.0
+CA-2020-100275,28/11/2020,05/12/2020,Standard Class,Robert Martin,Consumer,United States,Boise,Idaho,West,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,284.94,6,0.1,33.75
+CA-2022-100276,10/04/2022,13/04/2022,Second Class,Karen Nelson,Corporate,United States,Missoula,Montana,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,44.76,4,0.6,-6.4
+CA-2020-100277,26/06/2020,03/07/2020,Standard Class,Lisa Scott,Consumer,United States,Fort Wayne,Indiana,Central,Office Supplies,Fasteners,Staples 3 Ring Binder,17.98,2,0.0,5.4
+CA-2022-100278,09/02/2022,11/02/2022,First Class,Robert Jones,Corporate,United States,Baton Rouge,Louisiana,South,Technology,Computers,Apple MacBook Pro 14 inch,7399.96,4,0.15,400.0
+CA-2023-100279,02/04/2023,09/04/2023,Standard Class,Barbara Walker,Corporate,United States,Tulsa,Oklahoma,South,Office Supplies,Envelopes,Poly String Tie Envelopes,31.44,2,0.15,6.38
+CA-2021-100280,22/08/2021,29/08/2021,Standard Class,Elizabeth Adams,Consumer,United States,Des Moines,Iowa,Central,Technology,Storage,Seagate Backup Plus 2TB External HDD,295.96,4,0.15,40.0
+CA-2021-100281,16/04/2021,22/04/2021,Standard Class,Nancy Hall,Consumer,United States,San Francisco,California,West,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,13.49,1,0.2,2.25
+CA-2020-100282,21/12/2020,25/12/2020,First Class,Matthew Walker,Consumer,United States,Rockville,Maryland,East,Office Supplies,Paper,Avery Laser Labels,28.48,2,0.5,-2.75
+CA-2022-100283,28/06/2022,04/07/2022,Standard Class,Mark Anderson,Home Office,United States,Fort Lauderdale,Florida,South,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,15.99,1,0.0,3.2
+CA-2021-100284,04/10/2021,08/10/2021,Second Class,Donald Jackson,Corporate,United States,Aurora,Illinois,Central,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,15.99,1,0.0,4.8
+CA-2022-100285,17/03/2022,24/03/2022,Standard Class,Dorothy Allen,Home Office,United States,Worcester,Massachusetts,East,Office Supplies,Binders,Cardinal Slant D Ring Binder,77.94,6,0.0,23.4
+CA-2022-100286,16/08/2022,22/08/2022,Standard Class,Steven Martin,Corporate,United States,Wichita,Kansas,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,269.97,3,0.0,-15.0
+CA-2021-100287,01/03/2021,08/03/2021,Standard Class,Donald Carter,Consumer,United States,Cincinnati,Ohio,Central,Office Supplies,Supplies,Avery Printable Postcards,11.69,1,0.2,1.95
+CA-2023-100288,01/08/2023,05/08/2023,First Class,John Hill,Consumer,United States,Cedar Rapids,Iowa,Central,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,33.98,2,0.3,3.0
+CA-2023-100289,19/11/2023,24/11/2023,Standard Class,Paul Young,Consumer,United States,Newark,New Jersey,East,Furniture,Chairs,Hon 5400 Series Task Chair,239.97,3,0.0,20.4
+CA-2020-100290,23/10/2020,26/10/2020,First Class,Thomas Martin,Corporate,United States,Eugene,Oregon,West,Technology,Accessories,Kingston DataTraveler 32GB USB,25.98,2,0.0,5.2
+CA-2022-100291,14/10/2022,21/10/2022,Standard Class,Thomas Clark,Corporate,United States,Aurora,Colorado,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,71.95,5,0.2,12.0
+CA-2023-100292,23/07/2023,23/07/2023,Same Day,Donna Brown,Corporate,United States,Raleigh,North Carolina,East,Furniture,Chairs,Hon 5400 Series Task Chair,303.96,4,0.1,20.4
+CA-2022-100293,09/02/2022,14/02/2022,Standard Class,Dorothy Robinson,Corporate,United States,Saint Paul,Minnesota,Central,Technology,Computers,Apple MacBook Pro 14 inch,10199.94,6,0.3,240.0
+CA-2022-100294,07/07/2022,11/07/2022,First Class,Joseph Carter,Consumer,United States,San Jose,California,West,Furniture,Chairs,Global Adaptabilities Collection Chair,189.99,1,0.0,18.2
+CA-2020-100295,25/12/2020,01/01/2021,Standard Class,Robert Garcia,Consumer,United States,Cheyenne,Wyoming,West,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,16.98,2,0.3,1.5
+CA-2021-100296,15/12/2021,19/12/2021,First Class,Kimberly Jones,Consumer,United States,Worcester,Massachusetts,East,Office Supplies,Fasteners,Advantus Push Pins,16.76,4,0.6,-3.6
+CA-2023-100297,19/11/2023,25/11/2023,Standard Class,Lisa Wright,Corporate,United States,Lexington,Kentucky,South,Technology,Computers,Apple MacBook Pro 14 inch,3999.98,2,0.0,320.0
+CA-2021-100298,08/11/2021,11/11/2021,Second Class,James Martin,Consumer,United States,Saint Paul,Minnesota,Central,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,117.27,3,0.3,2.92
+CA-2020-100299,16/12/2020,21/12/2020,Standard Class,Richard Torres,Home Office,United States,Jackson,Mississippi,South,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,1749.95,5,0.0,350.0
+CA-2021-100300,20/05/2021,25/05/2021,Standard Class,Ashley Carter,Home Office,United States,Allentown,Pennsylvania,East,Furniture,Furnishings,Advantus Map Pins,34.16,4,0.1,6.3
+CA-2021-100301,19/12/2021,22/12/2021,First Class,Andrew Wilson,Consumer,United States,Annapolis,Maryland,East,Furniture,Storage,Storex Plastic Stacking Shelf,209.94,6,0.0,33.0
+CA-2021-100302,25/11/2021,30/11/2021,Standard Class,James Jackson,Corporate,United States,Saint Louis,Missouri,Central,Office Supplies,Paper,Avery Laser Labels,30.38,2,0.4,0.0
+CA-2020-100303,09/05/2020,16/05/2020,Standard Class,Anthony Walker,Consumer,United States,Eugene,Oregon,West,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,35.14,2,0.15,7.12
+CA-2023-100304,27/10/2023,02/11/2023,Standard Class,Richard Martinez,Home Office,United States,Cedar Rapids,Iowa,Central,Technology,Storage,Seagate Backup Plus 2TB External HDD,159.98,2,0.0,32.0
+CA-2021-100305,28/03/2021,02/04/2021,Second Class,Andrew Brown,Consumer,United States,Saint Louis,Missouri,Central,Office Supplies,Art,Binney Smith Crayola Crayons,7.99,1,0.0,2.4
+CA-2023-100306,24/02/2023,02/03/2023,Standard Class,Anthony Davis,Consumer,United States,Nampa,Idaho,West,Office Supplies,Labels,Pres-a-ply Labels,35.07,3,0.2,5.85
+CA-2020-100307,12/11/2020,19/11/2020,Standard Class,Charles Wright,Consumer,United States,Billings,Montana,West,Office Supplies,Art,Binney Smith Crayola Crayons,16.77,3,0.6,-3.6
+CA-2021-100308,13/09/2021,15/09/2021,First Class,Charles Thompson,Consumer,United States,Virginia Beach,Virginia,East,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,80.7,5,0.3,7.12
+CA-2023-100309,17/10/2023,18/10/2023,Same Day,Thomas Garcia,Corporate,United States,New York City,New York,East,Furniture,Storage,Eldon Fold N Roll Cart System,55.99,1,0.6,-4.75
+CA-2022-100310,25/01/2022,30/01/2022,Standard Class,Matthew Clark,Consumer,United States,Portland,Maine,East,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,269.97,3,0.0,-15.0
+CA-2023-100311,22/01/2023,28/01/2023,Standard Class,Kimberly King,Home Office,United States,Fayetteville,Arkansas,South,Furniture,Furnishings,Deflecto Stackable Cube Organizer,62.67,3,0.1,10.12
+CA-2023-100312,14/11/2023,21/11/2023,Standard Class,Jennifer King,Corporate,United States,Colorado Springs,Colorado,West,Furniture,Storage,Advantus Super Stacker Divided Storage Box,19.99,1,0.0,3.8
+CA-2022-100313,05/11/2022,11/11/2022,Standard Class,Margaret Robinson,Consumer,United States,Missoula,Montana,West,Office Supplies,Binders,Cardinal Slant D Ring Binder,9.74,1,0.5,-0.97
+CA-2021-100314,23/05/2021,27/05/2021,Second Class,Jessica Hill,Consumer,United States,Grand Rapids,Michigan,Central,Technology,Computers,Lenovo ThinkPad X1 Carbon,1169.99,1,0.2,52.0
+CA-2023-100315,28/07/2023,02/08/2023,Standard Class,Donna Torres,Consumer,United States,Great Falls,Montana,West,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,212.74,1,0.15,14.06
+CA-2020-100316,09/02/2020,15/02/2020,Standard Class,Ashley Jackson,Consumer,United States,Detroit,Michigan,Central,Office Supplies,Envelopes,Jiffy Padded Mailers,152.88,7,0.1,36.23
+CA-2023-100317,27/06/2023,30/06/2023,Second Class,Elizabeth Thomas,Corporate,United States,Charlotte,North Carolina,East,Technology,Machines,Bother P-touch Labeler,159.96,4,0.0,19.2
+CA-2023-100318,25/05/2023,25/05/2023,Same Day,Michael Hill,Consumer,United States,Dallas,Texas,Central,Office Supplies,Labels,3M Self Stick Notes,14.28,2,0.7,-4.95
+CA-2023-100319,24/03/2023,31/03/2023,Standard Class,Richard Walker,Corporate,United States,Tucson,Arizona,West,Technology,Storage,Seagate Backup Plus 2TB External HDD,479.94,6,0.0,96.0
+CA-2021-100320,26/01/2021,31/01/2021,Standard Class,Emily Scott,Home Office,United States,Las Vegas,Nevada,West,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,399.96,4,0.0,80.0
+CA-2022-100321,11/10/2022,15/10/2022,First Class,Paul Miller,Consumer,United States,Richmond,Virginia,East,Furniture,Tables,Bevis Round Table,1487.43,7,0.3,-31.5
+CA-2023-100322,15/11/2023,18/11/2023,Second Class,John Torres,Consumer,United States,Green Bay,Wisconsin,Central,Technology,Computers,Lenovo ThinkPad X1 Carbon,2404.98,2,0.15,130.0
+CA-2022-100323,11/08/2022,15/08/2022,Second Class,Dorothy Martinez,Consumer,United States,Bowling Green,Kentucky,South,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,37.98,2,0.0,11.4
+CA-2022-100324,06/06/2022,10/06/2022,First Class,Robert Flores,Consumer,United States,Louisville,Kentucky,South,Technology,Copiers,Cisco TelePresence System EX90,31999.96,4,0.0,2560.0
+CA-2021-100325,11/07/2021,18/07/2021,Standard Class,John Thomas,Consumer,United States,Dallas,Texas,Central,Furniture,Tables,Bretford Rectangular Conference Room Table,629.99,1,0.2,-27.5
+CA-2021-100326,20/08/2021,24/08/2021,Second Class,James Jackson,Corporate,United States,Trenton,New Jersey,East,Office Supplies,Paper,S P Richards Company Colored Paper,91.96,4,0.0,24.8
+CA-2022-100327,14/12/2022,18/12/2022,First Class,Robert Clark,Corporate,United States,Augusta,Maine,East,Furniture,Tables,Balt Adjustable Standing Desk,404.99,1,0.2,-17.5
+CA-2022-100328,17/04/2022,22/04/2022,Second Class,Anthony Miller,Corporate,United States,Cincinnati,Ohio,Central,Technology,Computers,Lenovo ThinkPad X1 Carbon,3509.97,3,0.2,156.0
+CA-2021-100329,26/02/2021,04/03/2021,Standard Class,Mark Lee,Home Office,United States,Salem,Oregon,West,Technology,Computers,Lenovo ThinkPad X1 Carbon,4939.96,4,0.1,312.0
+CA-2022-100330,11/11/2022,16/11/2022,Second Class,Thomas Walker,Home Office,United States,Ogden,Utah,West,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,14.99,1,0.0,3.0
+CA-2021-100331,05/01/2021,06/01/2021,Same Day,Mary Thompson,Home Office,United States,Newark,New Jersey,East,Technology,Computers,Dell Inspiron 15 3000,664.99,1,0.1,42.0
+CA-2020-100332,19/05/2020,25/05/2020,Standard Class,Susan Jones,Consumer,United States,Rockford,Illinois,Central,Technology,Accessories,Belkin HDMI Cable,37.48,2,0.5,-2.5
+CA-2022-100333,04/11/2022,10/11/2022,Standard Class,Patricia Lewis,Consumer,United States,Augusta,Maine,East,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,113.94,6,0.0,34.2
+CA-2023-100334,28/10/2023,31/10/2023,Second Class,John Rodriguez,Consumer,United States,Minneapolis,Minnesota,Central,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,25.98,2,0.0,7.8
+CA-2020-100335,13/10/2020,15/10/2020,Same Day,Betty Martinez,Consumer,United States,Seattle,Washington,West,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,137.97,3,0.0,11.7
+CA-2021-100336,17/02/2021,24/02/2021,Standard Class,Ashley Allen,Corporate,United States,Worcester,Massachusetts,East,Office Supplies,Labels,Pres-a-ply Labels,35.07,3,0.2,5.85
+CA-2021-100337,25/02/2021,04/03/2021,Standard Class,Margaret Walker,Corporate,United States,Atlanta,Georgia,South,Office Supplies,Fasteners,Staples 3 Ring Binder,26.97,3,0.0,8.1
+CA-2021-100338,20/12/2021,23/12/2021,First Class,Joseph Thomas,Home Office,United States,Kansas City,Missouri,Central,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,649.99,1,0.0,130.0
+CA-2023-100339,28/12/2023,31/12/2023,First Class,Mary Lewis,Consumer,United States,Pittsburgh,Pennsylvania,East,Furniture,Furnishings,Deflecto Stackable Cube Organizer,20.34,1,0.15,2.81
+CA-2021-100340,24/08/2021,26/08/2021,Same Day,Dorothy Williams,Corporate,United States,Austin,Texas,Central,Furniture,Chairs,Global Adaptabilities Collection Chair,170.99,1,0.2,9.1
+CA-2021-100341,01/07/2021,08/07/2021,Standard Class,Matthew White,Consumer,United States,Virginia Beach,Virginia,East,Technology,Computers,Apple MacBook Pro 14 inch,9249.95,5,0.15,500.0
+CA-2022-100342,07/02/2022,13/02/2022,Standard Class,Dorothy Clark,Consumer,United States,Los Angeles,California,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,14.39,1,0.2,2.4
+CA-2021-100343,17/05/2021,22/05/2021,Standard Class,Sarah White,Home Office,United States,Minneapolis,Minnesota,Central,Furniture,Storage,Iris Letter Size File Box,23.74,1,0.1,3.15
+CA-2023-100344,21/09/2023,25/09/2023,Second Class,Kenneth Lewis,Home Office,United States,Worcester,Massachusetts,East,Office Supplies,Art,Binney Smith Crayola Crayons,22.17,3,0.15,4.5
+CA-2022-100345,05/04/2022,12/04/2022,Standard Class,Barbara Adams,Home Office,United States,Montgomery,Alabama,South,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,272.97,3,0.6,-23.4
+CA-2020-100346,05/06/2020,09/06/2020,Second Class,Sarah Martinez,Consumer,United States,Charleston,South Carolina,South,Technology,Phones,Samsung Galaxy S23,637.49,1,0.3,15.0
+CA-2022-100347,19/05/2022,24/05/2022,Second Class,Donald Wilson,Consumer,United States,Buffalo,New York,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,18.99,1,0.1,4.5
+CA-2022-100348,08/03/2022,13/03/2022,Standard Class,Richard Jackson,Corporate,United States,Columbia,South Carolina,South,Furniture,Storage,Storex Plastic Stacking Shelf,83.97,3,0.4,0.0
+CA-2023-100349,25/07/2023,01/08/2023,Standard Class,Andrew Baker,Corporate,United States,Madison,Wisconsin,Central,Office Supplies,Binders,Avery Durable Binders,27.18,2,0.3,2.4
+CA-2020-100350,17/12/2020,24/12/2020,Standard Class,Patricia Thomas,Corporate,United States,Greensboro,North Carolina,East,Furniture,Storage,Advantus Super Stacker Divided Storage Box,79.96,4,0.0,15.2
+CA-2020-100351,02/05/2020,05/05/2020,Second Class,Linda Taylor,Corporate,United States,Billings,Montana,West,Technology,Storage,Kingston A400 480GB SSD,52.24,1,0.1,8.25
+CA-2022-100352,19/04/2022,21/04/2022,First Class,David Davis,Consumer,United States,Augusta,Georgia,South,Furniture,Storage,Advantus Super Stacker Divided Storage Box,17.99,1,0.2,1.9
+CA-2022-100353,20/12/2022,21/12/2022,Same Day,Andrew Martinez,Home Office,United States,San Francisco,California,West,Furniture,Tables,Hon 10500 Series L-Workstation,3599.96,4,0.0,-320.0
+CA-2021-100354,15/10/2021,20/10/2021,Standard Class,Thomas Smith,Consumer,United States,Boston,Massachusetts,East,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,41.61,3,0.15,8.44
+CA-2021-100355,15/10/2021,20/10/2021,Standard Class,Sarah Carter,Home Office,United States,Dallas,Texas,Central,Office Supplies,Labels,Avery Address Labels,14.99,1,0.0,4.5
+CA-2021-100356,02/03/2021,07/03/2021,Second Class,Elizabeth Anderson,Consumer,United States,Seattle,Washington,West,Technology,Computers,Dell Inspiron 15 3000,3779.94,6,0.2,168.0
+CA-2021-100357,25/01/2021,31/01/2021,Standard Class,Robert Robinson,Home Office,United States,Augusta,Georgia,South,Office Supplies,Paper,Avery Laser Labels,36.08,2,0.1,8.25
+CA-2021-100358,02/04/2021,09/04/2021,Standard Class,Kenneth Robinson,Consumer,United States,Oklahoma City,Oklahoma,South,Office Supplies,Fasteners,Staples 3 Ring Binder,11.68,2,0.7,-4.05
+CA-2021-100359,19/03/2021,26/03/2021,Standard Class,Joseph Robinson,Home Office,United States,Kansas City,Missouri,Central,Technology,Phones,Apple iPhone 14 (Unlocked),832.49,1,0.15,45.0
+CA-2020-100360,26/11/2020,30/11/2020,Second Class,Susan Smith,Corporate,United States,Colorado Springs,Colorado,West,Office Supplies,Envelopes,Jiffy Padded Mailers,87.36,4,0.1,20.7
+CA-2022-100361,01/06/2022,07/06/2022,Standard Class,Elizabeth Thomas,Home Office,United States,Laramie,Wyoming,West,Office Supplies,Fasteners,Universal Binder Clips,15.18,2,0.1,3.6
+CA-2020-100362,05/03/2020,10/03/2020,Second Class,Patricia Hill,Home Office,United States,Fort Smith,Arkansas,South,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,299.98,2,0.0,-18.0
+CA-2022-100363,26/11/2022,01/12/2022,Standard Class,Paul Anderson,Home Office,United States,San Diego,California,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,38.37,3,0.4,0.0
+CA-2023-100364,11/10/2023,15/10/2023,Second Class,Karen Jackson,Consumer,United States,Billings,Montana,West,Office Supplies,Art,Binney Smith Crayola Crayons,15.98,2,0.0,4.8
+CA-2021-100365,17/02/2021,23/02/2021,Standard Class,Donald Hill,Consumer,United States,Birmingham,Alabama,South,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,879.96,4,0.0,-48.0
+CA-2023-100366,05/08/2023,10/08/2023,Standard Class,John Baker,Consumer,United States,Boise,Idaho,West,Technology,Machines,Bother P-touch Labeler,199.95,5,0.0,24.0
+CA-2023-100367,01/10/2023,07/10/2023,Standard Class,Charles Thompson,Consumer,United States,Grand Rapids,Michigan,Central,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,14.99,1,0.0,4.5
+CA-2020-100368,18/12/2020,23/12/2020,Standard Class,Charles Adams,Consumer,United States,Nampa,Idaho,West,Furniture,Chairs,Global Adaptabilities Collection Chair,541.47,3,0.1,40.95
+CA-2021-100369,16/03/2021,18/03/2021,First Class,Elizabeth Baker,Consumer,United States,New York City,New York,East,Technology,Storage,Kingston A400 480GB SSD,152.61,3,0.15,20.62
+CA-2021-100370,23/11/2021,28/11/2021,Second Class,Sandra Miller,Consumer,United States,Newark,Delaware,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,19.99,1,0.0,6.0
+CA-2023-100371,12/09/2023,19/09/2023,Standard Class,Mary Jones,Consumer,United States,Memphis,Tennessee,South,Office Supplies,Fasteners,Staples 3 Ring Binder,17.98,2,0.0,5.4
+CA-2023-100372,05/09/2023,11/09/2023,Standard Class,Robert Clark,Corporate,United States,Aurora,Illinois,Central,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,18.99,1,0.0,5.7
+CA-2020-100373,03/08/2020,10/08/2020,Standard Class,Paul Harris,Corporate,United States,Ogden,Utah,West,Furniture,Chairs,Lesro Brewster Lounge Chair,1599.96,4,0.0,140.0
+CA-2022-100374,04/06/2022,06/06/2022,First Class,Kenneth Hall,Corporate,United States,Salt Lake City,Utah,West,Office Supplies,Binders,Avery Durable Binders,15.99,1,0.0,4.8
+CA-2022-100375,26/10/2022,31/10/2022,Standard Class,Donna Adams,Consumer,United States,Springfield,Missouri,Central,Office Supplies,Labels,Pres-a-ply Labels,64.95,5,0.0,19.5
+CA-2023-100376,14/10/2023,18/10/2023,Second Class,Steven Allen,Corporate,United States,Louisville,Kentucky,South,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,240.48,2,0.15,19.5
+CA-2020-100377,27/10/2020,27/10/2020,Same Day,Emily Allen,Consumer,United States,Orlando,Florida,South,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,35.14,2,0.15,7.12
+CA-2022-100378,07/08/2022,13/08/2022,Standard Class,William Wilson,Home Office,United States,Cleveland,Ohio,Central,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,638.22,3,0.15,42.19
+CA-2021-100379,03/12/2021,09/12/2021,Standard Class,Sandra Nguyen,Corporate,United States,Lexington,Kentucky,South,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,39.98,2,0.0,12.0
+CA-2022-100380,28/09/2022,03/10/2022,Second Class,John Williams,Corporate,United States,Ogden,Utah,West,Office Supplies,Fasteners,Advantus Push Pins,11.67,3,0.7,-4.05
+CA-2020-100381,17/10/2020,18/10/2020,Same Day,Jennifer Harris,Home Office,United States,Tacoma,Washington,West,Office Supplies,Paper,Avery Laser Labels,42.72,3,0.5,-4.12
+CA-2022-100382,15/01/2022,21/01/2022,Standard Class,Charles Robinson,Consumer,United States,Colorado Springs,Colorado,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,44.37,3,0.15,6.0
+CA-2020-100383,06/08/2020,13/08/2020,Standard Class,Jennifer Wilson,Consumer,United States,Louisville,Kentucky,South,Office Supplies,Envelopes,Jiffy Padded Mailers,22.99,1,0.0,6.9
+CA-2023-100384,04/01/2023,09/01/2023,Second Class,Thomas Harris,Corporate,United States,Saint Louis,Missouri,Central,Office Supplies,Supplies,Avery Printable Postcards,25.98,2,0.0,7.8
+CA-2020-100385,05/12/2020,08/12/2020,First Class,David Jackson,Consumer,United States,Warren,Michigan,Central,Office Supplies,Fasteners,Advantus Push Pins,15.27,3,0.3,1.35
+CA-2020-100386,13/03/2020,19/03/2020,Standard Class,Matthew Scott,Consumer,United States,Des Moines,Iowa,Central,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,34.99,1,0.6,-3.75
+CA-2021-100387,17/10/2021,20/10/2021,Second Class,Margaret Carter,Consumer,United States,Rockville,Maryland,East,Technology,Machines,Bother P-touch Labeler,33.99,1,0.3,1.2
+CA-2021-100388,15/09/2021,20/09/2021,Second Class,Elizabeth Rodriguez,Consumer,United States,Portland,Maine,East,Office Supplies,Binders,Avery Durable Binders,15.99,1,0.0,4.8
+CA-2020-100389,08/07/2020,12/07/2020,Second Class,Kenneth Jackson,Consumer,United States,Rochester,New York,East,Technology,Storage,Seagate Backup Plus 2TB External HDD,239.97,3,0.0,48.0
+CA-2023-100390,22/03/2023,27/03/2023,Second Class,Thomas Robinson,Corporate,United States,Portland,Oregon,West,Office Supplies,Paper,S P Richards Company Colored Paper,114.95,5,0.0,31.0
+CA-2021-100391,25/12/2021,29/12/2021,Second Class,Matthew Hall,Corporate,United States,Pittsburgh,Pennsylvania,East,Office Supplies,Binders,Cardinal Slant D Ring Binder,77.94,6,0.0,23.4
+CA-2021-100392,07/08/2021,10/08/2021,Second Class,Margaret Jackson,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Paper,S P Richards Company Colored Paper,68.97,3,0.0,18.6
+CA-2020-100393,09/09/2020,12/09/2020,Second Class,John Hall,Corporate,United States,Huntsville,Alabama,South,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,249.72,3,0.15,-9.38
+CA-2023-100394,14/08/2023,21/08/2023,Standard Class,Matthew Scott,Consumer,United States,Rockford,Illinois,Central,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,30.38,2,0.1,4.8
+CA-2020-100395,21/12/2020,28/12/2020,Standard Class,Charles Thomas,Home Office,United States,Nashville,Tennessee,South,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,137.97,3,0.0,11.7
+CA-2021-100396,23/02/2021,28/02/2021,Standard Class,John Thomas,Consumer,United States,Fayetteville,Arkansas,South,Furniture,Furnishings,Deflecto Stackable Cube Organizer,43.98,2,0.0,9.0
+CA-2022-100397,18/05/2022,19/05/2022,Same Day,Lisa Williams,Consumer,United States,Miami,Florida,South,Office Supplies,Labels,Pres-a-ply Labels,37.02,3,0.1,8.77
+CA-2022-100398,05/11/2022,08/11/2022,Second Class,Mary Scott,Consumer,United States,Orlando,Florida,South,Technology,Computers,Apple MacBook Pro 14 inch,1799.99,1,0.2,80.0
+CA-2020-100399,10/09/2020,12/09/2020,First Class,Michael Davis,Consumer,United States,Salem,Oregon,West,Office Supplies,Labels,Avery Address Labels,56.96,4,0.1,13.5
+CA-2023-100400,22/12/2023,27/12/2023,Standard Class,Susan Williams,Consumer,United States,Bowling Green,Kentucky,South,Office Supplies,Fasteners,Advantus Push Pins,5.99,1,0.0,1.8
+CA-2021-100401,18/10/2021,23/10/2021,Standard Class,Donna Hall,Consumer,United States,Orlando,Florida,South,Technology,Phones,Cisco IP Phone 7945,219.99,1,0.0,18.5
+CA-2023-100402,19/10/2023,22/10/2023,First Class,Barbara Thompson,Consumer,United States,Springfield,Missouri,Central,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,88.74,6,0.15,18.0
+CA-2020-100403,16/04/2020,19/04/2020,Second Class,Kimberly Harris,Consumer,United States,Fort Wayne,Indiana,Central,Furniture,Furnishings,Advantus Map Pins,21.57,3,0.4,0.0
+CA-2023-100404,15/08/2023,20/08/2023,Second Class,Barbara Scott,Consumer,United States,New York City,New York,East,Office Supplies,Art,Lorell Durable Correction Tape,34.95,5,0.0,10.5
+CA-2021-100405,09/04/2021,15/04/2021,Standard Class,Mary Torres,Consumer,United States,Rochester,New York,East,Office Supplies,Paper,Hammermill Copy Plus Paper,83.22,3,0.15,13.5
+CA-2021-100406,22/04/2021,24/04/2021,First Class,Anthony Thomas,Consumer,United States,Milwaukee,Wisconsin,Central,Office Supplies,Labels,Avery Address Labels,27.74,2,0.15,5.62
+CA-2023-100407,20/03/2023,26/03/2023,Standard Class,Daniel Thompson,Consumer,United States,Great Falls,Montana,West,Furniture,Tables,Bretford Rectangular Conference Room Table,2099.97,3,0.0,-165.0
+CA-2020-100408,15/11/2020,21/11/2020,Standard Class,Donna Anderson,Consumer,United States,New Haven,Connecticut,East,Office Supplies,Supplies,Avery Printable Postcards,10.39,1,0.4,0.0
+CA-2022-100409,19/12/2022,25/12/2022,Standard Class,Jessica Rodriguez,Home Office,United States,Greensboro,North Carolina,East,Office Supplies,Labels,Pres-a-ply Labels,58.44,6,0.5,-5.85
+CA-2023-100410,02/07/2023,08/07/2023,Standard Class,Betty Scott,Consumer,United States,Des Moines,Iowa,Central,Technology,Storage,Seagate Backup Plus 2TB External HDD,159.98,2,0.0,32.0
+CA-2022-100411,24/01/2022,29/01/2022,Standard Class,Jennifer Johnson,Corporate,United States,Bridgeport,Connecticut,East,Office Supplies,Envelopes,Poly String Tie Envelopes,40.77,3,0.4,0.0
+CA-2023-100412,15/01/2023,20/01/2023,Standard Class,Nancy Wright,Corporate,United States,Columbia,South Carolina,South,Technology,Phones,Apple iPhone 14 (Unlocked),1619.98,2,0.2,72.0
+CA-2022-100413,25/05/2022,01/06/2022,Standard Class,Lisa Brown,Consumer,United States,Henderson,Nevada,West,Office Supplies,Fasteners,Advantus Push Pins,5.69,1,0.1,1.35
+CA-2022-100414,06/06/2022,11/06/2022,Second Class,Jessica Flores,Home Office,United States,Newark,New Jersey,East,Furniture,Storage,Iris Letter Size File Box,84.96,4,0.3,4.2
+CA-2021-100415,17/12/2021,21/12/2021,Second Class,Steven Hill,Consumer,United States,Norfolk,Virginia,East,Technology,Accessories,Kingston DataTraveler 32GB USB,36.06,3,0.15,4.88
+CA-2021-100416,26/09/2021,01/10/2021,Second Class,Sandra Garcia,Home Office,United States,Chicago,Illinois,Central,Furniture,Tables,Bevis Round Table,1499.94,6,0.0,-108.0
+CA-2020-100417,05/03/2020,10/03/2020,Standard Class,Paul Wilson,Consumer,United States,San Diego,California,West,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,75.96,4,0.0,22.8
+CA-2020-100418,26/01/2020,02/02/2020,Standard Class,Christopher Torres,Consumer,United States,Rochester,Minnesota,Central,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,18.48,2,0.15,3.75
+CA-2023-100419,26/05/2023,01/06/2023,Standard Class,Charles Wright,Consumer,United States,Phoenix,Arizona,West,Technology,Computers,Dell Inspiron 15 3000,2099.97,3,0.0,168.0
+CA-2023-100420,23/11/2023,25/11/2023,First Class,Andrew Wilson,Home Office,United States,Philadelphia,Pennsylvania,East,Office Supplies,Fasteners,Advantus Push Pins,5.39,1,0.2,0.9
+CA-2022-100421,05/12/2022,12/12/2022,Standard Class,Mary Allen,Consumer,United States,Tulsa,Oklahoma,South,Technology,Copiers,Cisco TelePresence System EX90,39999.95,5,0.0,3200.0
+CA-2023-100422,17/08/2023,24/08/2023,Standard Class,Andrew King,Corporate,United States,Mesa,Arizona,West,Office Supplies,Paper,S P Richards Company Colored Paper,114.95,5,0.0,31.0
+CA-2022-100423,13/05/2022,16/05/2022,Second Class,Richard Nelson,Consumer,United States,Spokane,Washington,West,Office Supplies,Envelopes,Poly String Tie Envelopes,15.72,1,0.15,3.19
+CA-2021-100424,03/10/2021,04/10/2021,Same Day,Patricia Walker,Corporate,United States,Richmond,Virginia,East,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,37.98,2,0.0,11.4
+CA-2021-100425,15/05/2021,17/05/2021,First Class,Mark Robinson,Home Office,United States,Newark,Delaware,East,Furniture,Storage,Storex Plastic Stacking Shelf,32.37,1,0.15,3.44
+CA-2020-100426,16/04/2020,18/04/2020,Same Day,Jennifer Smith,Corporate,United States,Columbus,Georgia,South,Office Supplies,Envelopes,Jiffy Padded Mailers,21.84,1,0.1,5.18
+CA-2022-100427,07/12/2022,13/12/2022,Standard Class,Karen Nelson,Home Office,United States,Billings,Montana,West,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,42.49,1,0.3,1.88
+CA-2020-100428,21/05/2020,24/05/2020,First Class,Jessica Johnson,Consumer,United States,Hartford,Connecticut,East,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,629.93,7,0.0,-35.0
+CA-2023-100429,19/09/2023,25/09/2023,Standard Class,Nancy Nguyen,Corporate,United States,Springfield,Missouri,Central,Technology,Phones,Motorola Moto G Stylus,299.99,1,0.0,24.0
+CA-2021-100430,05/12/2021,10/12/2021,Standard Class,Daniel Brown,Home Office,United States,Greensboro,North Carolina,East,Furniture,Furnishings,Advantus Map Pins,15.28,2,0.3,1.05
+CA-2020-100431,25/02/2020,02/03/2020,Standard Class,Nancy Miller,Corporate,United States,Biloxi,Mississippi,South,Office Supplies,Fasteners,Advantus Push Pins,5.54,1,0.15,1.12
+CA-2021-100432,11/08/2021,13/08/2021,First Class,Richard Green,Consumer,United States,Springfield,Massachusetts,East,Office Supplies,Supplies,Avery Printable Postcards,19.48,2,0.5,-1.95
+CA-2020-100433,01/03/2020,07/03/2020,Standard Class,Kenneth Hill,Home Office,United States,Cleveland,Ohio,Central,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,389.97,3,0.0,46.8
+CA-2023-100434,28/04/2023,03/05/2023,Second Class,Jennifer Hernandez,Consumer,United States,Boston,Massachusetts,East,Technology,Phones,Apple iPhone 14 (Unlocked),832.49,1,0.15,45.0
+CA-2021-100435,02/04/2021,07/04/2021,Second Class,John Jones,Home Office,United States,Billings,Montana,West,Furniture,Chairs,Hon 5400 Series Task Chair,223.96,4,0.6,-13.6
+CA-2021-100436,06/12/2021,09/12/2021,Second Class,David Nguyen,Consumer,United States,New Haven,Connecticut,East,Technology,Computers,Dell Inspiron 15 3000,1399.98,2,0.0,112.0
+CA-2023-100437,17/11/2023,22/11/2023,Standard Class,Michael Jackson,Consumer,United States,Huntsville,Alabama,South,Technology,Storage,SanDisk Extreme Portable 1TB SSD,203.48,2,0.15,27.5
+CA-2021-100438,06/12/2021,09/12/2021,First Class,Christopher Davis,Consumer,United States,Boise,Idaho,West,Office Supplies,Supplies,Avery Printable Postcards,24.68,2,0.1,5.85
+CA-2021-100439,03/10/2021,08/10/2021,Standard Class,Mark White,Corporate,United States,Great Falls,Montana,West,Office Supplies,Envelopes,Jiffy Padded Mailers,22.99,1,0.0,6.9
+CA-2023-100440,22/08/2023,27/08/2023,Standard Class,Mark Hill,Consumer,United States,Fayetteville,Arkansas,South,Office Supplies,Paper,Xerox 1967,34.19,1,0.1,6.38
+CA-2022-100441,06/02/2022,11/02/2022,Standard Class,Margaret Torres,Consumer,United States,Casper,Wyoming,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,54.36,4,0.3,3.2
+CA-2023-100442,22/06/2023,26/06/2023,Second Class,Sandra Miller,Consumer,United States,Tulsa,Oklahoma,South,Furniture,Storage,Storex Plastic Stacking Shelf,24.49,1,0.6,-2.75
+CA-2020-100443,27/10/2020,03/11/2020,Standard Class,Christopher Martinez,Corporate,United States,Worcester,Massachusetts,East,Furniture,Furnishings,Advantus Map Pins,32.36,4,0.2,4.2
+CA-2022-100444,15/08/2022,22/08/2022,Standard Class,Paul Flores,Corporate,United States,Nampa,Idaho,West,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,229.95,5,0.0,19.5
+CA-2022-100445,15/11/2022,20/11/2022,Standard Class,Margaret Wilson,Consumer,United States,New Haven,Connecticut,East,Furniture,Storage,Storex Plastic Stacking Shelf,129.48,4,0.15,13.75
+CA-2022-100446,18/08/2022,24/08/2022,Standard Class,Thomas Torres,Consumer,United States,Salem,Oregon,West,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,75.96,4,0.0,22.8
+CA-2020-100447,05/09/2020,08/09/2020,First Class,Lisa Hall,Corporate,United States,Wichita,Kansas,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,179.98,2,0.0,-10.0
+CA-2021-100448,10/04/2021,17/04/2021,Standard Class,Mary Flores,Consumer,United States,Bridgeport,Connecticut,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,44.97,3,0.5,-4.5
+CA-2021-100449,19/10/2021,25/10/2021,Standard Class,Ashley Miller,Corporate,United States,Provo,Utah,West,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,169.98,2,0.3,10.0
+CA-2022-100450,10/03/2022,16/03/2022,Standard Class,Thomas Brown,Consumer,United States,Allentown,Pennsylvania,East,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,184.96,4,0.15,18.75
+CA-2023-100451,19/10/2023,25/10/2023,Standard Class,Susan Lee,Consumer,United States,Bangor,Maine,East,Technology,Storage,SanDisk Extreme Portable 1TB SSD,219.98,2,0.0,44.0
+CA-2022-100452,14/06/2022,21/06/2022,Standard Class,Dorothy Taylor,Home Office,United States,Boise,Idaho,West,Office Supplies,Labels,Pres-a-ply Labels,70.14,6,0.2,11.7
+CA-2022-100453,18/12/2022,21/12/2022,First Class,Sandra Martinez,Consumer,United States,Fort Lauderdale,Florida,South,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,143.98,2,0.4,-0.0
+CA-2023-100454,28/09/2023,04/10/2023,Standard Class,Betty Harris,Corporate,United States,Evansville,Indiana,Central,Furniture,Tables,Bretford Rectangular Conference Room Table,594.99,1,0.3,-13.75
+CA-2022-100455,14/09/2022,19/09/2022,Standard Class,Sarah Green,Consumer,United States,Bridgeport,Connecticut,East,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,183.96,4,0.0,15.6
+CA-2023-100456,10/06/2023,13/06/2023,First Class,William Harris,Home Office,United States,Augusta,Georgia,South,Furniture,Furnishings,Advantus Map Pins,15.28,2,0.3,1.05
+CA-2023-100457,09/12/2023,14/12/2023,Standard Class,Emily Hall,Consumer,United States,Pittsburgh,Pennsylvania,East,Technology,Storage,Seagate Backup Plus 2TB External HDD,479.94,6,0.0,96.0
+CA-2020-100458,09/04/2020,15/04/2020,Standard Class,Linda Rodriguez,Corporate,United States,Jacksonville,Florida,South,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,71.94,6,0.4,0.0
+CA-2023-100459,23/06/2023,29/06/2023,Standard Class,Patricia Harris,Home Office,United States,Portland,Maine,East,Furniture,Storage,Advantus Super Stacker Divided Storage Box,53.97,3,0.2,5.7
+CA-2023-100460,18/10/2023,21/10/2023,First Class,Jessica Clark,Consumer,United States,Provo,Utah,West,Furniture,Tables,Chromcraft Bull-Nose Round Table,791.97,3,0.4,-0.0
+CA-2023-100461,02/07/2023,07/07/2023,Standard Class,Lisa Hernandez,Corporate,United States,Saint Louis,Missouri,Central,Technology,Phones,Samsung Galaxy S23,2081.22,3,0.15,112.5
+CA-2021-100462,27/09/2021,03/10/2021,Standard Class,Elizabeth King,Corporate,United States,Los Angeles,California,West,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,1202.48,2,0.15,162.5
+CA-2021-100463,06/02/2021,13/02/2021,Standard Class,Christopher King,Corporate,United States,Huntsville,Alabama,South,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,12.02,1,0.15,2.44
+CA-2021-100464,03/05/2021,08/05/2021,Standard Class,Mary Green,Consumer,United States,Ogden,Utah,West,Office Supplies,Labels,Avery Address Labels,89.94,6,0.0,27.0
+CA-2022-100465,13/03/2022,18/03/2022,Second Class,Andrew Davis,Consumer,United States,Pittsburgh,Pennsylvania,East,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,139.96,4,0.6,-15.0
+CA-2023-100466,08/08/2023,11/08/2023,Second Class,Matthew Wilson,Corporate,United States,Biloxi,Mississippi,South,Office Supplies,Labels,Pres-a-ply Labels,11.04,1,0.3,0.97
+CA-2022-100467,06/04/2022,11/04/2022,Standard Class,Jessica Walker,Corporate,United States,Bridgeport,Connecticut,East,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,14.99,1,0.0,4.5
+CA-2021-100468,22/10/2021,28/10/2021,Standard Class,Kimberly Brown,Consumer,United States,Overland Park,Kansas,Central,Furniture,Tables,Chromcraft Bull-Nose Round Table,1072.45,5,0.7,105.0
+CA-2023-100469,20/12/2023,23/12/2023,Second Class,Betty Walker,Consumer,United States,Rockville,Maryland,East,Furniture,Furnishings,Advantus Map Pins,26.97,3,0.0,6.3
+CA-2022-100470,15/12/2022,21/12/2022,Standard Class,Christopher Williams,Consumer,United States,Minneapolis,Minnesota,Central,Technology,Accessories,APC Essential SurgeArrest 6,97.96,4,0.6,-14.0
+CA-2021-100471,20/11/2021,23/11/2021,First Class,Ashley Martinez,Consumer,United States,Salt Lake City,Utah,West,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,14.99,1,0.0,4.5
+CA-2020-100472,06/08/2020,10/08/2020,Second Class,Kimberly Torres,Consumer,United States,Wilmington,Delaware,East,Office Supplies,Paper,Hammermill Copy Plus Paper,29.99,1,0.0,7.2
+CA-2023-100473,06/04/2023,10/04/2023,Second Class,James Hill,Corporate,United States,Cheyenne,Wyoming,West,Technology,Copiers,Cisco TelePresence System EX90,39999.95,5,0.0,3200.0
+CA-2022-100474,11/02/2022,18/02/2022,Standard Class,Michael Rodriguez,Consumer,United States,Augusta,Georgia,South,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,165.56,4,0.2,7.8
+CA-2022-100475,20/12/2022,24/12/2022,Second Class,Andrew Wilson,Consumer,United States,Lexington,Kentucky,South,Furniture,Chairs,Global Adaptabilities Collection Chair,379.98,2,0.0,36.4
+CA-2020-100476,13/12/2020,19/12/2020,Standard Class,Susan Anderson,Consumer,United States,Charlotte,North Carolina,East,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,39.87,3,0.6,-8.55
+CA-2020-100477,26/05/2020,01/06/2020,Standard Class,Michael Walker,Consumer,United States,Louisville,Kentucky,South,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,94.95,5,0.1,22.5
+CA-2022-100478,25/07/2022,31/07/2022,Standard Class,John Nguyen,Consumer,United States,Rochester,Minnesota,Central,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,40.47,3,0.2,6.75
+CA-2023-100479,21/08/2023,27/08/2023,Standard Class,William Clark,Consumer,United States,Spokane,Washington,West,Technology,Computers,HP Pavilion Desktop,549.99,1,0.0,44.0
+CA-2020-100480,04/01/2020,10/01/2020,Standard Class,Emily Garcia,Consumer,United States,Augusta,Maine,East,Technology,Phones,Apple iPhone 14 (Unlocked),3419.96,4,0.1,216.0
+CA-2023-100481,02/11/2023,09/11/2023,Standard Class,Mark Carter,Consumer,United States,Laramie,Wyoming,West,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,129.99,1,0.0,15.6
+CA-2023-100482,22/05/2023,29/05/2023,Standard Class,Donald Wright,Consumer,United States,Charlotte,North Carolina,East,Technology,Storage,Kingston A400 480GB SSD,152.61,3,0.15,20.62
+CA-2022-100483,12/12/2022,17/12/2022,Second Class,James Thomas,Consumer,United States,Indianapolis,Indiana,Central,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,1149.95,5,0.0,112.5
+CA-2022-100484,14/10/2022,18/10/2022,First Class,Margaret Johnson,Consumer,United States,Hartford,Connecticut,East,Furniture,Tables,Chromcraft Bull-Nose Round Table,1880.94,6,0.1,-126.0
+CA-2023-100485,07/09/2023,13/09/2023,Standard Class,Margaret Young,Corporate,United States,New York City,New York,East,Technology,Storage,Kingston A400 480GB SSD,152.61,3,0.15,20.62
+CA-2021-100486,16/08/2021,23/08/2021,Standard Class,Dorothy Johnson,Corporate,United States,Kansas City,Missouri,Central,Office Supplies,Fasteners,Universal Binder Clips,5.99,1,0.5,-0.6
+CA-2021-100487,16/08/2021,21/08/2021,Second Class,Richard Scott,Consumer,United States,Salt Lake City,Utah,West,Office Supplies,Labels,Pres-a-ply Labels,9.74,1,0.5,-0.97
+CA-2021-100488,27/09/2021,01/10/2021,Second Class,Anthony Walker,Corporate,United States,New Haven,Connecticut,East,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,314.99,1,0.2,35.0
+CA-2022-100489,07/03/2022,13/03/2022,Standard Class,Susan Green,Consumer,United States,Raleigh,North Carolina,East,Furniture,Chairs,Global Adaptabilities Collection Chair,902.45,5,0.1,68.25
+CA-2020-100490,17/11/2020,22/11/2020,Standard Class,Kimberly White,Consumer,United States,Tacoma,Washington,West,Office Supplies,Fasteners,Staples 3 Ring Binder,30.56,4,0.3,2.7
+CA-2022-100491,28/12/2022,02/01/2023,Second Class,Mark Wright,Consumer,United States,Rockford,Illinois,Central,Technology,Phones,Apple iPhone 14 (Unlocked),3329.96,4,0.15,180.0
+CA-2023-100492,18/02/2023,23/02/2023,Standard Class,David Robinson,Home Office,United States,Philadelphia,Pennsylvania,East,Technology,Computers,HP Pavilion Desktop,2199.96,4,0.0,176.0
+CA-2022-100493,05/06/2022,10/06/2022,Standard Class,Donald Lewis,Consumer,United States,Salt Lake City,Utah,West,Furniture,Tables,Bretford Rectangular Conference Room Table,629.99,1,0.2,-27.5
+CA-2021-100494,08/09/2021,15/09/2021,Standard Class,Anthony Young,Corporate,United States,Las Vegas,Nevada,West,Technology,Computers,Lenovo ThinkPad X1 Carbon,7409.94,6,0.1,468.0
+CA-2023-100495,17/10/2023,17/10/2023,Same Day,Betty Williams,Consumer,United States,Salt Lake City,Utah,West,Office Supplies,Art,Lorell Durable Correction Tape,6.29,1,0.2,1.05
+CA-2022-100496,17/10/2022,18/10/2022,Same Day,Christopher Lee,Corporate,United States,Nampa,Idaho,West,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,449.97,3,0.0,-27.0
+CA-2021-100497,18/09/2021,23/09/2021,Second Class,Richard Clark,Consumer,United States,Green Bay,Wisconsin,Central,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,28.78,2,0.2,3.2
+CA-2023-100498,18/08/2023,23/08/2023,Standard Class,David Johnson,Consumer,United States,Mesa,Arizona,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,13.59,1,0.3,0.8
+CA-2022-100499,04/12/2022,08/12/2022,Second Class,Linda King,Consumer,United States,Annapolis,Maryland,East,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,91.98,2,0.0,7.8
+CA-2023-100500,23/09/2023,27/09/2023,First Class,Charles Adams,Consumer,United States,Wichita,Kansas,Central,Technology,Storage,SanDisk Extreme Portable 1TB SSD,219.98,2,0.0,44.0
+CA-2021-100501,27/09/2021,01/10/2021,Second Class,Patricia Hernandez,Consumer,United States,Raleigh,North Carolina,East,Technology,Accessories,Belkin HDMI Cable,47.48,2,0.1,7.5
+CA-2022-100502,17/09/2022,21/09/2022,Second Class,Ashley Young,Corporate,United States,Provo,Utah,West,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,664.98,2,0.1,105.0
+CA-2023-100503,17/08/2023,22/08/2023,Standard Class,Nancy Davis,Home Office,United States,San Francisco,California,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,14.79,1,0.15,3.0
+CA-2020-100504,12/03/2020,18/03/2020,Standard Class,Barbara Nelson,Corporate,United States,Billings,Montana,West,Office Supplies,Envelopes,Jiffy Padded Mailers,19.54,1,0.3,1.73
+CA-2022-100505,12/03/2022,17/03/2022,Standard Class,Lisa Hall,Corporate,United States,Casper,Wyoming,West,Office Supplies,Art,Binney Smith Crayola Crayons,15.18,2,0.1,3.6
+CA-2021-100506,28/07/2021,31/07/2021,Second Class,Betty Lewis,Consumer,United States,Overland Park,Kansas,Central,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,47.97,3,0.4,0.0
+CA-2022-100507,26/09/2022,30/09/2022,Second Class,Richard Carter,Corporate,United States,Tacoma,Washington,West,Office Supplies,Binders,Wilson Jones WLJF98 Hanging File Folder Binder,85.08,4,0.15,16.25
+CA-2020-100508,18/10/2020,23/10/2020,Standard Class,Emily King,Home Office,United States,Newark,New Jersey,East,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,31.98,2,0.0,6.4
+CA-2023-100509,14/01/2023,19/01/2023,Standard Class,Linda Miller,Consumer,United States,Memphis,Tennessee,South,Office Supplies,Envelopes,Poly String Tie Envelopes,14.44,1,0.3,1.27
+CA-2020-100510,22/12/2020,29/12/2020,Standard Class,Karen Hall,Corporate,United States,Birmingham,Alabama,South,Furniture,Tables,Chromcraft Bull-Nose Round Table,1649.95,5,0.0,-140.0
+CA-2023-100511,02/12/2023,09/12/2023,Standard Class,Matthew Davis,Corporate,United States,Great Falls,Montana,West,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,269.97,3,0.0,-15.0
+CA-2020-100512,01/09/2020,08/09/2020,Standard Class,William Clark,Corporate,United States,Warren,Michigan,Central,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,55.48,4,0.15,11.25
+CA-2023-100513,18/03/2023,18/03/2023,Same Day,James Wright,Consumer,United States,Ogden,Utah,West,Technology,Computers,Lenovo ThinkPad X1 Carbon,3899.97,3,0.0,312.0
+CA-2020-100514,09/12/2020,16/12/2020,Standard Class,Steven Robinson,Consumer,United States,Aurora,Colorado,West,Furniture,Furnishings,Advantus Map Pins,17.08,2,0.1,3.15
+CA-2020-100515,18/03/2020,19/03/2020,Same Day,Lisa Martin,Home Office,United States,Annapolis,Maryland,East,Technology,Storage,SanDisk Extreme Portable 1TB SSD,98.99,1,0.2,11.0
+CA-2021-100516,20/04/2021,27/04/2021,Standard Class,James Taylor,Consumer,United States,Rochester,New York,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,33.98,2,0.3,3.0
+CA-2022-100517,01/02/2022,05/02/2022,First Class,Matthew Baker,Home Office,United States,Spokane,Washington,West,Office Supplies,Art,Lorell Durable Correction Tape,48.93,7,0.0,14.7
+CA-2021-100518,01/04/2021,06/04/2021,Standard Class,Donna Clark,Consumer,United States,Milwaukee,Wisconsin,Central,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,1592.43,7,0.7,-367.5
+CA-2020-100519,23/08/2020,26/08/2020,Second Class,Andrew Nguyen,Home Office,United States,Charlotte,North Carolina,East,Office Supplies,Supplies,Avery Printable Postcards,36.06,3,0.15,7.31
+CA-2022-100520,03/09/2022,10/09/2022,Standard Class,Dorothy Thompson,Home Office,United States,New Haven,Connecticut,East,Furniture,Chairs,Lesro Brewster Lounge Chair,1079.97,3,0.2,52.5
+CA-2023-100521,14/01/2023,19/01/2023,Second Class,Anthony Thompson,Home Office,United States,Norfolk,Virginia,East,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,92.48,2,0.15,9.38
+CA-2020-100522,02/10/2020,08/10/2020,Standard Class,Lisa Garcia,Consumer,United States,Denver,Colorado,West,Technology,Phones,Samsung Galaxy S23,4274.94,6,0.1,270.0
+CA-2020-100523,06/05/2020,11/05/2020,Standard Class,Mary Nelson,Consumer,United States,Chicago,Illinois,Central,Technology,Machines,Bother P-touch Labeler,37.99,1,0.1,3.6
+CA-2023-100524,27/11/2023,02/12/2023,Standard Class,Michael King,Consumer,United States,Bowling Green,Kentucky,South,Office Supplies,Paper,Xerox 1967,170.95,5,0.1,31.88
+CA-2023-100525,26/10/2023,01/11/2023,Standard Class,Michael Brown,Consumer,United States,Bangor,Maine,East,Office Supplies,Envelopes,Jiffy Padded Mailers,42.54,2,0.15,8.62
+CA-2021-100526,26/11/2021,29/11/2021,Second Class,Donna Miller,Home Office,United States,Missoula,Montana,West,Office Supplies,Binders,Fellowes Binder,36.98,2,0.15,7.25
+CA-2020-100527,23/01/2020,28/01/2020,Standard Class,Daniel Young,Consumer,United States,Huntsville,Alabama,South,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,12.74,1,0.3,1.12
+CA-2020-100528,14/06/2020,21/06/2020,Standard Class,Barbara Martinez,Home Office,United States,Evansville,Indiana,Central,Office Supplies,Fasteners,Staples 3 Ring Binder,17.98,2,0.0,5.4
+CA-2022-100529,02/10/2022,09/10/2022,Standard Class,Richard Thomas,Consumer,United States,Charleston,South Carolina,South,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,350.97,3,0.2,23.4
+CA-2023-100530,11/09/2023,15/09/2023,First Class,David Miller,Consumer,United States,Lexington,Kentucky,South,Office Supplies,Binders,Fellowes Binder,19.99,1,0.0,5.8
+CA-2021-100531,20/04/2021,26/04/2021,Standard Class,Betty Taylor,Consumer,United States,Green Bay,Wisconsin,Central,Technology,Phones,Motorola Moto G Stylus,284.99,1,0.1,18.0
+CA-2022-100532,15/03/2022,22/03/2022,Standard Class,Richard Thomas,Home Office,United States,Nashville,Tennessee,South,Furniture,Tables,Bevis Round Table,712.47,3,0.1,-40.5
+CA-2022-100533,01/04/2022,07/04/2022,Standard Class,Linda Lewis,Consumer,United States,Orlando,Florida,South,Technology,Machines,Bother P-touch Labeler,33.99,1,0.3,1.2
+CA-2022-100534,26/12/2022,27/12/2022,Same Day,William Thomas,Consumer,United States,Atlanta,Georgia,South,Furniture,Storage,Advantus Super Stacker Divided Storage Box,37.98,2,0.1,5.7
+CA-2022-100535,25/12/2022,28/12/2022,Second Class,Patricia Thompson,Consumer,United States,Jackson,Mississippi,South,Technology,Computers,HP Pavilion Desktop,549.99,1,0.0,44.0
+CA-2022-100536,03/10/2022,09/10/2022,Standard Class,Sandra Taylor,Consumer,United States,Cedar Rapids,Iowa,Central,Office Supplies,Fasteners,Universal Binder Clips,21.57,3,0.2,3.6
+CA-2022-100537,13/05/2022,18/05/2022,Second Class,Mark Harris,Home Office,United States,Detroit,Michigan,Central,Office Supplies,Envelopes,Jiffy Padded Mailers,106.35,5,0.15,21.56
+CA-2023-100538,18/06/2023,23/06/2023,Standard Class,John Wright,Consumer,United States,Nampa,Idaho,West,Office Supplies,Fasteners,Staples 3 Ring Binder,17.08,2,0.1,4.05
+CA-2021-100539,09/08/2021,14/08/2021,Standard Class,Jennifer Robinson,Consumer,United States,Mesa,Arizona,West,Technology,Computers,Apple MacBook Pro 14 inch,5599.96,4,0.6,-320.0
+CA-2020-100540,02/02/2020,08/02/2020,Standard Class,Sarah Thomas,Consumer,United States,Norfolk,Virginia,East,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,99.99,1,0.0,20.0
+CA-2023-100541,13/11/2023,15/11/2023,Same Day,Barbara Allen,Corporate,United States,Austin,Texas,Central,Furniture,Tables,Chromcraft Bull-Nose Round Table,305.24,1,0.15,-17.5
+CA-2022-100542,27/08/2022,01/09/2022,Standard Class,Anthony Jackson,Corporate,United States,Reno,Nevada,West,Office Supplies,Supplies,Avery Printable Postcards,24.04,2,0.15,4.88
+CA-2020-100543,01/12/2020,08/12/2020,Standard Class,Betty Flores,Consumer,United States,Milwaukee,Wisconsin,Central,Furniture,Furnishings,Advantus Map Pins,26.97,3,0.0,6.3
+CA-2020-100544,11/12/2020,18/12/2020,Standard Class,Susan Allen,Home Office,United States,Lexington,Kentucky,South,Furniture,Storage,Iris Letter Size File Box,47.48,2,0.1,6.3
+CA-2023-100545,10/09/2023,15/09/2023,Standard Class,Kenneth Torres,Home Office,United States,Columbus,Ohio,Central,Furniture,Tables,Bretford Rectangular Conference Room Table,3324.95,5,0.1,-206.25
+CA-2021-100546,17/05/2021,22/05/2021,Standard Class,Anthony Allen,Consumer,United States,San Francisco,California,West,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,436.98,2,0.1,33.75
+CA-2020-100547,28/12/2020,02/01/2021,Standard Class,Karen Nelson,Corporate,United States,Billings,Montana,West,Furniture,Storage,Advantus Super Stacker Divided Storage Box,12.99,1,0.7,-2.85
+CA-2021-100548,20/11/2021,24/11/2021,First Class,Andrew Williams,Consumer,United States,Casper,Wyoming,West,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,902.45,5,0.1,85.5
+CA-2022-100549,10/10/2022,15/10/2022,Standard Class,Sandra Hall,Corporate,United States,Salem,Oregon,West,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,909.98,2,0.6,-130.0
+CA-2021-100550,09/11/2021,13/11/2021,First Class,Susan Torres,Corporate,United States,Tacoma,Washington,West,Office Supplies,Supplies,Avery Printable Postcards,90.93,7,0.0,27.3
+CA-2020-100551,11/11/2020,16/11/2020,Standard Class,Robert Wright,Consumer,United States,Baltimore,Maryland,East,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,31.98,2,0.0,9.6
+CA-2020-100552,11/12/2020,15/12/2020,Second Class,Jessica King,Corporate,United States,Seattle,Washington,West,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,219.99,1,0.0,-12.0
+CA-2020-100553,18/05/2020,21/05/2020,Second Class,Mark Lee,Consumer,United States,Rochester,New York,East,Furniture,Chairs,Lesro Brewster Lounge Chair,359.99,1,0.2,17.5
+CA-2023-100554,21/11/2023,26/11/2023,Second Class,Patricia Baker,Consumer,United States,Greenville,South Carolina,South,Furniture,Storage,Iris Letter Size File Box,118.7,5,0.1,15.75
+CA-2021-100555,14/02/2021,19/02/2021,Standard Class,Joseph Miller,Corporate,United States,Henderson,Nevada,West,Technology,Storage,Seagate Backup Plus 2TB External HDD,239.97,3,0.0,48.0
+CA-2022-100556,11/11/2022,16/11/2022,Standard Class,Linda White,Home Office,United States,Cedar Rapids,Iowa,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,85.49,1,0.1,-3.75
+CA-2021-100557,15/07/2021,22/07/2021,Standard Class,Susan Young,Consumer,United States,Overland Park,Kansas,Central,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,349.93,7,0.0,52.5
+CA-2022-100558,28/12/2022,03/01/2023,Standard Class,Matthew Wilson,Home Office,United States,Lexington,Kentucky,South,Office Supplies,Fasteners,Universal Binder Clips,15.18,2,0.1,3.6
+CA-2022-100559,13/09/2022,20/09/2022,Standard Class,Joseph Johnson,Home Office,United States,Bangor,Maine,East,Office Supplies,Paper,Avery Laser Labels,18.04,1,0.1,4.12
+CA-2021-100560,05/02/2021,11/02/2021,Standard Class,Jessica Baker,Corporate,United States,Charlotte,North Carolina,East,Technology,Accessories,APC Essential SurgeArrest 6,33.24,1,0.1,5.25
+CA-2023-100561,26/01/2023,28/01/2023,Same Day,Lisa Lewis,Home Office,United States,Dallas,Texas,Central,Furniture,Furnishings,Advantus Map Pins,40.45,5,0.2,5.25
+CA-2021-100562,24/10/2021,30/10/2021,Standard Class,Robert Torres,Corporate,United States,Eugene,Oregon,West,Furniture,Tables,Bretford Rectangular Conference Room Table,2099.97,3,0.0,-165.0
+CA-2021-100563,19/02/2021,24/02/2021,Standard Class,Karen Anderson,Corporate,United States,Pittsburgh,Pennsylvania,East,Technology,Copiers,Cisco TelePresence System EX90,7999.99,1,0.0,640.0
+CA-2021-100564,21/07/2021,27/07/2021,Standard Class,Donald King,Consumer,United States,Norfolk,Virginia,East,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,54.36,4,0.3,4.8
+CA-2020-100565,28/06/2020,04/07/2020,Standard Class,Thomas Hall,Corporate,United States,Salem,Oregon,West,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,36.98,2,0.15,7.5
+CA-2020-100566,16/03/2020,21/03/2020,Standard Class,Ashley Allen,Corporate,United States,Rockville,Maryland,East,Technology,Accessories,APC Essential SurgeArrest 6,66.48,2,0.1,10.5
+CA-2023-100567,02/02/2023,02/02/2023,Same Day,Margaret Martin,Consumer,United States,Cheyenne,Wyoming,West,Technology,Storage,SanDisk Extreme Portable 1TB SSD,203.48,2,0.15,27.5
+CA-2022-100568,21/10/2022,27/10/2022,Standard Class,Nancy Johnson,Consumer,United States,Grand Rapids,Michigan,Central,Technology,Storage,Seagate Backup Plus 2TB External HDD,75.99,1,0.1,12.0
+CA-2022-100569,20/05/2022,27/05/2022,Standard Class,Matthew Allen,Corporate,United States,Houston,Texas,Central,Technology,Phones,Plantronics CS510 Wireless Headset,759.95,5,0.4,0.0
+CA-2020-100570,23/07/2020,30/07/2020,Standard Class,Anthony Garcia,Consumer,United States,Rochester,Minnesota,Central,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,63.96,4,0.0,12.8
+CA-2021-100571,23/10/2021,28/10/2021,Standard Class,Anthony Hill,Consumer,United States,Houston,Texas,Central,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,37.98,2,0.0,11.4
+CA-2020-100572,16/03/2020,21/03/2020,Standard Class,Elizabeth Thomas,Consumer,United States,Las Vegas,Nevada,West,Furniture,Storage,Storex Plastic Stacking Shelf,97.11,3,0.15,10.31
+CA-2023-100573,10/03/2023,15/03/2023,Standard Class,Donald Torres,Corporate,United States,Virginia Beach,Virginia,East,Technology,Phones,Apple iPhone 14 (Unlocked),764.99,1,0.3,18.0
+CA-2020-100574,02/09/2020,09/09/2020,Standard Class,Sarah Torres,Corporate,United States,Rochester,Minnesota,Central,Office Supplies,Fasteners,Universal Binder Clips,15.18,2,0.1,3.6
+CA-2023-100575,27/12/2023,02/01/2024,Standard Class,Daniel Lewis,Consumer,United States,Rochester,Minnesota,Central,Technology,Phones,Cisco IP Phone 7945,1044.95,5,0.1,69.38
+CA-2023-100576,01/12/2023,06/12/2023,Second Class,Donald Nguyen,Consumer,United States,Jersey City,New Jersey,East,Office Supplies,Labels,Avery Address Labels,73.43,7,0.6,-15.75
+CA-2023-100577,12/01/2023,16/01/2023,First Class,Betty Carter,Corporate,United States,Billings,Montana,West,Technology,Machines,Bother P-touch Labeler,167.94,6,0.6,-14.4
+CA-2022-100578,23/10/2022,27/10/2022,First Class,Dorothy Adams,Corporate,United States,Cheyenne,Wyoming,West,Technology,Storage,Kingston A400 480GB SSD,50.87,1,0.15,6.88
+CA-2020-100579,18/11/2020,19/11/2020,Same Day,Paul Harris,Consumer,United States,Wilmington,Delaware,East,Furniture,Tables,Bretford Rectangular Conference Room Table,454.99,1,0.7,41.25
+CA-2020-100580,11/12/2020,14/12/2020,First Class,Linda Wilson,Consumer,United States,New Haven,Connecticut,East,Technology,Storage,Kingston A400 480GB SSD,93.48,2,0.3,5.5
+CA-2021-100581,19/04/2021,24/04/2021,Second Class,Matthew Green,Home Office,United States,Norfolk,Virginia,East,Technology,Accessories,Belkin HDMI Cable,24.99,1,0.0,5.0
+CA-2020-100582,24/02/2020,29/02/2020,Standard Class,Christopher Hall,Consumer,United States,Rockford,Illinois,Central,Office Supplies,Binders,Cardinal Slant D Ring Binder,12.02,1,0.15,2.44
+CA-2023-100583,11/12/2023,16/12/2023,Second Class,Emily White,Corporate,United States,Huntsville,Alabama,South,Furniture,Chairs,Lesro Brewster Lounge Chair,1899.95,5,0.1,131.25
+CA-2023-100584,08/05/2023,14/05/2023,Standard Class,John Baker,Corporate,United States,Bridgeport,Connecticut,East,Office Supplies,Supplies,Avery Printable Postcards,10.39,1,0.4,0.0
+CA-2022-100585,07/09/2022,14/09/2022,Standard Class,Susan White,Consumer,United States,Tampa,Florida,South,Technology,Phones,Samsung Galaxy S23,3374.95,5,0.2,150.0
+CA-2021-100586,28/11/2021,03/12/2021,Standard Class,Daniel Allen,Corporate,United States,Colorado Springs,Colorado,West,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,6.99,1,0.6,-1.5
+CA-2022-100587,04/08/2022,11/08/2022,Standard Class,David Adams,Consumer,United States,Tampa,Florida,South,Furniture,Storage,Advantus Super Stacker Divided Storage Box,99.95,5,0.0,19.0
+CA-2023-100588,21/04/2023,28/04/2023,Standard Class,Barbara Hall,Corporate,United States,Columbus,Georgia,South,Technology,Accessories,Belkin HDMI Cable,124.95,5,0.0,25.0
+CA-2023-100589,02/04/2023,09/04/2023,Standard Class,Betty Harris,Home Office,United States,Overland Park,Kansas,Central,Furniture,Tables,Chromcraft Bull-Nose Round Table,593.98,2,0.2,-28.0
+CA-2023-100590,13/10/2023,18/10/2023,Second Class,Mark Walker,Consumer,United States,Springfield,Missouri,Central,Furniture,Chairs,Hon 5400 Series Task Chair,71.99,1,0.2,3.4
+CA-2023-100591,19/04/2023,26/04/2023,Standard Class,Donald Hernandez,Consumer,United States,Tacoma,Washington,West,Furniture,Tables,Bretford Rectangular Conference Room Table,1259.98,2,0.2,-55.0
+CA-2023-100592,13/08/2023,15/08/2023,First Class,Dorothy Nelson,Consumer,United States,Meridian,Idaho,West,Office Supplies,Paper,Hammermill Copy Plus Paper,134.94,6,0.5,-10.8
+CA-2020-100593,06/09/2020,12/09/2020,Standard Class,Susan Anderson,Consumer,United States,Chicago,Illinois,Central,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,219.99,1,0.0,-12.0
+CA-2021-100594,06/12/2021,13/12/2021,Standard Class,Dorothy Robinson,Home Office,United States,Bridgeport,Connecticut,East,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,40.47,3,0.2,6.75
+CA-2022-100595,12/12/2022,17/12/2022,Second Class,Jessica Williams,Corporate,United States,Allentown,Pennsylvania,East,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,1220.94,6,0.15,-45.0
+CA-2021-100596,05/06/2021,09/06/2021,Second Class,David Allen,Consumer,United States,Hartford,Connecticut,East,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,34.18,2,0.2,5.7
+CA-2022-100597,24/02/2022,03/03/2022,Standard Class,Steven Baker,Consumer,United States,Warren,Michigan,Central,Furniture,Tables,Bevis Round Table,1662.43,7,0.1,-94.5
+CA-2020-100598,03/09/2020,10/09/2020,Standard Class,Jennifer Walker,Consumer,United States,Annapolis,Maryland,East,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,649.95,5,0.0,78.0
+CA-2020-100599,08/06/2020,13/06/2020,Standard Class,Karen Nelson,Corporate,United States,Chicago,Illinois,Central,Technology,Accessories,Logitech MX Master 3 Wireless Mouse,179.98,2,0.2,20.0
+CA-2023-100600,20/08/2023,25/08/2023,Standard Class,Paul Green,Consumer,United States,Charlotte,North Carolina,East,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,56.97,3,0.0,17.1
+CA-2022-100601,22/10/2022,28/10/2022,Standard Class,Nancy Harris,Home Office,United States,Phoenix,Arizona,West,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,9.74,1,0.7,-2.25
+CA-2023-100602,09/08/2023,11/08/2023,Same Day,Jennifer Clark,Corporate,United States,Baton Rouge,Louisiana,South,Office Supplies,Fasteners,Advantus Push Pins,17.97,3,0.0,5.4
+CA-2021-100603,19/02/2021,26/02/2021,Standard Class,Margaret Nguyen,Home Office,United States,Billings,Montana,West,Technology,Copiers,Cisco TelePresence System EX90,14399.98,2,0.2,640.0
+CA-2022-100604,04/08/2022,11/08/2022,Standard Class,Paul Lee,Consumer,United States,Rochester,New York,East,Furniture,Furnishings,Advantus Map Pins,17.52,3,0.7,-4.73
+CA-2022-100605,17/12/2022,19/12/2022,First Class,Patricia Hernandez,Consumer,United States,Springfield,Massachusetts,East,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,74.04,6,0.1,17.55
+CA-2022-100606,28/11/2022,01/12/2022,Second Class,James Adams,Consumer,United States,Missoula,Montana,West,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,28.48,2,0.5,-2.85
+CA-2023-100607,28/12/2023,03/01/2024,Standard Class,Michael Smith,Consumer,United States,Dover,Delaware,East,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,25.98,2,0.0,7.8
+CA-2022-100608,17/02/2022,20/02/2022,First Class,Thomas White,Consumer,United States,Wilmington,Delaware,East,Office Supplies,Fasteners,Staples 3 Ring Binder,13.48,2,0.5,-1.35
+CA-2022-100609,15/05/2022,19/05/2022,Second Class,Daniel Thomas,Consumer,United States,Richmond,Virginia,East,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,208.99,1,0.1,-9.0
+CA-2021-100610,22/01/2021,28/01/2021,Standard Class,Kimberly Torres,Consumer,United States,Jackson,Mississippi,South,Technology,Storage,Seagate Backup Plus 2TB External HDD,135.98,2,0.3,8.0
+CA-2023-100611,24/08/2023,27/08/2023,First Class,Daniel Nguyen,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Tables,Bretford Rectangular Conference Room Table,1994.97,3,0.1,-123.75
+CA-2023-100612,14/10/2023,20/10/2023,Standard Class,Steven Taylor,Corporate,United States,Salt Lake City,Utah,West,Furniture,Chairs,Global Adaptabilities Collection Chair,1329.93,7,0.0,127.4
+CA-2023-100613,23/04/2023,26/04/2023,Second Class,Emily Martinez,Consumer,United States,Davenport,Iowa,Central,Furniture,Tables,Chromcraft Bull-Nose Round Table,214.49,1,0.7,21.0
+CA-2023-100614,20/07/2023,25/07/2023,Standard Class,Joseph White,Corporate,United States,Nampa,Idaho,West,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,26.98,2,0.2,4.5
+CA-2021-100615,09/05/2021,11/05/2021,Same Day,James Brown,Consumer,United States,Denver,Colorado,West,Office Supplies,Fasteners,Advantus Push Pins,5.99,1,0.0,1.8
+CA-2022-100616,09/07/2022,10/07/2022,Same Day,Kimberly Wilson,Corporate,United States,Seattle,Washington,West,Office Supplies,Fasteners,Universal Binder Clips,29.56,4,0.15,6.0
+CA-2021-100617,07/10/2021,12/10/2021,Standard Class,Linda Williams,Corporate,United States,Huntsville,Alabama,South,Office Supplies,Labels,Avery Address Labels,31.47,3,0.6,-6.75
+CA-2020-100618,11/08/2020,17/08/2020,Standard Class,John Wilson,Corporate,United States,Shreveport,Louisiana,South,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,67.95,5,0.3,4.0
+CA-2023-100619,12/09/2023,15/09/2023,First Class,Anthony Hill,Consumer,United States,Aurora,Illinois,Central,Technology,Computers,Apple MacBook Pro 14 inch,1999.99,1,0.0,160.0
+CA-2023-100620,19/05/2023,26/05/2023,Standard Class,Steven Jones,Corporate,United States,Raleigh,North Carolina,East,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,142.47,3,0.1,16.88
+CA-2022-100621,01/04/2022,06/04/2022,Standard Class,Dorothy Martin,Consumer,United States,San Jose,California,West,Furniture,Tables,Bevis Round Table,693.72,3,0.15,-33.75
+CA-2020-100622,08/01/2020,15/01/2020,Standard Class,Patricia Harris,Consumer,United States,Bridgeport,Connecticut,East,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,617.49,1,0.1,97.5
+CA-2022-100623,03/06/2022,05/06/2022,Same Day,Charles Rodriguez,Home Office,United States,Worcester,Massachusetts,East,Technology,Storage,Seagate Backup Plus 2TB External HDD,319.96,4,0.0,64.0
+CA-2023-100624,01/03/2023,08/03/2023,Standard Class,Kenneth Green,Consumer,United States,Greensboro,North Carolina,East,Furniture,Storage,Iris Letter Size File Box,49.98,2,0.0,8.4
+CA-2022-100625,13/11/2022,18/11/2022,Standard Class,Donald Garcia,Consumer,United States,Saint Paul,Minnesota,Central,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,59.96,4,0.0,18.0
+CA-2022-100626,06/12/2022,09/12/2022,Second Class,Richard Jones,Corporate,United States,Eugene,Oregon,West,Furniture,Storage,Iris Letter Size File Box,44.98,2,0.2,4.2
+CA-2021-100627,05/10/2021,08/10/2021,Second Class,James Williams,Consumer,United States,Saint Paul,Minnesota,Central,Furniture,Chairs,Global Adaptabilities Collection Chair,175.74,1,0.15,11.38
+CA-2020-100628,26/12/2020,02/01/2021,Standard Class,Andrew King,Consumer,United States,Chicago,Illinois,Central,Technology,Machines,Bother P-touch Labeler,79.98,2,0.0,9.6
+CA-2022-100629,18/05/2022,23/05/2022,Standard Class,Anthony Martinez,Consumer,United States,Bridgeport,Connecticut,East,Furniture,Tables,Bretford Rectangular Conference Room Table,664.99,1,0.1,-41.25
+CA-2021-100630,22/05/2021,29/05/2021,Standard Class,Linda White,Consumer,United States,Aurora,Illinois,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,85.49,1,0.1,-3.75
+CA-2021-100631,03/12/2021,07/12/2021,First Class,Elizabeth Hernandez,Consumer,United States,Greensboro,North Carolina,East,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,569.96,4,0.1,-27.0
+CA-2020-100632,22/12/2020,28/12/2020,Standard Class,Barbara Martinez,Home Office,United States,Chicago,Illinois,Central,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,48.42,3,0.3,4.28
+CA-2022-100633,19/02/2022,26/02/2022,Standard Class,Elizabeth Hall,Home Office,United States,Pittsburgh,Pennsylvania,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,25.98,2,0.7,-9.0
+CA-2022-100634,05/09/2022,09/09/2022,First Class,Paul Flores,Corporate,United States,Charleston,South Carolina,South,Office Supplies,Supplies,Avery Printable Postcards,24.04,2,0.15,4.88
+CA-2021-100635,23/09/2021,25/09/2021,First Class,Mary Walker,Consumer,United States,Grand Rapids,Michigan,Central,Office Supplies,Art,Binney Smith Crayola Crayons,7.59,1,0.1,1.8
+CA-2023-100636,27/11/2023,03/12/2023,Standard Class,Joseph Brown,Consumer,United States,Annapolis,Maryland,East,Technology,Phones,Samsung Galaxy S23,1499.98,2,0.0,120.0
+CA-2023-100637,23/06/2023,30/06/2023,Standard Class,Nancy Martinez,Consumer,United States,Portland,Maine,East,Furniture,Chairs,Hon 5400 Series Task Chair,203.97,3,0.3,5.1
+CA-2020-100638,24/04/2020,01/05/2020,Standard Class,Lisa King,Consumer,United States,Fort Wayne,Indiana,Central,Technology,Storage,Seagate Backup Plus 2TB External HDD,79.99,1,0.0,16.0
+CA-2023-100639,25/01/2023,30/01/2023,Standard Class,Sandra Green,Home Office,United States,Greensboro,North Carolina,East,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,341.98,2,0.2,22.8
+CA-2021-100640,03/03/2021,08/03/2021,Standard Class,Betty Taylor,Consumer,United States,Rochester,Minnesota,Central,Technology,Computers,Apple MacBook Pro 14 inch,7599.96,4,0.1,480.0
+CA-2021-100641,27/09/2021,02/10/2021,Standard Class,Michael Jones,Consumer,United States,Minneapolis,Minnesota,Central,Office Supplies,Fasteners,Advantus Push Pins,5.99,1,0.0,1.8
+CA-2020-100642,01/04/2020,05/04/2020,Second Class,Jessica Thompson,Home Office,United States,Trenton,New Jersey,East,Furniture,Furnishings,Advantus Map Pins,22.92,3,0.3,1.58
+CA-2020-100643,10/06/2020,16/06/2020,Standard Class,Betty Lee,Consumer,United States,Rochester,Minnesota,Central,Technology,Storage,Kingston A400 480GB SSD,52.24,1,0.1,8.25
+CA-2023-100644,26/02/2023,01/03/2023,Second Class,John Robinson,Corporate,United States,Provo,Utah,West,Furniture,Storage,Eldon Fold N Roll Cart System,399.95,5,0.0,47.5
+CA-2022-100645,26/12/2022,29/12/2022,Second Class,Kenneth Hill,Consumer,United States,Cincinnati,Ohio,Central,Technology,Machines,Bother P-touch Labeler,151.96,4,0.1,14.4
+CA-2021-100646,14/11/2021,21/11/2021,Standard Class,Donna Baker,Consumer,United States,Minneapolis,Minnesota,Central,Furniture,Tables,Balt Adjustable Standing Desk,1248.72,3,0.15,-65.62
+CA-2023-100647,28/03/2023,02/04/2023,Standard Class,Charles Anderson,Consumer,United States,Missoula,Montana,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,31.98,2,0.0,6.4
+CA-2022-100648,16/07/2022,17/07/2022,Same Day,Ashley Williams,Home Office,United States,Columbus,Ohio,Central,Office Supplies,Envelopes,Jiffy Padded Mailers,42.54,2,0.15,8.62
+CA-2022-100649,17/07/2022,20/07/2022,First Class,John Carter,Consumer,United States,Ogden,Utah,West,Technology,Phones,Samsung Galaxy S23,2081.22,3,0.15,112.5
+CA-2020-100650,13/02/2020,19/02/2020,Standard Class,Jennifer Lee,Home Office,United States,Baton Rouge,Louisiana,South,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,9.99,1,0.0,3.0
+CA-2020-100651,13/12/2020,16/12/2020,Second Class,Kenneth Torres,Consumer,United States,Spokane,Washington,West,Furniture,Storage,Eldon Fold N Roll Cart System,79.99,1,0.0,9.5
+CA-2020-100652,21/08/2020,28/08/2020,Standard Class,Nancy Hernandez,Consumer,United States,Augusta,Maine,East,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,649.99,1,0.0,130.0
+CA-2023-100653,09/07/2023,12/07/2023,Second Class,Mark Young,Consumer,United States,Hartford,Connecticut,East,Office Supplies,Envelopes,Poly String Tie Envelopes,67.96,4,0.0,20.4
+CA-2023-100654,25/06/2023,30/06/2023,Standard Class,David Hernandez,Consumer,United States,Provo,Utah,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,35.97,3,0.5,-3.6
+CA-2020-100655,19/10/2020,23/10/2020,Second Class,Sandra Martinez,Consumer,United States,Milwaukee,Wisconsin,Central,Office Supplies,Fasteners,Advantus Push Pins,21.56,4,0.2,3.6
+CA-2021-100656,15/10/2021,15/10/2021,Same Day,Richard Young,Consumer,United States,Wichita,Kansas,Central,Technology,Copiers,Cisco TelePresence System EX90,7999.99,1,0.0,640.0
+CA-2020-100657,01/10/2020,07/10/2020,Standard Class,Linda Torres,Corporate,United States,New Haven,Connecticut,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,37.98,2,0.1,9.0
+CA-2022-100658,25/08/2022,30/08/2022,Standard Class,David Flores,Corporate,United States,Denver,Colorado,West,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,54.12,3,0.1,12.83
+CA-2021-100659,28/09/2021,03/10/2021,Standard Class,Donna Young,Corporate,United States,Chicago,Illinois,Central,Furniture,Furnishings,Advantus Map Pins,24.96,3,0.15,3.94
+CA-2023-100660,28/10/2023,02/11/2023,Standard Class,Donald Davis,Consumer,United States,Cedar Rapids,Iowa,Central,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,89.95,5,0.2,15.0
+CA-2023-100661,12/07/2023,17/07/2023,Second Class,Anthony Harris,Home Office,United States,Tucson,Arizona,West,Furniture,Storage,Eldon Fold N Roll Cart System,79.99,1,0.0,9.5
+CA-2021-100662,27/11/2021,01/12/2021,Second Class,Betty Thomas,Consumer,United States,Casper,Wyoming,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,59.16,4,0.15,12.0
+CA-2020-100663,24/09/2020,30/09/2020,Standard Class,William Nguyen,Consumer,United States,Salt Lake City,Utah,West,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,184.96,4,0.15,18.75
+CA-2021-100664,11/08/2021,16/08/2021,Standard Class,Barbara Johnson,Corporate,United States,Rochester,New York,East,Office Supplies,Supplies,Avery Printable Postcards,38.97,3,0.0,11.7
+CA-2023-100665,21/12/2023,25/12/2023,Second Class,Jessica Hall,Consumer,United States,Jersey City,New Jersey,East,Technology,Storage,Seagate Backup Plus 2TB External HDD,55.99,1,0.6,-8.0
+CA-2022-100666,19/09/2022,21/09/2022,First Class,Charles Martin,Consumer,United States,Cheyenne,Wyoming,West,Technology,Phones,Apple iPhone 14 (Unlocked),1709.98,2,0.1,108.0
+CA-2023-100667,16/07/2023,20/07/2023,Second Class,Matthew Rodriguez,Corporate,United States,Philadelphia,Pennsylvania,East,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,14.99,1,0.0,4.5
+CA-2020-100668,20/09/2020,22/09/2020,First Class,Kenneth Flores,Home Office,United States,Memphis,Tennessee,South,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,79.95,5,0.0,16.0
+CA-2020-100669,17/01/2020,20/01/2020,Second Class,William White,Consumer,United States,Atlanta,Georgia,South,Furniture,Tables,Bevis Round Table,249.99,1,0.0,-18.0
+CA-2020-100670,21/10/2020,28/10/2020,Standard Class,Richard Martin,Home Office,United States,Rochester,Minnesota,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,76.49,1,0.3,-1.25
+CA-2022-100671,07/03/2022,08/03/2022,Same Day,Sarah Rodriguez,Corporate,United States,Missoula,Montana,West,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,18.04,1,0.1,4.28
+CA-2023-100672,15/11/2023,20/11/2023,Standard Class,Kenneth Hill,Consumer,United States,Hattiesburg,Mississippi,South,Office Supplies,Binders,Avery Durable Binders,15.19,1,0.1,3.6
+CA-2023-100673,03/06/2023,09/06/2023,Standard Class,James Lewis,Consumer,United States,Denver,Colorado,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,73.95,5,0.15,10.0
+CA-2021-100674,17/09/2021,24/09/2021,Standard Class,Anthony Hernandez,Consumer,United States,Bangor,Maine,East,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,186.99,1,0.3,-3.0
+CA-2022-100675,14/12/2022,20/12/2022,Standard Class,Andrew Johnson,Consumer,United States,Richmond,Virginia,East,Furniture,Furnishings,Advantus Map Pins,44.95,5,0.0,10.5
+CA-2023-100676,18/07/2023,20/07/2023,First Class,Anthony Clark,Consumer,United States,Los Angeles,California,West,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,76.49,1,0.3,-1.25
+CA-2022-100677,10/01/2022,14/01/2022,Second Class,Michael Johnson,Home Office,United States,Spokane,Washington,West,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,218.49,1,0.1,16.88
+CA-2022-100678,06/07/2022,13/07/2022,Standard Class,Patricia Martin,Home Office,United States,Knoxville,Tennessee,South,Technology,Phones,Apple iPhone 14 (Unlocked),854.99,1,0.1,54.0
+CA-2021-100679,26/10/2021,29/10/2021,First Class,William Rodriguez,Consumer,United States,Cincinnati,Ohio,Central,Technology,Computers,HP Pavilion Desktop,1484.97,3,0.2,66.0
+CA-2022-100680,16/04/2022,20/04/2022,Second Class,Charles Garcia,Consumer,United States,Billings,Montana,West,Office Supplies,Labels,Pres-a-ply Labels,31.17,3,0.4,0.0
+CA-2022-100681,16/02/2022,21/02/2022,Standard Class,Michael Lewis,Consumer,United States,Saint Louis,Missouri,Central,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,60.76,4,0.1,9.6
+CA-2022-100682,17/03/2022,22/03/2022,Standard Class,Donna Nguyen,Home Office,United States,Norfolk,Virginia,East,Furniture,Storage,Iris Letter Size File Box,23.74,1,0.1,3.15
+CA-2022-100683,19/12/2022,22/12/2022,Second Class,Mary Wright,Consumer,United States,Tacoma,Washington,West,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,131.07,3,0.1,8.77
+CA-2021-100684,03/12/2021,08/12/2021,Standard Class,Patricia King,Consumer,United States,Annapolis,Maryland,East,Furniture,Chairs,Hon 5400 Series Task Chair,215.97,3,0.2,10.2
+CA-2021-100685,13/05/2021,19/05/2021,Standard Class,Patricia Harris,Consumer,United States,Great Falls,Montana,West,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,649.99,1,0.0,130.0
+CA-2021-100686,04/02/2021,11/02/2021,Standard Class,Joseph Thompson,Consumer,United States,Saint Paul,Minnesota,Central,Office Supplies,Art,Binney Smith Crayola Crayons,15.98,2,0.0,4.8
+CA-2022-100687,04/10/2022,11/10/2022,Standard Class,Christopher Jones,Consumer,United States,Evansville,Indiana,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,89.99,1,0.0,-5.0
+CA-2022-100688,06/06/2022,06/06/2022,Same Day,Donald Nelson,Consumer,United States,Rochester,New York,East,Furniture,Tables,Chromcraft Bull-Nose Round Table,280.49,1,0.3,-7.0
+CA-2022-100689,27/12/2022,03/01/2023,Standard Class,Lisa King,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Fasteners,Universal Binder Clips,7.39,1,0.15,1.5
+CA-2021-100690,12/01/2021,18/01/2021,Standard Class,Dorothy Johnson,Consumer,United States,Lexington,Kentucky,South,Furniture,Storage,Iris Letter Size File Box,74.97,3,0.0,12.6
+CA-2022-100691,24/04/2022,28/04/2022,Second Class,Matthew Miller,Home Office,United States,Seattle,Washington,West,Technology,Storage,Kingston A400 480GB SSD,82.48,2,0.5,-5.5
+CA-2023-100692,06/11/2023,13/11/2023,Standard Class,Sarah Clark,Corporate,United States,Colorado Springs,Colorado,West,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,63.96,4,0.0,12.8
+CA-2023-100693,26/09/2023,30/09/2023,Second Class,Barbara Wright,Home Office,United States,Buffalo,New York,East,Technology,Computers,Lenovo ThinkPad X1 Carbon,3509.97,3,0.2,156.0
+CA-2021-100694,26/05/2021,01/06/2021,Standard Class,Ashley Clark,Consumer,United States,New Haven,Connecticut,East,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,599.96,4,0.0,-36.0
+CA-2020-100695,26/12/2020,30/12/2020,First Class,Sarah Martinez,Home Office,United States,Oklahoma City,Oklahoma,South,Technology,Copiers,Cisco TelePresence System EX90,23999.97,3,0.0,1920.0
+CA-2021-100696,12/08/2021,19/08/2021,Standard Class,Michael Martin,Home Office,United States,Saint Paul,Minnesota,Central,Technology,Computers,Lenovo ThinkPad X1 Carbon,1234.99,1,0.1,78.0
+CA-2023-100697,05/11/2023,08/11/2023,Second Class,Karen Garcia,Consumer,United States,Greensboro,North Carolina,East,Furniture,Storage,Iris Letter Size File Box,39.98,2,0.4,0.0
+CA-2021-100698,15/03/2021,20/03/2021,Second Class,Sandra Young,Consumer,United States,Memphis,Tennessee,South,Technology,Accessories,Logitech MX Master 3 Wireless Mouse,499.95,5,0.0,100.0
+CA-2023-100699,05/02/2023,09/02/2023,Second Class,Donna Flores,Consumer,United States,Kansas City,Kansas,Central,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,493.96,4,0.1,46.8
+CA-2021-100700,26/01/2021,31/01/2021,Second Class,Michael Lewis,Consumer,United States,Los Angeles,California,West,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,36.08,2,0.1,8.55
+CA-2020-100701,22/10/2020,29/10/2020,Standard Class,Ashley Wilson,Consumer,United States,Trenton,New Jersey,East,Furniture,Tables,Bevis Round Table,674.97,3,0.2,-27.0
+CA-2023-100702,20/11/2023,23/11/2023,Second Class,Dorothy Miller,Home Office,United States,Springfield,Massachusetts,East,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,42.54,1,0.15,2.44
+CA-2021-100703,10/12/2021,15/12/2021,Standard Class,Mark Carter,Home Office,United States,Cedar Rapids,Iowa,Central,Furniture,Tables,Bretford Rectangular Conference Room Table,594.99,1,0.3,-13.75
+CA-2022-100704,24/03/2022,27/03/2022,Second Class,Emily Torres,Corporate,United States,Tucson,Arizona,West,Office Supplies,Envelopes,Jiffy Padded Mailers,39.08,2,0.3,3.45
+CA-2022-100705,05/11/2022,11/11/2022,Standard Class,John Carter,Corporate,United States,Charlotte,North Carolina,East,Office Supplies,Fasteners,Advantus Push Pins,10.78,2,0.2,1.8
+CA-2021-100706,12/12/2021,19/12/2021,Standard Class,Elizabeth Martinez,Consumer,United States,Annapolis,Maryland,East,Office Supplies,Fasteners,Staples 3 Ring Binder,22.92,3,0.3,2.03
+CA-2021-100707,10/11/2021,12/11/2021,First Class,Kenneth Taylor,Home Office,United States,Fort Smith,Arkansas,South,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,9.49,1,0.1,2.25
+CA-2023-100708,20/06/2023,22/06/2023,First Class,Michael Torres,Consumer,United States,Boston,Massachusetts,East,Technology,Accessories,APC Essential SurgeArrest 6,90.96,4,0.7,-21.0
+CA-2023-100709,08/10/2023,13/10/2023,Standard Class,Patricia Carter,Home Office,United States,Saint Paul,Minnesota,Central,Furniture,Chairs,Hon 5400 Series Task Chair,151.98,2,0.1,10.2
+CA-2022-100710,06/01/2022,13/01/2022,Standard Class,Richard Thomas,Corporate,United States,Salem,Oregon,West,Furniture,Storage,Advantus Super Stacker Divided Storage Box,17.99,1,0.2,1.9
+CA-2021-100711,26/08/2021,02/09/2021,Standard Class,William Smith,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,28.78,2,0.2,4.8
+CA-2023-100712,17/10/2023,22/10/2023,Standard Class,Donna Green,Consumer,United States,Great Falls,Montana,West,Technology,Phones,Cisco IP Phone 7945,417.98,2,0.1,27.75
+CA-2020-100713,26/02/2020,02/03/2020,Standard Class,Lisa Johnson,Corporate,United States,Newark,New Jersey,East,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,170.98,2,0.1,-7.5
+CA-2023-100714,10/03/2023,17/03/2023,Standard Class,Betty Carter,Consumer,United States,Rockville,Maryland,East,Furniture,Chairs,Lesro Brewster Lounge Chair,599.98,2,0.5,-17.5
+CA-2021-100715,11/01/2021,16/01/2021,Standard Class,Lisa Brown,Consumer,United States,San Francisco,California,West,Furniture,Chairs,Lesro Brewster Lounge Chair,1799.95,5,0.2,87.5
+CA-2023-100716,03/01/2023,05/01/2023,Same Day,William Thompson,Consumer,United States,Rockford,Illinois,Central,Technology,Phones,Apple iPhone 14 (Unlocked),1799.98,2,0.0,144.0
+CA-2021-100717,26/08/2021,28/08/2021,First Class,Richard Flores,Corporate,United States,New York City,New York,East,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,47.97,3,0.0,14.4
+CA-2023-100718,14/10/2023,19/10/2023,Second Class,Nancy Lee,Home Office,United States,Wilmington,Delaware,East,Furniture,Storage,Eldon Fold N Roll Cart System,79.99,1,0.0,9.5
+CA-2020-100719,25/07/2020,29/07/2020,First Class,Robert Brown,Corporate,United States,San Francisco,California,West,Furniture,Tables,Bevis Round Table,237.49,1,0.1,-13.5
+CA-2022-100720,10/04/2022,16/04/2022,Standard Class,Thomas Flores,Consumer,United States,Tacoma,Washington,West,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,417.98,2,0.1,-18.0
+CA-2021-100721,28/08/2021,02/09/2021,Second Class,Michael Brown,Corporate,United States,Knoxville,Tennessee,South,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,18.99,1,0.0,5.7
+CA-2020-100722,08/12/2020,15/12/2020,Standard Class,Barbara Williams,Corporate,United States,Richmond,Virginia,East,Technology,Storage,SanDisk Extreme Portable 1TB SSD,313.47,3,0.1,49.5
+CA-2020-100723,02/08/2020,09/08/2020,Standard Class,Donna Hall,Consumer,United States,Seattle,Washington,West,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,37.98,2,0.0,11.4
+CA-2021-100724,18/10/2021,24/10/2021,Standard Class,Lisa Martin,Home Office,United States,Virginia Beach,Virginia,East,Technology,Computers,Dell Inspiron 15 3000,2659.96,4,0.1,168.0
+CA-2023-100725,14/07/2023,19/07/2023,Second Class,Charles Flores,Consumer,United States,Rockford,Illinois,Central,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,9.49,1,0.1,2.25
+CA-2023-100726,05/12/2023,08/12/2023,First Class,Paul Robinson,Home Office,United States,Indianapolis,Indiana,Central,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,45.57,3,0.1,10.8
+CA-2022-100727,26/11/2022,29/11/2022,Second Class,Thomas Taylor,Consumer,United States,Bangor,Maine,East,Office Supplies,Binders,Fellowes Binder,19.99,1,0.0,5.8
+CA-2021-100728,18/09/2021,23/09/2021,Standard Class,Kimberly Rodriguez,Home Office,United States,Spokane,Washington,West,Technology,Accessories,Belkin HDMI Cable,21.24,1,0.3,1.25
+CA-2021-100729,08/08/2021,11/08/2021,Second Class,John Taylor,Consumer,United States,Orlando,Florida,South,Technology,Accessories,Kingston DataTraveler 32GB USB,24.04,2,0.15,3.25
+CA-2021-100730,09/12/2021,09/12/2021,Same Day,Kenneth Harris,Corporate,United States,Green Bay,Wisconsin,Central,Office Supplies,Paper,S P Richards Company Colored Paper,22.99,1,0.0,6.2
+CA-2021-100731,27/09/2021,30/09/2021,First Class,Christopher Baker,Consumer,United States,Raleigh,North Carolina,East,Technology,Machines,Bother P-touch Labeler,189.95,5,0.1,18.0
+CA-2023-100732,01/05/2023,06/05/2023,Standard Class,Kenneth Jackson,Consumer,United States,Salem,Oregon,West,Technology,Computers,Lenovo ThinkPad X1 Carbon,7409.94,6,0.1,468.0
+CA-2022-100733,05/10/2022,12/10/2022,Standard Class,Andrew Green,Corporate,United States,Philadelphia,Pennsylvania,East,Technology,Computers,Apple MacBook Pro 14 inch,7399.96,4,0.15,400.0
+CA-2020-100734,17/08/2020,23/08/2020,Standard Class,Lisa Harris,Home Office,United States,Augusta,Maine,East,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,233.98,2,0.2,15.6
+CA-2020-100735,24/04/2020,25/04/2020,Same Day,Nancy Scott,Consumer,United States,Aurora,Colorado,West,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,16.99,1,0.3,1.5
+CA-2023-100736,08/12/2023,12/12/2023,Second Class,Charles Lewis,Consumer,United States,Cincinnati,Ohio,Central,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,59.78,2,0.7,-5.85
+CA-2022-100737,25/09/2022,30/09/2022,Standard Class,Thomas Green,Consumer,United States,Orlando,Florida,South,Technology,Accessories,Logitech MX Master 3 Wireless Mouse,99.99,1,0.0,20.0
+CA-2021-100738,03/10/2021,10/10/2021,Standard Class,Kimberly Harris,Consumer,United States,Charleston,South Carolina,South,Technology,Phones,Motorola Moto G Stylus,1124.95,5,0.5,-30.0
+CA-2022-100739,24/09/2022,01/10/2022,Standard Class,Margaret Robinson,Corporate,United States,Fort Smith,Arkansas,South,Technology,Storage,Seagate Backup Plus 2TB External HDD,287.96,4,0.2,32.0
+CA-2022-100740,17/11/2022,22/11/2022,Standard Class,Matthew Rodriguez,Corporate,United States,Aurora,Colorado,West,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,59.94,6,0.0,18.0
+CA-2021-100741,19/06/2021,26/06/2021,Standard Class,Christopher Taylor,Consumer,United States,Provo,Utah,West,Technology,Phones,Samsung Galaxy S23,1499.98,2,0.0,120.0
+CA-2023-100742,12/06/2023,17/06/2023,Standard Class,David Robinson,Consumer,United States,Missoula,Montana,West,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,531.96,4,0.6,-45.6
+CA-2022-100743,07/03/2022,14/03/2022,Standard Class,Paul Flores,Home Office,United States,Fort Worth,Texas,Central,Technology,Phones,Cisco IP Phone 7945,879.96,4,0.0,74.0
+CA-2021-100744,19/12/2021,25/12/2021,Standard Class,Linda King,Home Office,United States,Missoula,Montana,West,Technology,Accessories,APC Essential SurgeArrest 6,34.99,1,0.0,7.0
+CA-2021-100745,12/10/2021,16/10/2021,First Class,Lisa Thompson,Consumer,United States,Aurora,Illinois,Central,Office Supplies,Supplies,Avery Printable Postcards,37.02,3,0.1,8.77
+CA-2023-100746,23/07/2023,27/07/2023,Second Class,John Smith,Home Office,United States,Rockville,Maryland,East,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,249.95,5,0.0,37.5
+CA-2020-100747,16/08/2020,20/08/2020,First Class,Jennifer Hill,Corporate,United States,Portland,Oregon,West,Technology,Storage,Seagate Backup Plus 2TB External HDD,79.99,1,0.0,16.0
+CA-2022-100748,06/04/2022,13/04/2022,Standard Class,Daniel Scott,Corporate,United States,Greensboro,North Carolina,East,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,41.56,4,0.4,0.0
+CA-2022-100749,21/08/2022,27/08/2022,Standard Class,Charles Young,Consumer,United States,Phoenix,Arizona,West,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,389.97,3,0.0,46.8
+CA-2022-100750,04/06/2022,10/06/2022,Standard Class,Jessica Johnson,Corporate,United States,Saint Louis,Missouri,Central,Furniture,Furnishings,Deflecto Stackable Cube Organizer,93.45,5,0.3,5.62
+CA-2020-100751,09/11/2020,13/11/2020,Second Class,Patricia Thompson,Consumer,United States,Missoula,Montana,West,Office Supplies,Labels,3M Self Stick Notes,32.97,3,0.0,9.9
+CA-2021-100752,06/04/2021,13/04/2021,Standard Class,Kenneth Flores,Consumer,United States,Bangor,Maine,East,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,41.39,1,0.2,1.95
+CA-2023-100753,18/11/2023,23/11/2023,Standard Class,David Flores,Consumer,United States,Aurora,Colorado,West,Office Supplies,Labels,3M Self Stick Notes,32.96,4,0.5,-3.3
+CA-2021-100754,24/04/2021,29/04/2021,Standard Class,Betty Torres,Consumer,United States,Rochester,New York,East,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,80.99,1,0.2,-2.5
+CA-2022-100755,24/01/2022,30/01/2022,Standard Class,Jennifer Jones,Home Office,United States,Cincinnati,Ohio,Central,Furniture,Storage,Eldon Fold N Roll Cart System,63.99,1,0.4,0.0
+CA-2022-100756,24/03/2022,30/03/2022,Standard Class,Margaret Nguyen,Corporate,United States,Augusta,Maine,East,Technology,Machines,Bother P-touch Labeler,79.98,2,0.0,9.6
+CA-2023-100757,13/09/2023,18/09/2023,Standard Class,Charles Flores,Consumer,United States,Greensboro,North Carolina,East,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,100.73,7,0.2,16.8
+CA-2023-100758,23/11/2023,28/11/2023,Standard Class,Mark Walker,Corporate,United States,Sacramento,California,West,Office Supplies,Paper,Avery Laser Labels,32.28,2,0.3,2.75
+CA-2023-100759,06/02/2023,12/02/2023,Standard Class,Donald Hill,Consumer,United States,Seattle,Washington,West,Technology,Computers,Dell Inspiron 15 3000,647.49,1,0.15,35.0
+CA-2021-100760,27/10/2021,02/11/2021,Standard Class,Sarah Jackson,Home Office,United States,Overland Park,Kansas,Central,Technology,Accessories,Kingston DataTraveler 32GB USB,18.18,2,0.6,-2.6
+CA-2021-100761,16/07/2021,23/07/2021,Standard Class,Robert Hall,Consumer,United States,Atlanta,Georgia,South,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,459.98,2,0.0,45.0
+CA-2020-100762,04/11/2020,10/11/2020,Standard Class,Kimberly Young,Consumer,United States,Nampa,Idaho,West,Office Supplies,Envelopes,Poly String Tie Envelopes,33.98,2,0.0,10.2
+CA-2023-100763,17/10/2023,23/10/2023,Standard Class,Susan Carter,Consumer,United States,Portland,Oregon,West,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,541.47,3,0.1,51.3
+CA-2021-100764,24/06/2021,27/06/2021,Second Class,Elizabeth Martinez,Consumer,United States,Wilmington,Delaware,East,Office Supplies,Binders,Cardinal Slant D Ring Binder,38.97,3,0.0,11.7
+CA-2020-100765,04/07/2020,10/07/2020,Standard Class,Joseph Lee,Corporate,United States,Spokane,Washington,West,Office Supplies,Labels,3M Self Stick Notes,8.24,1,0.5,-0.82
+CA-2021-100766,12/10/2021,16/10/2021,Second Class,Richard Jones,Corporate,United States,Norman,Oklahoma,South,Office Supplies,Paper,Hammermill Copy Plus Paper,29.99,1,0.0,7.2
+CA-2020-100767,19/11/2020,23/11/2020,Second Class,Donna Scott,Consumer,United States,Laramie,Wyoming,West,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,1609.93,7,0.0,157.5
+CA-2023-100768,06/03/2023,11/03/2023,Standard Class,Mark Hernandez,Consumer,United States,San Francisco,California,West,Office Supplies,Fasteners,Staples 3 Ring Binder,17.98,2,0.0,5.4
+CA-2022-100769,13/06/2022,17/06/2022,Second Class,Kenneth Jackson,Corporate,United States,Nampa,Idaho,West,Technology,Storage,SanDisk Extreme Portable 1TB SSD,263.97,3,0.4,0.0
+CA-2022-100770,26/08/2022,31/08/2022,Standard Class,Mary Walker,Consumer,United States,Ogden,Utah,West,Technology,Storage,SanDisk Extreme Portable 1TB SSD,329.97,3,0.0,66.0
+CA-2022-100771,07/12/2022,12/12/2022,Standard Class,Dorothy Thomas,Consumer,United States,Orlando,Florida,South,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,85.49,1,0.1,-3.75
+CA-2021-100772,20/12/2021,27/12/2021,Standard Class,Thomas Thompson,Consumer,United States,Dover,Delaware,East,Office Supplies,Binders,Fellowes Binder,125.93,7,0.2,20.3
+CA-2022-100773,28/08/2022,02/09/2022,Second Class,Barbara Taylor,Consumer,United States,San Antonio,Texas,Central,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,1039.98,2,0.4,0.0
+CA-2020-100774,02/09/2020,09/09/2020,Standard Class,Mary Lewis,Corporate,United States,Trenton,New Jersey,East,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,123.49,1,0.7,-17.1
+CA-2022-100775,01/06/2022,02/06/2022,Same Day,Steven Martinez,Consumer,United States,Los Angeles,California,West,Technology,Phones,Samsung Galaxy S23,1499.98,2,0.0,120.0
+CA-2020-100776,06/08/2020,09/08/2020,Second Class,Sandra Adams,Consumer,United States,Nampa,Idaho,West,Technology,Phones,Plantronics CS510 Wireless Headset,1139.94,6,0.0,96.0
+CA-2023-100777,03/04/2023,10/04/2023,Standard Class,Susan Walker,Corporate,United States,Dallas,Texas,Central,Office Supplies,Labels,3M Self Stick Notes,39.56,4,0.2,6.6
+CA-2023-100778,25/04/2023,29/04/2023,Second Class,Andrew Rodriguez,Consumer,United States,Bridgeport,Connecticut,East,Office Supplies,Labels,3M Self Stick Notes,54.95,5,0.0,16.5
+CA-2021-100779,09/10/2021,15/10/2021,Standard Class,David Williams,Corporate,United States,Aurora,Colorado,West,Technology,Computers,HP Pavilion Desktop,508.74,1,0.15,27.5
+CA-2023-100780,21/07/2023,24/07/2023,First Class,Sarah Garcia,Home Office,United States,Rockville,Maryland,East,Office Supplies,Labels,3M Self Stick Notes,10.99,1,0.0,3.3
+CA-2023-100781,21/08/2023,26/08/2023,Standard Class,Emily Williams,Corporate,United States,Colorado Springs,Colorado,West,Office Supplies,Paper,Avery Laser Labels,94.95,5,0.0,27.5
+CA-2021-100782,21/06/2021,23/06/2021,First Class,Elizabeth Johnson,Consumer,United States,Jackson,Mississippi,South,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,75.96,4,0.1,18.0
+CA-2021-100783,20/10/2021,27/10/2021,Standard Class,Steven Miller,Corporate,United States,San Francisco,California,West,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,37.98,2,0.0,11.4
+CA-2022-100784,20/12/2022,22/12/2022,Same Day,Lisa Brown,Consumer,United States,Portland,Maine,East,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,493.96,4,0.1,46.8
+CA-2020-100785,05/01/2020,10/01/2020,Standard Class,Susan Hernandez,Consumer,United States,Seattle,Washington,West,Furniture,Tables,Hon 10500 Series L-Workstation,2159.97,3,0.4,-0.0
+CA-2021-100786,12/08/2021,19/08/2021,Standard Class,Sandra Harris,Corporate,United States,Grand Rapids,Michigan,Central,Technology,Phones,Cisco IP Phone 7945,186.99,1,0.3,4.62
+CA-2020-100787,10/11/2020,14/11/2020,First Class,Daniel Torres,Corporate,United States,Lexington,Kentucky,South,Office Supplies,Binders,Wilson Jones WLJF98 Hanging File Folder Binder,114.95,5,0.0,32.5
+CA-2021-100788,17/06/2021,21/06/2021,First Class,William Torres,Corporate,United States,Salt Lake City,Utah,West,Furniture,Tables,Bevis Round Table,474.98,2,0.1,-27.0
+CA-2022-100789,10/07/2022,17/07/2022,Standard Class,Anthony Taylor,Home Office,United States,San Antonio,Texas,Central,Furniture,Furnishings,Advantus Map Pins,17.98,2,0.0,4.2
+CA-2022-100790,28/02/2022,05/03/2022,Standard Class,Sandra Smith,Consumer,United States,Springfield,Massachusetts,East,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,72.16,4,0.1,17.1
+CA-2021-100791,20/09/2021,23/09/2021,First Class,Paul Walker,Consumer,United States,Great Falls,Montana,West,Furniture,Tables,Chromcraft Bull-Nose Round Table,626.98,2,0.1,-42.0
+CA-2022-100792,11/03/2022,13/03/2022,Same Day,Sandra Hernandez,Corporate,United States,Henderson,Nevada,West,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,203.49,1,0.15,-7.5
+CA-2021-100793,22/12/2021,28/12/2021,Standard Class,Elizabeth Robinson,Corporate,United States,Phoenix,Arizona,West,Office Supplies,Binders,Fellowes Binder,35.98,2,0.2,5.8
+CA-2022-100794,02/06/2022,08/06/2022,Standard Class,Barbara Torres,Consumer,United States,Allentown,Pennsylvania,East,Office Supplies,Envelopes,Jiffy Padded Mailers,124.14,6,0.2,20.7
+CA-2021-100795,27/11/2021,01/12/2021,First Class,John Martinez,Consumer,United States,Los Angeles,California,West,Office Supplies,Paper,S P Richards Company Colored Paper,41.38,2,0.2,6.2
+CA-2021-100796,10/09/2021,15/09/2021,Standard Class,Jennifer Hernandez,Corporate,United States,New Haven,Connecticut,East,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,647.43,7,0.15,87.5
+CA-2022-100797,23/11/2022,27/11/2022,Second Class,Elizabeth Thompson,Consumer,United States,Reno,Nevada,West,Office Supplies,Binders,Fellowes Binder,89.95,5,0.2,14.5
+CA-2021-100798,01/07/2021,06/07/2021,Second Class,Christopher Miller,Corporate,United States,Hartford,Connecticut,East,Furniture,Chairs,Global Adaptabilities Collection Chair,175.74,1,0.15,11.38
+CA-2022-100799,15/09/2022,22/09/2022,Standard Class,Kimberly Smith,Consumer,United States,Nampa,Idaho,West,Office Supplies,Fasteners,Staples 3 Ring Binder,35.96,4,0.0,10.8
+CA-2023-100800,18/08/2023,23/08/2023,Second Class,Andrew Garcia,Corporate,United States,Salt Lake City,Utah,West,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,8.99,1,0.2,1.5
+CA-2022-100801,25/05/2022,01/06/2022,Standard Class,Donna Lee,Corporate,United States,Salem,Oregon,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,63.96,4,0.0,19.2
+CA-2023-100802,13/12/2023,15/12/2023,First Class,Susan Davis,Consumer,United States,Seattle,Washington,West,Office Supplies,Art,Binney Smith Crayola Crayons,20.76,4,0.7,-7.2
+CA-2023-100803,12/08/2023,16/08/2023,Second Class,Michael Rodriguez,Corporate,United States,Biloxi,Mississippi,South,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,9.49,1,0.1,2.25
+CA-2023-100804,15/05/2023,20/05/2023,Standard Class,Sandra Taylor,Home Office,United States,San Jose,California,West,Technology,Phones,Cisco IP Phone 7945,626.97,3,0.1,41.62
+CA-2021-100805,01/04/2021,04/04/2021,Second Class,Anthony Johnson,Corporate,United States,Des Moines,Iowa,Central,Office Supplies,Labels,Avery Address Labels,42.72,3,0.1,10.12
+CA-2020-100806,24/06/2020,29/06/2020,Second Class,David Wright,Home Office,United States,Boise,Idaho,West,Office Supplies,Labels,Avery Address Labels,26.98,2,0.2,4.5
+CA-2020-100807,03/03/2020,05/03/2020,First Class,Mark Harris,Corporate,United States,Billings,Montana,West,Technology,Accessories,Kingston DataTraveler 32GB USB,33.12,3,0.3,1.95
+CA-2023-100808,06/11/2023,13/11/2023,Standard Class,Anthony Hill,Corporate,United States,Miami,Florida,South,Technology,Accessories,Logitech MX Master 3 Wireless Mouse,279.96,4,0.6,-40.0
+CA-2023-100809,23/08/2023,28/08/2023,Second Class,Patricia Robinson,Consumer,United States,Jacksonville,Florida,South,Technology,Storage,Seagate Backup Plus 2TB External HDD,143.98,2,0.2,16.0
+CA-2022-100810,14/10/2022,17/10/2022,Second Class,Linda Anderson,Corporate,United States,New Haven,Connecticut,East,Office Supplies,Fasteners,Advantus Push Pins,25.45,5,0.3,2.25
+CA-2021-100811,21/02/2021,25/02/2021,Second Class,Lisa Robinson,Corporate,United States,Little Rock,Arkansas,South,Technology,Machines,Bother P-touch Labeler,110.97,3,0.15,9.0
+CA-2022-100812,05/11/2022,10/11/2022,Standard Class,Charles Clark,Consumer,United States,Richmond,Virginia,East,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,189.98,2,0.1,30.0
+CA-2021-100813,23/10/2021,30/10/2021,Standard Class,Mary Jackson,Corporate,United States,Provo,Utah,West,Office Supplies,Art,Lorell Durable Correction Tape,6.64,1,0.1,1.58
+CA-2022-100814,17/11/2022,24/11/2022,Standard Class,Steven Rodriguez,Consumer,United States,Knoxville,Tennessee,South,Office Supplies,Paper Clips,Universal Deluxe Bright Color Hanging Folders,45.57,3,0.4,0.0
+CA-2022-100815,13/08/2022,18/08/2022,Standard Class,Sarah Baker,Consumer,United States,Phoenix,Arizona,West,Technology,Phones,Samsung Galaxy S23,1424.98,2,0.1,90.0
+CA-2023-100816,27/12/2023,01/01/2024,Second Class,Betty Miller,Corporate,United States,Baton Rouge,Louisiana,South,Technology,Computers,Apple MacBook Pro 14 inch,1299.99,1,0.7,-120.0
+CA-2023-100817,03/08/2023,03/08/2023,Same Day,Elizabeth Harris,Consumer,United States,Boise,Idaho,West,Furniture,Storage,Iris Letter Size File Box,23.12,1,0.15,2.62
+CA-2022-100818,07/02/2022,10/02/2022,Second Class,Susan White,Consumer,United States,Huntsville,Alabama,South,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,92.48,2,0.15,9.38
+CA-2023-100819,21/06/2023,27/06/2023,Standard Class,Paul Nelson,Consumer,United States,Pittsburgh,Pennsylvania,East,Furniture,Storage,Advantus Super Stacker Divided Storage Box,55.47,3,0.15,7.12
+CA-2023-100820,15/03/2023,18/03/2023,Second Class,Thomas Young,Home Office,United States,Casper,Wyoming,West,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,27.74,2,0.15,5.62
+CA-2021-100821,09/10/2021,11/10/2021,First Class,Mark Davis,Consumer,United States,Meridian,Idaho,West,Technology,Copiers,Cisco TelePresence System EX90,5999.99,1,0.5,-160.0
+CA-2022-100822,06/08/2022,12/08/2022,Standard Class,Paul Taylor,Consumer,United States,Aurora,Illinois,Central,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,212.74,1,0.15,14.06
+CA-2021-100823,04/08/2021,09/08/2021,Second Class,Betty Anderson,Consumer,United States,Worcester,Massachusetts,East,Technology,Computers,Dell Inspiron 15 3000,1294.98,2,0.15,70.0
+CA-2022-100824,14/09/2022,18/09/2022,Second Class,Karen Walker,Home Office,United States,Hartford,Connecticut,East,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,269.98,2,0.2,-9.0
+CA-2021-100825,13/07/2021,16/07/2021,Second Class,Daniel Wilson,Home Office,United States,Minneapolis,Minnesota,Central,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,519.96,4,0.0,62.4
+CA-2022-100826,27/05/2022,02/06/2022,Standard Class,Richard Jackson,Corporate,United States,Provo,Utah,West,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,19.99,1,0.0,6.0
+CA-2021-100827,24/08/2021,29/08/2021,Standard Class,Ashley Harris,Home Office,United States,Rochester,Minnesota,Central,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,49.99,1,0.0,7.5
+CA-2021-100828,15/08/2021,17/08/2021,First Class,Anthony Martinez,Home Office,United States,Spokane,Washington,West,Technology,Computers,Lenovo ThinkPad X1 Carbon,3607.47,3,0.15,195.0
+CA-2021-100829,18/06/2021,22/06/2021,Second Class,Robert Rodriguez,Consumer,United States,Mesa,Arizona,West,Technology,Machines,Bother P-touch Labeler,159.96,4,0.0,19.2
+CA-2021-100830,12/04/2021,19/04/2021,Standard Class,Mary Wilson,Corporate,United States,Biloxi,Mississippi,South,Furniture,Storage,Storex Plastic Stacking Shelf,64.74,2,0.15,6.88
+CA-2020-100831,17/08/2020,24/08/2020,Standard Class,Christopher Flores,Home Office,United States,San Jose,California,West,Office Supplies,Fasteners,Universal Binder Clips,7.99,1,0.0,2.4
+CA-2020-100832,04/09/2020,11/09/2020,Standard Class,Donna Thomas,Home Office,United States,Rockford,Illinois,Central,Technology,Storage,SanDisk Extreme Portable 1TB SSD,417.96,4,0.1,66.0
+CA-2023-100833,05/12/2023,08/12/2023,Second Class,Margaret Johnson,Consumer,United States,Augusta,Maine,East,Office Supplies,Envelopes,Poly String Tie Envelopes,48.42,3,0.1,11.47
+CA-2020-100834,05/06/2020,10/06/2020,Standard Class,Richard Adams,Consumer,United States,Aurora,Colorado,West,Technology,Storage,Kingston A400 480GB SSD,46.74,1,0.3,2.75
+CA-2021-100835,01/04/2021,06/04/2021,Standard Class,Christopher Rodriguez,Home Office,United States,Cedar Rapids,Iowa,Central,Technology,Storage,Seagate Backup Plus 2TB External HDD,79.99,1,0.0,16.0
+CA-2023-100836,07/04/2023,10/04/2023,Second Class,Matthew Johnson,Home Office,United States,Wilmington,Delaware,East,Office Supplies,Labels,3M Self Stick Notes,10.44,1,0.1,2.47
+CA-2020-100837,19/11/2020,21/11/2020,First Class,Linda Anderson,Corporate,United States,Norman,Oklahoma,South,Technology,Phones,Cisco IP Phone 7945,835.96,4,0.1,55.5
+CA-2023-100838,07/07/2023,09/07/2023,Same Day,Sandra Johnson,Consumer,United States,Mesa,Arizona,West,Furniture,Storage,Storex Plastic Stacking Shelf,209.94,6,0.0,33.0
+CA-2021-100839,03/05/2021,10/05/2021,Standard Class,Matthew Scott,Corporate,United States,Tacoma,Washington,West,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,427.47,3,0.1,-20.25
+CA-2020-100840,19/05/2020,26/05/2020,Standard Class,Susan Robinson,Consumer,United States,Wilmington,Delaware,East,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,31.98,2,0.0,9.6
+CA-2022-100841,26/03/2022,28/03/2022,First Class,Susan Clark,Consumer,United States,Seattle,Washington,West,Office Supplies,Fasteners,Staples 3 Ring Binder,26.97,3,0.0,8.1
+CA-2020-100842,16/01/2020,21/01/2020,Standard Class,Kenneth Hill,Consumer,United States,Fort Lauderdale,Florida,South,Furniture,Chairs,Hon 5400 Series Task Chair,159.98,2,0.0,13.6
+CA-2021-100843,16/02/2021,22/02/2021,Standard Class,Kenneth Smith,Consumer,United States,Tulsa,Oklahoma,South,Furniture,Storage,Advantus Super Stacker Divided Storage Box,17.99,1,0.2,1.9
+CA-2021-100844,23/09/2021,29/09/2021,Standard Class,Steven Wilson,Consumer,United States,Wichita,Kansas,Central,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,944.97,3,0.2,105.0
+CA-2022-100845,20/05/2022,25/05/2022,Standard Class,Sandra Nelson,Corporate,United States,Hartford,Connecticut,East,Office Supplies,Envelopes,Poly String Tie Envelopes,32.28,2,0.1,7.65
+CA-2020-100846,28/10/2020,03/11/2020,Standard Class,John Harris,Consumer,United States,Detroit,Michigan,Central,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,610.47,3,0.15,-22.5
+CA-2021-100847,27/09/2021,28/09/2021,Same Day,Paul King,Corporate,United States,Reno,Nevada,West,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,419.96,4,0.6,18.0
+CA-2021-100848,09/12/2021,15/12/2021,Standard Class,Lisa Hill,Consumer,United States,Springfield,Missouri,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,175.47,3,0.7,11.25
+CA-2020-100849,15/04/2020,17/04/2020,First Class,Karen King,Home Office,United States,Phoenix,Arizona,West,Office Supplies,Paper,Hammermill Copy Plus Paper,41.98,2,0.6,-7.2
+CA-2023-100850,27/04/2023,30/04/2023,Second Class,Barbara Adams,Corporate,United States,Richmond,Virginia,East,Technology,Computers,Apple MacBook Pro 14 inch,7599.96,4,0.1,480.0
+CA-2021-100851,17/12/2021,22/12/2021,Standard Class,Donna White,Corporate,United States,Springfield,Massachusetts,East,Technology,Storage,Seagate Backup Plus 2TB External HDD,111.98,2,0.6,-16.0
+CA-2021-100852,02/04/2021,03/04/2021,Same Day,Sandra Rodriguez,Home Office,United States,Nampa,Idaho,West,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,197.99,1,0.2,-6.0
+CA-2022-100853,24/04/2022,27/04/2022,Second Class,David Harris,Consumer,United States,Charlotte,North Carolina,East,Office Supplies,Art,Lorell Durable Correction Tape,12.94,2,0.15,2.62
+CA-2021-100854,08/06/2021,09/06/2021,Same Day,Emily Martinez,Corporate,United States,Charlotte,North Carolina,East,Furniture,Tables,Bevis Round Table,999.96,4,0.0,-72.0
+CA-2020-100855,04/06/2020,09/06/2020,Second Class,Paul Carter,Home Office,United States,Missoula,Montana,West,Office Supplies,Paper,Avery Laser Labels,66.45,5,0.6,-13.75
+CA-2020-100856,09/11/2020,15/11/2020,Standard Class,Ashley Robinson,Corporate,United States,Salem,Oregon,West,Furniture,Chairs,Hon 5400 Series Task Chair,517.93,7,0.15,29.75
+CA-2022-100857,28/06/2022,01/07/2022,First Class,Michael Thompson,Consumer,United States,Saint Paul,Minnesota,Central,Technology,Storage,SanDisk Extreme Portable 1TB SSD,494.95,5,0.2,55.0
+CA-2021-100858,09/10/2021,09/10/2021,Same Day,Joseph Nelson,Corporate,United States,Wilmington,Delaware,East,Office Supplies,Envelopes,Poly String Tie Envelopes,101.08,7,0.3,8.92
+CA-2022-100859,19/09/2022,26/09/2022,Standard Class,Emily Miller,Corporate,United States,Columbia,South Carolina,South,Office Supplies,Paper,Hammermill Copy Plus Paper,53.98,2,0.2,7.2
+CA-2023-100860,13/07/2023,16/07/2023,Second Class,Dorothy Williams,Corporate,United States,Missoula,Montana,West,Technology,Storage,Kingston A400 480GB SSD,197.96,4,0.2,22.0
+CA-2020-100861,01/09/2020,05/09/2020,Second Class,Thomas Lee,Corporate,United States,Charlotte,North Carolina,East,Technology,Machines,Bother P-touch Labeler,239.94,6,0.0,28.8
+CA-2021-100862,15/01/2021,20/01/2021,Second Class,Kimberly Rodriguez,Corporate,United States,Boston,Massachusetts,East,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,415.96,4,0.4,0.0
+CA-2021-100863,24/09/2021,26/09/2021,First Class,Jennifer Allen,Home Office,United States,Phoenix,Arizona,West,Furniture,Storage,Iris Letter Size File Box,99.96,4,0.0,16.8
+CA-2023-100864,11/08/2023,14/08/2023,First Class,Richard Nelson,Consumer,United States,Cleveland,Ohio,Central,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,59.16,4,0.15,8.0
+CA-2021-100865,07/10/2021,14/10/2021,Standard Class,Lisa Flores,Consumer,United States,Provo,Utah,West,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,9.09,1,0.6,-1.95
+CA-2023-100866,10/12/2023,13/12/2023,Second Class,Jessica Green,Home Office,United States,Reno,Nevada,West,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,351.98,2,0.4,-0.0
+CA-2023-100867,08/05/2023,13/05/2023,Standard Class,Donna Scott,Home Office,United States,Bridgeport,Connecticut,East,Technology,Accessories,Kingston DataTraveler 32GB USB,36.06,3,0.15,4.88
+CA-2021-100868,19/11/2021,26/11/2021,Standard Class,Nancy Martin,Consumer,United States,Greenville,South Carolina,South,Office Supplies,Fasteners,Advantus Push Pins,11.38,2,0.1,2.7
+CA-2023-100869,28/03/2023,01/04/2023,First Class,Steven Scott,Consumer,United States,Rockville,Maryland,East,Office Supplies,Paper,Hammermill Copy Plus Paper,80.97,3,0.2,10.8
+CA-2022-100870,08/08/2022,15/08/2022,Standard Class,Emily Hernandez,Consumer,United States,Springfield,Missouri,Central,Furniture,Tables,Bretford Rectangular Conference Room Table,1942.47,3,0.15,-103.12
+CA-2020-100871,28/06/2020,01/07/2020,Second Class,Thomas Johnson,Consumer,United States,Rockford,Illinois,Central,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,31.47,3,0.6,-4.5
+CA-2023-100872,15/04/2023,22/04/2023,Standard Class,Steven Young,Corporate,United States,Milwaukee,Wisconsin,Central,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,51.95,5,0.7,-12.0
+CA-2020-100873,19/10/2020,24/10/2020,Standard Class,Richard Harris,Corporate,United States,Cedar Rapids,Iowa,Central,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,244.99,1,0.6,-35.0
+CA-2022-100874,04/06/2022,06/06/2022,Same Day,Donald Wilson,Consumer,United States,Saint Paul,Minnesota,Central,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,1299.98,2,0.0,260.0
+CA-2021-100875,03/05/2021,09/05/2021,Standard Class,Lisa King,Corporate,United States,Richmond,Virginia,East,Technology,Computers,Lenovo ThinkPad X1 Carbon,1202.49,1,0.15,65.0
+CA-2023-100876,12/02/2023,17/02/2023,Standard Class,Matthew Clark,Consumer,United States,Oklahoma City,Oklahoma,South,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,55.95,5,0.6,-8.0
+CA-2020-100877,06/09/2020,12/09/2020,Standard Class,Elizabeth King,Consumer,United States,Springfield,Massachusetts,East,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,1329.96,4,0.1,210.0
+CA-2022-100878,26/12/2022,27/12/2022,Same Day,Emily Hill,Corporate,United States,Augusta,Georgia,South,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,45.99,1,0.0,3.9
+CA-2022-100879,15/06/2022,19/06/2022,First Class,Robert Lewis,Corporate,United States,Kansas City,Missouri,Central,Furniture,Tables,Hon 10500 Series L-Workstation,4994.94,6,0.15,-300.0
+CA-2023-100880,02/01/2023,05/01/2023,First Class,Jennifer Rodriguez,Home Office,United States,Wichita,Kansas,Central,Technology,Computers,HP Pavilion Desktop,1979.96,4,0.2,88.0
+CA-2021-100881,25/03/2021,01/04/2021,Standard Class,Mary Torres,Consumer,United States,Provo,Utah,West,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,142.47,3,0.1,16.88
+CA-2023-100882,25/11/2023,28/11/2023,Second Class,Karen Nelson,Home Office,United States,San Francisco,California,West,Technology,Computers,Dell Inspiron 15 3000,1889.97,3,0.2,84.0
+CA-2022-100883,10/01/2022,16/01/2022,Standard Class,Dorothy Taylor,Corporate,United States,Jacksonville,Florida,South,Office Supplies,Binders,Wilson Jones WLJF98 Hanging File Folder Binder,16.09,1,0.6,-3.25
+CA-2023-100884,03/10/2023,07/10/2023,Second Class,Matthew Jackson,Consumer,United States,Portland,Maine,East,Technology,Phones,Motorola Moto G Stylus,299.99,1,0.0,24.0
+CA-2023-100885,06/11/2023,06/11/2023,Same Day,Kenneth Harris,Consumer,United States,Salt Lake City,Utah,West,Office Supplies,Envelopes,Jiffy Padded Mailers,62.07,3,0.2,10.35
+CA-2023-100886,21/05/2023,25/05/2023,Second Class,Matthew Thompson,Home Office,United States,Sacramento,California,West,Technology,Copiers,Cisco TelePresence System EX90,7999.99,1,0.0,640.0
+CA-2022-100887,25/01/2022,01/02/2022,Standard Class,David Torres,Consumer,United States,Rockford,Illinois,Central,Furniture,Furnishings,Executive Impressions 14 Business Card Holder,14.39,1,0.2,1.6
+CA-2023-100888,23/10/2023,30/10/2023,Standard Class,Linda Allen,Consumer,United States,Casper,Wyoming,West,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,1803.72,3,0.15,243.75
+CA-2020-100889,16/12/2020,21/12/2020,Standard Class,Robert Harris,Consumer,United States,Charlotte,North Carolina,East,Office Supplies,Fasteners,Staples 3 Ring Binder,34.16,4,0.1,8.1
+CA-2023-100890,17/10/2023,20/10/2023,Second Class,Barbara Lewis,Corporate,United States,Milwaukee,Wisconsin,Central,Technology,Machines,Brother FAX-575 Plain Paper Fax Machine,259.98,2,0.0,31.2
+CA-2022-100891,05/07/2022,07/07/2022,Same Day,Mark Johnson,Consumer,United States,Springfield,Massachusetts,East,Technology,Phones,Samsung Galaxy S23,2249.97,3,0.0,180.0
+CA-2020-100892,11/08/2020,18/08/2020,Standard Class,David Rodriguez,Consumer,United States,Rockville,Maryland,East,Office Supplies,Art,Binney Smith Crayola Crayons,23.97,3,0.0,7.2
+CA-2020-100893,13/02/2020,16/02/2020,Second Class,Mary Scott,Corporate,United States,Fort Lauderdale,Florida,South,Technology,Storage,SanDisk Extreme Portable 1TB SSD,101.74,1,0.15,13.75
+CA-2021-100894,22/10/2021,28/10/2021,Standard Class,Barbara Wright,Home Office,United States,Missoula,Montana,West,Office Supplies,Fasteners,Advantus Push Pins,5.39,1,0.2,0.9
+CA-2020-100895,09/12/2020,12/12/2020,First Class,Sandra Young,Consumer,United States,Saint Paul,Minnesota,Central,Technology,Computers,Dell Inspiron 15 3000,4899.93,7,0.0,392.0
+CA-2022-100896,13/04/2022,19/04/2022,Standard Class,Sandra Walker,Home Office,United States,Missoula,Montana,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,47.97,3,0.0,14.4
+CA-2021-100897,07/04/2021,09/04/2021,Same Day,Kimberly Young,Home Office,United States,Overland Park,Kansas,Central,Office Supplies,Envelopes,Poly String Tie Envelopes,32.28,2,0.1,7.65
+CA-2022-100898,27/07/2022,29/07/2022,Same Day,David Hall,Consumer,United States,Las Vegas,Nevada,West,Technology,Accessories,Belkin HDMI Cable,149.94,6,0.0,30.0
+CA-2021-100899,06/09/2021,13/09/2021,Standard Class,Richard Martinez,Consumer,United States,Cincinnati,Ohio,Central,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,74.95,5,0.0,22.5
+CA-2023-100900,25/06/2023,30/06/2023,Second Class,Jennifer Johnson,Corporate,United States,Houston,Texas,Central,Furniture,Chairs,Global Adaptabilities Collection Chair,902.45,5,0.1,68.25
+CA-2023-100901,05/04/2023,06/04/2023,Same Day,Emily King,Home Office,United States,Green Bay,Wisconsin,Central,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,22.08,2,0.3,1.95
+CA-2020-100902,06/12/2020,13/12/2020,Standard Class,Donald Thompson,Corporate,United States,Columbia,South Carolina,South,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,1949.97,3,0.0,390.0
+CA-2021-100903,05/11/2021,08/11/2021,First Class,Nancy King,Corporate,United States,Portland,Oregon,West,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,42.2,5,0.7,-14.62
+CA-2023-100904,11/09/2023,12/09/2023,Same Day,Betty Martinez,Consumer,United States,Springfield,Massachusetts,East,Furniture,Tables,Bevis Round Table,212.49,1,0.3,-4.5
+CA-2023-100905,26/06/2023,03/07/2023,Standard Class,Thomas Thomas,Consumer,United States,Columbia,South Carolina,South,Office Supplies,Supplies,Avery Printable Postcards,19.48,2,0.5,-1.95
+CA-2020-100906,10/04/2020,16/04/2020,Standard Class,Sandra Garcia,Home Office,United States,Mesa,Arizona,West,Office Supplies,Binders,Wilson Jones WLJF98 Hanging File Folder Binder,80.45,5,0.6,-16.25
+CA-2020-100907,10/09/2020,16/09/2020,Standard Class,Lisa Walker,Corporate,United States,San Diego,California,West,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,44.97,3,0.0,9.0
+CA-2021-100908,07/05/2021,13/05/2021,Standard Class,Christopher Nguyen,Consumer,United States,Newark,Delaware,East,Technology,Phones,Samsung Galaxy S23,2999.96,4,0.0,240.0
+CA-2020-100909,05/06/2020,10/06/2020,Standard Class,Lisa Carter,Corporate,United States,Chicago,Illinois,Central,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,142.47,3,0.1,16.88
+CA-2022-100910,02/09/2022,05/09/2022,Second Class,Jennifer Smith,Consumer,United States,Atlanta,Georgia,South,Office Supplies,Labels,Avery Address Labels,14.99,1,0.0,4.5
+CA-2021-100911,16/08/2021,20/08/2021,First Class,Charles Nelson,Consumer,United States,Bowling Green,Kentucky,South,Technology,Phones,Cisco IP Phone 7945,219.99,1,0.0,18.5
+CA-2020-100912,05/04/2020,09/04/2020,First Class,Richard Taylor,Corporate,United States,Columbus,Georgia,South,Technology,Copiers,HP LaserJet Pro M404n Laser Printer,559.98,2,0.4,0.0
+CA-2021-100913,21/07/2021,27/07/2021,Standard Class,James Martin,Consumer,United States,Richmond,Virginia,East,Furniture,Tables,Bretford Rectangular Conference Room Table,647.49,1,0.15,-34.38
+CA-2023-100914,25/02/2023,27/02/2023,First Class,Jennifer Rodriguez,Home Office,United States,Kansas City,Missouri,Central,Office Supplies,Fasteners,Universal Binder Clips,21.57,3,0.2,3.6
+CA-2020-100915,27/05/2020,02/06/2020,Standard Class,Ashley Rodriguez,Consumer,United States,Saint Louis,Missouri,Central,Office Supplies,Labels,Avery Address Labels,44.97,3,0.0,13.5
+CA-2021-100916,15/07/2021,21/07/2021,Standard Class,Matthew Young,Consumer,United States,Missoula,Montana,West,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,159.98,2,0.4,0.0
+CA-2020-100917,14/06/2020,19/06/2020,Second Class,Susan Miller,Home Office,United States,Huntsville,Alabama,South,Furniture,Storage,Iris Letter Size File Box,24.99,1,0.0,4.2
+CA-2022-100918,27/03/2022,29/03/2022,Same Day,Ashley Hernandez,Corporate,United States,Jersey City,New Jersey,East,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,77.94,6,0.0,23.4
+CA-2023-100919,11/02/2023,16/02/2023,Second Class,Susan Young,Home Office,United States,Henderson,Nevada,West,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,17.09,1,0.2,2.85
+CA-2022-100920,04/07/2022,11/07/2022,Standard Class,Nancy Adams,Home Office,United States,Aurora,Colorado,West,Technology,Phones,Apple iPhone 14 (Unlocked),1709.98,2,0.1,108.0
+CA-2021-100921,08/06/2021,11/06/2021,First Class,Andrew Lewis,Corporate,United States,Saint Louis,Missouri,Central,Technology,Copiers,Canon PIXMA MX922 Wireless Printer,369.96,4,0.15,50.0
+CA-2023-100922,20/10/2023,25/10/2023,Standard Class,Michael Hall,Consumer,United States,Billings,Montana,West,Technology,Computers,Lenovo ThinkPad X1 Carbon,1202.49,1,0.15,65.0
+CA-2022-100923,24/12/2022,30/12/2022,Standard Class,Nancy Brown,Corporate,United States,Reno,Nevada,West,Office Supplies,Labels,Pres-a-ply Labels,12.34,1,0.1,2.92
+CA-2022-100924,26/09/2022,02/10/2022,Standard Class,Richard Thomas,Home Office,United States,Aurora,Colorado,West,Technology,Computers,Apple MacBook Pro 14 inch,1999.99,1,0.0,160.0
+CA-2023-100925,17/08/2023,23/08/2023,Standard Class,Barbara Robinson,Consumer,United States,San Diego,California,West,Furniture,Storage,Eldon Fold N Roll Cart System,135.98,2,0.3,4.75
+CA-2023-100926,13/07/2023,20/07/2023,Standard Class,Sandra Thompson,Home Office,United States,Denver,Colorado,West,Furniture,Furnishings,Leslie Kane Wooden Monitor Riser,46.24,1,0.15,4.69
+CA-2021-100927,02/01/2021,06/01/2021,First Class,Matthew Green,Home Office,United States,Eugene,Oregon,West,Furniture,Storage,Advantus Super Stacker Divided Storage Box,37.98,2,0.1,5.7
+CA-2023-100928,10/01/2023,17/01/2023,Standard Class,William Torres,Corporate,United States,Baltimore,Maryland,East,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,212.74,1,0.15,14.06
+CA-2023-100929,25/04/2023,01/05/2023,Standard Class,Ashley Allen,Corporate,United States,Provo,Utah,West,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,28.47,3,0.1,6.75
+CA-2020-100930,27/11/2020,02/12/2020,Standard Class,Kimberly Johnson,Consumer,United States,Bridgeport,Connecticut,East,Furniture,Tables,Chromcraft Bull-Nose Round Table,329.99,1,0.0,-28.0
+CA-2021-100931,28/03/2021,03/04/2021,Standard Class,Charles Torres,Consumer,United States,Salt Lake City,Utah,West,Furniture,Storage,Eldon Fold N Roll Cart System,73.99,1,0.15,5.94
+CA-2021-100932,01/09/2021,06/09/2021,Standard Class,David Allen,Home Office,United States,Aurora,Colorado,West,Furniture,Furnishings,Advantus Map Pins,40.45,5,0.2,5.25
+CA-2021-100933,17/09/2021,22/09/2021,Standard Class,Thomas Allen,Consumer,United States,Fort Wayne,Indiana,Central,Furniture,Bookcases,Sauder Beginnings 3-Shelf Bookcase,83.24,1,0.15,-3.12
+CA-2022-100934,13/08/2022,18/08/2022,Standard Class,Susan Thomas,Home Office,United States,Allentown,Pennsylvania,East,Technology,Storage,Kingston A400 480GB SSD,49.49,1,0.2,5.5
+CA-2021-100935,10/09/2021,15/09/2021,Standard Class,Thomas Jackson,Home Office,United States,Warren,Michigan,Central,Office Supplies,Envelopes,Poly String Tie Envelopes,16.99,1,0.0,5.1
+CA-2021-100936,24/08/2021,30/08/2021,Standard Class,Ashley Scott,Corporate,United States,Ogden,Utah,West,Office Supplies,Envelopes,Sealed Air Bubble Wrap Brand Cushioning Material,94.95,5,0.0,28.5
+CA-2022-100937,28/12/2022,02/01/2023,Standard Class,Matthew Adams,Consumer,United States,Jackson,Mississippi,South,Technology,Phones,Apple iPhone 14 (Unlocked),1619.98,2,0.2,72.0
+CA-2023-100938,12/10/2023,18/10/2023,Standard Class,Karen Martinez,Home Office,United States,Indianapolis,Indiana,Central,Furniture,Tables,Bretford Rectangular Conference Room Table,3149.95,5,0.2,-137.5
+CA-2022-100939,16/01/2022,21/01/2022,Standard Class,Emily Green,Home Office,United States,Jersey City,New Jersey,East,Furniture,Chairs,Lesro Brewster Lounge Chair,719.98,2,0.2,35.0
+CA-2020-100940,22/02/2020,27/02/2020,Standard Class,James Adams,Consumer,United States,Missoula,Montana,West,Technology,Storage,Seagate Backup Plus 2TB External HDD,383.94,6,0.4,0.0
+CA-2022-100941,07/10/2022,09/10/2022,First Class,James Williams,Corporate,United States,Detroit,Michigan,Central,Technology,Accessories,Kingston DataTraveler 32GB USB,72.12,6,0.15,9.75
+CA-2021-100942,02/11/2021,07/11/2021,Standard Class,Nancy Walker,Corporate,United States,Missoula,Montana,West,Technology,Computers,Dell Inspiron 15 3000,1259.98,2,0.2,56.0
+CA-2021-100943,12/09/2021,18/09/2021,Standard Class,Ashley Flores,Corporate,United States,Cincinnati,Ohio,Central,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,35.97,3,0.5,-3.6
+CA-2021-100944,15/06/2021,22/06/2021,Standard Class,Barbara Baker,Consumer,United States,Birmingham,Alabama,South,Office Supplies,Art,Lorell Durable Correction Tape,5.94,1,0.3,0.53
+CA-2021-100945,03/10/2021,05/10/2021,First Class,Andrew Smith,Consumer,United States,Oklahoma City,Oklahoma,South,Furniture,Furnishings,Deflecto Stackable Cube Organizer,79.16,4,0.2,9.0
+CA-2023-100946,11/08/2023,15/08/2023,Second Class,Betty White,Corporate,United States,Ogden,Utah,West,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,14.39,1,0.2,2.4
+CA-2020-100947,25/10/2020,30/10/2020,Standard Class,Robert Clark,Consumer,United States,Oklahoma City,Oklahoma,South,Furniture,Storage,Advantus Super Stacker Divided Storage Box,73.96,4,0.15,9.5
+CA-2020-100948,01/11/2020,07/11/2020,Standard Class,Thomas King,Consumer,United States,Springfield,Massachusetts,East,Technology,Accessories,APC Essential SurgeArrest 6,104.97,3,0.0,21.0
+CA-2022-100949,12/06/2022,18/06/2022,Standard Class,John Torres,Corporate,United States,Springfield,Missouri,Central,Technology,Accessories,APC Essential SurgeArrest 6,69.98,2,0.0,14.0
+CA-2022-100950,25/11/2022,30/11/2022,Standard Class,Ashley Johnson,Home Office,United States,Laramie,Wyoming,West,Office Supplies,"Scissors, Rulers and Trimmers",Fiskars Box Cutter,27.74,2,0.15,5.62
+CA-2020-100951,23/10/2020,26/10/2020,Second Class,Donald Williams,Corporate,United States,Denver,Colorado,West,Office Supplies,Supplies,Dixon Ticonderoga Wooden Pencils,9.49,1,0.1,2.25
+CA-2020-100952,28/03/2020,31/03/2020,Second Class,Sandra Thompson,Consumer,United States,Little Rock,Arkansas,South,Technology,Accessories,Kingston DataTraveler 32GB USB,38.97,3,0.0,7.8
+CA-2022-100953,16/10/2022,22/10/2022,Standard Class,Lisa Hernandez,Consumer,United States,Portland,Oregon,West,Furniture,Tables,Bretford Rectangular Conference Room Table,647.49,1,0.15,-34.38
+CA-2020-100954,26/11/2020,29/11/2020,Second Class,Lisa Nelson,Consumer,United States,San Antonio,Texas,Central,Technology,Copiers,Cisco TelePresence System EX90,22399.96,4,0.6,-1280.0
+CA-2020-100955,05/03/2020,10/03/2020,Second Class,Margaret Johnson,Consumer,United States,Missoula,Montana,West,Technology,Storage,SanDisk Extreme Portable 1TB SSD,329.97,3,0.0,66.0
+CA-2022-100956,18/05/2022,21/05/2022,Second Class,Betty Nguyen,Consumer,United States,New Haven,Connecticut,East,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,649.99,1,0.0,130.0
+CA-2020-100957,22/04/2020,23/04/2020,Same Day,Elizabeth Nelson,Home Office,United States,Billings,Montana,West,Office Supplies,Supplies,Avery Printable Postcards,12.99,1,0.0,3.9
+CA-2020-100958,01/10/2020,08/10/2020,Standard Class,Emily Hill,Corporate,United States,Rockford,Illinois,Central,Furniture,Tables,Bevis Round Table,999.95,5,0.4,-0.0
+CA-2023-100959,16/04/2023,21/04/2023,Standard Class,Paul Jones,Corporate,United States,Greensboro,North Carolina,East,Furniture,Tables,Balt Adjustable Standing Desk,382.49,1,0.3,-8.75
+CA-2022-100960,03/12/2022,08/12/2022,Standard Class,Joseph Martin,Consumer,United States,Rochester,Minnesota,Central,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,67.95,5,0.3,6.0
+CA-2020-100961,12/10/2020,19/10/2020,Standard Class,Donald Carter,Home Office,United States,Warren,Michigan,Central,Technology,Computers,HP Pavilion Desktop,1402.47,3,0.3,33.0
+CA-2020-100962,10/09/2020,15/09/2020,Standard Class,Jennifer Martinez,Consumer,United States,Sacramento,California,West,Technology,Phones,Motorola Moto G Stylus,299.99,1,0.0,24.0
+CA-2022-100963,11/12/2022,18/12/2022,Standard Class,Matthew Nelson,Consumer,United States,Fort Wayne,Indiana,Central,Technology,Storage,Kingston A400 480GB SSD,140.22,3,0.3,8.25
+CA-2020-100964,23/06/2020,29/06/2020,Standard Class,Sarah Thompson,Consumer,United States,Laramie,Wyoming,West,Technology,Computers,Dell Inspiron 15 3000,1049.98,2,0.5,-28.0
+CA-2023-100965,12/09/2023,12/09/2023,Same Day,Thomas Baker,Consumer,United States,Davenport,Iowa,Central,Office Supplies,Labels,Pres-a-ply Labels,64.95,5,0.0,19.5
+CA-2023-100966,22/05/2023,27/05/2023,Second Class,Emily Hill,Corporate,United States,Denver,Colorado,West,Furniture,Bookcases,O Sullivan Pinehurst 5 Shelf Bookcase,138.74,1,0.15,-5.62
+CA-2022-100967,21/06/2022,24/06/2022,First Class,Andrew Wright,Consumer,United States,Newark,Delaware,East,Office Supplies,Art,Faber Castell Graphite Sketch Pencils,38.97,3,0.0,11.7
+CA-2023-100968,13/11/2023,18/11/2023,Standard Class,Kimberly Nelson,Consumer,United States,Fort Wayne,Indiana,Central,Technology,Computers,HP Pavilion Desktop,549.99,1,0.0,44.0
+CA-2021-100969,20/12/2021,26/12/2021,Standard Class,Nancy Brown,Consumer,United States,Seattle,Washington,West,Furniture,Chairs,Global Adaptabilities Collection Chair,175.74,1,0.15,11.38
+CA-2020-100970,24/02/2020,27/02/2020,Second Class,Lisa Carter,Consumer,United States,Portland,Maine,East,Technology,Machines,Bother P-touch Labeler,39.99,1,0.0,4.8
+CA-2022-100971,18/10/2022,23/10/2022,Standard Class,Joseph Anderson,Consumer,United States,Rockville,Maryland,East,Technology,Accessories,Belkin HDMI Cable,49.98,2,0.0,10.0
+CA-2020-100972,20/09/2020,21/09/2020,Same Day,Anthony White,Consumer,United States,Chicago,Illinois,Central,Furniture,Furnishings,Deflecto Stackable Cube Organizer,82.45,5,0.5,-5.62
+CA-2021-100973,22/01/2021,29/01/2021,Standard Class,Michael Garcia,Consumer,United States,Charleston,South Carolina,South,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,14.99,1,0.5,-1.5
+CA-2023-100974,01/10/2023,07/10/2023,Standard Class,Dorothy Lewis,Corporate,United States,Dover,Delaware,East,Office Supplies,"Scissors, Rulers and Trimmers",Acme Preferred Stainless Steel Scissors,73.96,4,0.15,15.0
+CA-2021-100975,20/10/2021,24/10/2021,First Class,Daniel Allen,Consumer,United States,Salt Lake City,Utah,West,Furniture,Bookcases,Bush Business Furniture Enterprise 72H Bookcase,351.98,2,0.4,-0.0
+CA-2023-100976,19/10/2023,26/10/2023,Standard Class,Nancy Hall,Corporate,United States,Buffalo,New York,East,Furniture,Storage,Storex Plastic Stacking Shelf,174.95,5,0.0,27.5
+CA-2021-100977,12/04/2021,15/04/2021,First Class,Dorothy Baker,Home Office,United States,Portland,Oregon,West,Office Supplies,Labels,Avery Address Labels,85.44,6,0.1,20.25
+CA-2023-100978,06/02/2023,13/02/2023,Standard Class,Thomas King,Corporate,United States,Phoenix,Arizona,West,Furniture,Tables,Chromcraft Bull-Nose Round Table,247.49,1,0.5,7.0
+CA-2021-100979,17/06/2021,22/06/2021,Standard Class,Elizabeth Robinson,Corporate,United States,Kansas City,Kansas,Central,Office Supplies,Paper Clips,Acco Perma Stackable Plastic Paper Tray,13.59,1,0.3,1.2
+CA-2020-100980,03/10/2020,07/10/2020,Second Class,Sandra Green,Consumer,United States,Cincinnati,Ohio,Central,Technology,Storage,Seagate Backup Plus 2TB External HDD,55.99,1,0.6,-8.0
+CA-2021-100981,28/01/2021,03/02/2021,Standard Class,Patricia Allen,Consumer,United States,San Jose,California,West,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,45.99,1,0.0,3.9
+CA-2023-100982,19/11/2023,23/11/2023,Second Class,Jessica Anderson,Consumer,United States,Springfield,Massachusetts,East,Office Supplies,Binders,Avery Durable Binders,111.93,7,0.0,33.6
+CA-2021-100983,16/08/2021,20/08/2021,Second Class,Dorothy Lee,Consumer,United States,Ogden,Utah,West,Technology,Computers,HP Pavilion Desktop,2034.96,4,0.15,110.0
+CA-2021-100984,16/08/2021,21/08/2021,Standard Class,Linda Baker,Home Office,United States,Augusta,Maine,East,Technology,Accessories,Verbatim 97087 USB Flash Drive 16GB,14.99,1,0.0,3.0
+CA-2022-100985,07/10/2022,14/10/2022,Standard Class,William Clark,Corporate,United States,Springfield,Missouri,Central,Office Supplies,Art,Binney Smith Crayola Crayons,29.95,5,0.5,-3.0
+CA-2021-100986,23/07/2021,28/07/2021,Standard Class,Barbara Miller,Consumer,United States,Salt Lake City,Utah,West,Furniture,Chairs,Global Adaptabilities Collection Chair,360.98,2,0.1,27.3
+CA-2022-100987,20/07/2022,27/07/2022,Standard Class,Lisa Thomas,Consumer,United States,Sacramento,California,West,Furniture,Furnishings,Deflecto Stackable Cube Organizer,21.99,1,0.0,4.5
+CA-2023-100988,02/09/2023,07/09/2023,Standard Class,Lisa Carter,Consumer,United States,Milwaukee,Wisconsin,Central,Office Supplies,Fasteners,Staples 3 Ring Binder,15.28,2,0.3,1.35
+CA-2022-100989,25/12/2022,01/01/2023,Standard Class,Steven Jones,Corporate,United States,Rockville,Maryland,East,Technology,Copiers,Cisco TelePresence System EX90,14399.98,2,0.2,640.0
+CA-2023-100990,05/09/2023,10/09/2023,Standard Class,John Williams,Consumer,United States,Raleigh,North Carolina,East,Furniture,Tables,Hon 10500 Series L-Workstation,1799.98,2,0.0,-160.0
+CA-2023-100991,14/12/2023,20/12/2023,Standard Class,David Williams,Home Office,United States,New Orleans,Louisiana,South,Furniture,Storage,Eldon Fold N Roll Cart System,59.99,1,0.5,-2.38
+CA-2020-100992,04/10/2020,10/10/2020,Standard Class,Nancy Scott,Corporate,United States,Green Bay,Wisconsin,Central,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,427.47,3,0.5,-17.1
+CA-2023-100993,22/06/2023,27/06/2023,Standard Class,Kenneth Harris,Corporate,United States,Kansas City,Kansas,Central,Furniture,Chairs,Harbour Creations 67200 Series Stacking Chair,87.38,2,0.1,5.85
+CA-2022-100994,24/08/2022,24/08/2022,Same Day,Barbara Green,Consumer,United States,Biloxi,Mississippi,South,Furniture,Tables,Hon 10500 Series L-Workstation,1799.98,2,0.0,-160.0
+CA-2020-100995,12/08/2020,18/08/2020,Standard Class,David Carter,Consumer,United States,Colorado Springs,Colorado,West,Office Supplies,Paper,Avery Laser Labels,94.95,5,0.0,27.5
+CA-2021-100996,14/07/2021,19/07/2021,Standard Class,Ashley Torres,Consumer,United States,Denver,Colorado,West,Technology,Accessories,Kingston DataTraveler 32GB USB,12.34,1,0.1,1.95
+CA-2021-100997,26/04/2021,01/05/2021,Standard Class,Michael Garcia,Home Office,United States,Casper,Wyoming,West,Furniture,Chairs,Bretford CR4500 Meeting Room Chair,425.48,2,0.15,28.12
+CA-2020-100998,26/12/2020,29/12/2020,Second Class,William Robinson,Consumer,United States,Jacksonville,Florida,South,Technology,Machines,Fellowes Powershred 79Ci Paper Shredder,484.47,3,0.3,17.1
+CA-2021-100999,02/09/2021,08/09/2021,Standard Class,John Carter,Consumer,United States,San Jose,California,West,Furniture,Tables,Hon 10500 Series L-Workstation,3824.95,5,0.3,-100.0
+CA-2022-101000,10/05/2022,15/05/2022,Second Class,Sandra Baker,Consumer,United States,Augusta,Maine,East,Technology,Copiers,Canon imageCLASS MF743Cdw Color Laser,1299.98,2,0.0,260.0
